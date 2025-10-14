@@ -920,10 +920,6 @@ https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://fl7.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="it's anime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-tw4XKe6NIi5qjeRS6XPpv8g3hpnlSEMouw&s" group-title="Kids",It's Anime
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://d1isoijd9dbbf7.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 tvg-id="star movies hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjsFMscgSgmjyN5uJaHvoN8WRWdZo8oe1mtA&s" group-title="Movies",Star Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/1169.ts
@@ -939,3 +935,8 @@ http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/744.ts
 #EXTINF:-1 tvg-id="&prive hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png" group-title="Movies",&Prive HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/481.ts
+
+#EXTINF:-1 tvg-id="dazn fast+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmqVD4UqSWgGrP9JpNcTDZSBedADZ6FdJLg&s" group-title="Sports", DAZN Fast+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
