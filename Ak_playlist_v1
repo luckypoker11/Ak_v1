@@ -851,25 +851,33 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index.mpd
 
-#EXTINF:-1 tvg-id="tnt sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/2560px-TNT_Sports_%282023%29.svg.png" group-title="Sports",TNT Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5deb190b1dac28e46c0bdada7668b7de:ddd2b372702e42b0d2708a70b91dec8d
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/kav10mdj91/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1, tvg-logo="https://images.cdn.prd.api.discomax.com/C8sfp/4BWmNtOfO21ICavkg.jpeg" group-title="Sports" group-logo="https://eu1-prod-images.disco-api.com/2021/12/21/9a9ef4e9-5feb-47eb-8318-4f63efcf046e.png?bf=0&f=png&p=true&q=85&h=200", TNT Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports1
+https://mc-zlcfs7ps9x.bunny.run/channel/tntsports1/master.mpd
 
-#EXTINF:-1 tvg-id="tnt sports 2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Sports",TNT Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d9efa8287a52a2497a281f7a9012211:e4f832d372943014fe5c30928a90e547
-https://a205aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/irplqtcjlv/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1, tvg-logo="https://images.cdn.prd.api.discomax.com/RpJ0r/Dgqx8YbLOdTG7nojg.jpeg" group-title="Sports" group-logo="https://eu1-prod-images.disco-api.com/2021/12/21/9a9ef4e9-5feb-47eb-8318-4f63efcf046e.png?bf=0&f=png&p=true&q=85&h=200", TNT Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports2
+https://mc-zlcfs7ps9x.bunny.run/channel/tntsports2/master.mpd
 
-#EXTINF:-1 tvg-id="tnt sports 3" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="Sports",TNT Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08efc7fb107981608f7b64db5ea62469:3a6844bc9f0d9d9fd962639d7e4eb76a
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1, tvg-logo="https://images.cdn.prd.api.discomax.com/tSQZO/bVb6jjNdk4RHZKa4Q.jpeg" group-title="Sports" group-logo="https://eu1-prod-images.disco-api.com/2021/12/21/9a9ef4e9-5feb-47eb-8318-4f63efcf046e.png?bf=0&f=png&p=true&q=85&h=200", TNT Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports3
+https://mc-zlcfs7ps9x.bunny.run/channel/tntsports3/master.mpd
 
-#EXTINF:-1 tvg-id="tnt sports 4" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="Sports",TNT Sports 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ccdccf0818d3d9ff6c26076fc1153ac:f8d7fda7e3f11a29b346a37e98f749d4
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1, tvg-logo="https://images.cdn.prd.api.discomax.com/aosX2/IjJkqqzIF21ujBCNg.jpeg" group-title="Sports" group-logo="https://eu1-prod-images.disco-api.com/2021/12/21/9a9ef4e9-5feb-47eb-8318-4f63efcf046e.png?bf=0&f=png&p=true&q=85&h=200", TNT Sports 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports4
+https://mc-zlcfs7ps9x.bunny.run/channel/tntsports4/master.mpd
 
 #EXTINF:-1 tvg-id="uaap varsity channel" tvg-logo="https://i.imgur.com/POFK8tM.png" group-title="Sports",UAAP Varsity Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -938,3 +946,4 @@ https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="tennis channel" tvg-logo="https://copilot.microsoft.com/th/id/BCO.92a5bd3a-e0d7-44ce-984f-899093f8b6cd.png" group-title="Sports",Tennis Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://fl7.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+
