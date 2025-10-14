@@ -659,13 +659,13 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=aeced86dd6c5ecf4f39cd193109f39f7:afcb5b67f584f2eeb1783474644a9f8e
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_REALITY_HD)/manifest.mpd
 
-#EXTINF:-1 tvg-id="sony pix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaI9xALuh1AFMulMk4juwVYaWbsaLY-oUoVR31i-979ZaHZN4UeAeHUlU&amp;s=10" group-title="Movies",Sony Pix
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://51.15.7.9:3141/pix/index.m3u8
-
-#EXTINF:-1 tvg-id="sony pix hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2_X_Pk63igWNTLC6YroVvfvdMSdfBmA_g9g&s" group-title="Movies",Sony Pix HD
+#EXTINF:-1 tvg-id="sony pix hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrTaMj192bakLuEonF_ZKqLqZMoAsij2VMLw&s" group-title="Movies",Sony Pix HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 http://nayatv.ydns.eu/live/99BFB57C82171EE6A192B948981C70C9/3698.ts
+
+#EXTINF:-1 tvg-id="sony pix fhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2_X_Pk63igWNTLC6YroVvfvdMSdfBmA_g9g&s" group-title="Movies",Sony Pix FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/1062.ts
 
 #EXTINF:-1 tvg-id="sony channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Logosonychannellatam2023.png" group-title="Movies",Sony Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -681,6 +681,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/21ilsertww/
 #KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
 https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
 
+#EXTINF:-1 tvg-id="
 #EXTINF:-1 tvg-id="mtv live" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="Music",MTV Live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
@@ -851,35 +852,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index.mpd
 
-#EXTINF:-1, tvg-id="tnt sports 1" tvg-logo="https://images.cdn.prd.api.discomax.com/C8sfp/4BWmNtOfO21ICavkg.jpeg" group-title="Sports",TNT Sports 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports1
-https://mc-zlcfs7ps9x.bunny.run/channel/tntsports1/master.mpd
-
-#EXTINF:-1, tvg-id="tnt sports 2" tvg-logo="https://images.cdn.prd.api.discomax.com/RpJ0r/Dgqx8YbLOdTG7nojg.jpeg" group-title="Sports",TNT Sports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports2
-https://mc-zlcfs7ps9x.bunny.run/channel/tntsports2/master.mpd
-
-#EXTINF:-1, tvg-id="tnt sports 3" tvg-logo="https://images.cdn.prd.api.discomax.com/tSQZO/bVb6jjNdk4RHZKa4Q.jpeg" group-title="Sports",TNT Sports 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports3
-https://mc-zlcfs7ps9x.bunny.run/channel/tntsports3/master.mpd
-
-#EXTINF:-1, tvg-id="tnt sports 4" tvg-logo="https://images.cdn.prd.api.discomax.com/aosX2/IjJkqqzIF21ujBCNg.jpeg" group-title="Sports",TNT Sports 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
-https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports4
-https://mc-zlcfs7ps9x.bunny.run/channel/tntsports4/master.mpd
-
 #EXTINF:-1 tvg-id="uaap varsity channel" tvg-logo="https://i.imgur.com/POFK8tM.png" group-title="Sports",UAAP Varsity Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
@@ -948,3 +920,22 @@ https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://fl7.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
+#EXTINF:-1 tvg-id="it's anime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-tw4XKe6NIi5qjeRS6XPpv8g3hpnlSEMouw&s" group-title="Kids",It's Anime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://d1isoijd9dbbf7.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star movies hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjsFMscgSgmjyN5uJaHvoN8WRWdZo8oe1mtA&s" group-title="Movies",Star Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/1169.ts
+
+#EXTINF:-1 tvg-id="star movies select" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlQl45oBipRrR96uB5IjhFe2S-JPZlGtF9lw&s" group-title="Movies",Star Movies Select
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/745.ts
+
+#EXTINF:-1 tvg-id="&flix hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%26flix_HD_Leap_forth.svg/1024px-%26flix_HD_Leap_forth.svg.png" group-title="Movies",&Flix HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/744.ts
+
+#EXTINF:-1 tvg-id="&prive hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/%26priv%C3%A9_HD_with_tagline.svg/revision/latest?cb=20240418110423" group-title="Movies",&Prive HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/481.ts
