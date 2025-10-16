@@ -977,10 +977,6 @@ https://dash3.antik.sk/live/test_ocko_star/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://dash3.antik.sk/live/test_rebel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="world poker tour" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/World_Poker_Tour_Logo.png" group-title="Sports",World Poker Tour
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u
-
 #EXTINF:-1 tvg-id="today's k-pop" tvg-logo="https://stingray-epg.s3.us-east-1.amazonaws.com/IMAGE/317ADS/lg-direct/Channel_Logo_296x200.png" group-title="Music",Today's K-Pop
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://lotus.stingray.com/ads/ose-317ads-montreal/lgchannels/master.m3u8
@@ -989,10 +985,3 @@ https://lotus.stingray.com/ads/ose-317ads-montreal/lgchannels/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://909b88a1a7814326b58f45aa4514efdc.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-ca_NewKPop/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mtv biggest pop" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Music",MTV Biggest Pop
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8
-
-#EXTINF:-1 tvg-id="mtv" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Music",MTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8
