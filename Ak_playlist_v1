@@ -976,3 +976,8 @@ https://dash3.antik.sk/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 tvg-id="rebel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSWCr7_JR69td6biJ7-CJEI9QvMXr6NzXgFA&s" group-title="Music",Rebel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://dash3.antik.sk/live/test_rebel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sky sports" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png" group-title="Sports",Sky Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
