@@ -985,10 +985,14 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://lotus.stingray.com/ads/ose-317ads-montreal/lgchannels/master.m3u8
 
-#EXTINF:-1 tvg-id="k-popcorn" tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_236/lg_channels/img/channel_logo/default/channel_logo.png"group-title="Music",K-POPCORN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://ads.its-newid.net/api/manifest.m3u8
-
 #EXTINF:-1 tvg-id="new k-pop" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/617-LG-Logo-PNG-100x100_v6.png" group-title="Music",NEW K-POP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://909b88a1a7814326b58f45aa4514efdc.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-ca_NewKPop/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mtv biggest pop" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Music",MTV Biggest Pop
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8
+
+#EXTINF:-1 tvg-id="mtv" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Music",MTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8
