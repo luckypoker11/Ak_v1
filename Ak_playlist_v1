@@ -944,3 +944,20 @@ http://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 #EXTINF:-1 tvg-id="dazn ringside"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtnP_3_yvtz_0IuQcV2NYJyi0Tn3LxilvaTg&s"  group-title="Sports",DAZN Ringside
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+
+#EXTINF:-1 tvg-id="club mtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAmmvWJ_-Fbxi2wBGwkjPpz5q-8ZI6en9dEg&s" group-title="Music",Club MTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://dash3.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mtv 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-z7u8vGYXD7klIRHNX-EbAaZQQMZ6MihlhA&s" group-title="Music",MTV 80's
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://dash3.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="slager premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSQ_Ku_Zyzks-HDIcHvoKG47Eh_JbKdyn-2g&s" group-title="Music",Slager Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="360 tunebox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStrnRkK8Hy23Msm3hcXw6YgA69wwHTu-eiA&s" group-title="Music",360 Tunebox
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+
