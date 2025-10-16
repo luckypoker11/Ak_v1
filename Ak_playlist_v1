@@ -699,7 +699,7 @@ https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="iconcert" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDKOc7rNf7_PtlO3S_5Ck3W9dwMtEFNh-CZc1HRWE8rbp60U3rvw6kY8k&s=10" group-title="Music",IConcert
+#EXTINF:-1 tvg-id="iconcer" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDKOc7rNf7_PtlO3S_5Ck3W9dwMtEFNh-CZc1HRWE8rbp60U3rvw6kY8k&s=10" group-title="Music"iCONCERT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://dash3.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 
@@ -953,7 +953,7 @@ https://dash3.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://dash3.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="slager premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSQ_Ku_Zyzks-HDIcHvoKG47Eh_JbKdyn-2g&s" group-title="Music",Slager Premium
+#EXTINF:-1 tvg-id="slager premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVIT9J7MXc33acNTJnuXPal7KnhqAOuoeKNQ&s" group-title="Music",Slager Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
 
@@ -961,3 +961,18 @@ https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ocko black" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSeoKu_HukhkhI0mlze3Nbw7tc6U6CBqqX7Q&s" group-title="Music",OCKO BLACK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://dash3.antik.sk/live/test_ocko_black/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ocko express" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/ocko-expres.png" group-title="Music",OCKO Express
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://dash3.antik.sk/live/test_ocko_expres/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ocko star" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/ocko-star.png" group-title="Music",OCKO STAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://dash3.antik.sk/live/test_ocko_star/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rebel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSWCr7_JR69td6biJ7-CJEI9QvMXr6NzXgFA&s" group-title="Music",Rebel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://dash3.antik.sk/live/test_rebel/playlist.m3u8
