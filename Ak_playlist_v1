@@ -663,10 +663,6 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 http://nayatv.ydns.eu/live/99BFB57C82171EE6A192B948981C70C9/3698.ts
 
-#EXTINF:-1 tvg-id="sony pix fhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2_X_Pk63igWNTLC6YroVvfvdMSdfBmA_g9g&s" group-title="Movies",Sony Pix FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/1062.ts
-
 #EXTINF:-1 tvg-id="sony channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Logosonychannellatam2023.png" group-title="Movies",Sony Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://fl7.moveonjoy.com/Sony_Movie_Channel/index.m3u8
@@ -928,14 +924,9 @@ http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/1169.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/745.ts
 
-#EXTINF:-1 tvg-id="&flix hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/%26flix_HD_Leap_forth.svg/1024px-%26flix_HD_Leap_forth.svg.png" group-title="Movies",&Flix HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/744.ts
-
 #EXTINF:-1 tvg-id="&prive hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png" group-title="Movies",&Prive HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/481.ts
-
+http://89.187.189.98/ANDPRIVEHD/index.m3u8
 #EXTINF:-1 tvg-id="dazn fast+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRmqVD4UqSWgGrP9JpNcTDZSBedADZ6FdJLg&s" group-title="Sports", DAZN Fast+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
