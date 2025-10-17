@@ -973,3 +973,37 @@ https://909b88a1a7814326b58f45aa4514efdc.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="star cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPxhtet0wzqlBZC04wDrtZaFB9qyqWhQFrIQ&s" group-title="Movies",Star Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=6743dbc3fb7aa20b270802ff&AV_CHANNEL_NAME=Starmedia&AV_CONTENT_LANGUAGE=en&AV_CONTENT_RATING=TV-PG&AV_CONTENT_GENERE=907&cb=1760690422298&AV_APPPKGNAME=com.seraphic.metaxplay&AV_APPNAME=MetaX
+
+#EXTINF:-1 tvg-id="river monsters" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1FEPARiy7ZXa5UlXKylXOKcs9-JiOY1CNg&s" group-title="Entertainment",River Monsters
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="unsolved mysteries" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz3UJOU14OTsdkTLiWgrjfyS7Are0EANwcIw&s group-title="Entertainment",Unsolved Mysteries
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258000/hls/master.m3u8?ads.xumo_channelId=88258000
+
+#EXTINF:-1 tvg-id="pointless" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQEP_IbsnsAAdjHhkg5SK12gPTLuDxMPoX4Q&s" group-title="Entertainment",Pointless
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://amg00627-amg00627c34-samsung-ph-5313.playouts.now.amagi.tv/playlist/amg00627-banijayfast-pointless-samsungph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="history hit" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTROz5uUWRfzsNx9I4DhwEucq7QMzMjEqGqOA&s" group-title="Entertainment",History Hit
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="real wild" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShpy0B8pduo8LTzBKdoM_PcMburEdl8Itnvw&s" group-title="Entertainment",Real Wild
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://amg00426-lds-amg00426c1-samsung-ph-4626.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="greatest hit" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWWMkhhlLqCUvM2hJRa82jOXKrdtEICVTcA&s" group-title="Music",Greatest Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="classic rock" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVgR6zpJq8-sgrC2E6MZeaHlO5iamiah8Ag&s" group-title="Music",Classic Rock
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="hit list" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLlnkftpbLS3UtxTQAxxq8oUX493aHDrNhdA&s" group-title="Music",Hit List
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://d1si3n1st4nkgb.cloudfront.net/10000/88258007/hls/master.m3u8?ads.xumo_channelId=88258007
+
+
