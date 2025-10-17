@@ -1034,7 +1034,27 @@ https://jmp2.uk/stvp-USBD12000183X
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-US4600006R8
 
+#EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20250623T224708SQUARE.png" group-title="Sports",FIFA+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBD12000255B
 
+#EXTINF:-1 tvg-id="Game & Fish TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4400001PL_20250318T021030SQUARE.png" group-title="Sports",Game & Fish TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-US4400001PL
 
+#EXTINF:-1 tvg-id="DraftKings Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700013BW_20250401T004829SQUARE.png" group-title="Sports",DraftKings Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBD700013BW
 
+#EXTINF:-1 tvg-id="MeatEater" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US21000043S_20250812T003509SQUARE.png" group-title="Sports",MeatEater
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-US21000043S
+
+#EXTINF:-1 tvg-id="One Championship TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600006VY_20241031T150124SQUARE.png" group-title="Sports",One Championship TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-US2600006VY
+
+#EXTINF:-1 tvg-id="TNA Wrestling" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000001XP_20250428T223407SQUARE.png" group-title="Sports",TNA Wrestling
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBB1000001XP
 
