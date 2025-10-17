@@ -1014,4 +1014,27 @@ https://jmp2.uk/stvp-US400002PS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-USAJ3504502A
 
+#EXTINF:-1 tvg-id="antiques roadshow" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600018CF_20240520T221408SQUARE.png" group-title="Entertainment",Antiques Roadshow
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBC600018CF
+
+#EXTINF:-1 tvg-id="fanduel tv extra" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400012RF_20250318T021027SQUARE.png" group-title="Sports".FanDuel TV Extra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-US1400012RF
+
+#EXTINF:-1 tvg-id="bein sports xtra" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300001Q7_20241105T024240SQUARE.png" group-title="Sports",beIN SPORTS XTRA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USAJ4300001Q7
+
+#EXTINF:-1 tvg-id="billiard tv" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000183X_20250428T223415SQUARE.png" group-title="Sports",Billiard TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBD12000183X
+
+#EXTINF:-1 tvg-id="Combate Global MMA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600006R8_20250421T234910SQUARE.png" group-title="Sports",Combate Global MMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-US4600006R8
+
+
+
+
 
