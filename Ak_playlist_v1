@@ -970,3 +970,6 @@ https://lotus.stingray.com/ads/ose-317ads-montreal/lgchannels/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://909b88a1a7814326b58f45aa4514efdc.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-ca_NewKPop/playlist.m3u8
 
+#EXTINF:-1 tvg-id="star cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnNw7r2U-tWb_kgN3-2pTq7x8NIyEtjyMew&s" group-title="Movies",Star Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=6743dbc3fb7aa20b270802ff&AV_CHANNEL_NAME=Starmedia&AV_CONTENT_LANGUAGE=en&AV_CONTENT_RATING=TV-PG&AV_CONTENT_GENERE=907&cb=1760690422298&AV_APPPKGNAME=com.seraphic.metaxplay&AV_APPNAME=MetaX
