@@ -1006,10 +1006,6 @@ https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://d1si3n1st4nkgb.cloudfront.net/10000/88258007/hls/master.m3u8?ads.xumo_channelId=88258007
 
-#EXTINF:-1 tvg-id="animation+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20250616T221707SQUARE.png" group-title="Kids",Animation+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://jmp2.uk/stvp-US400002PS
-
 #EXTINF:-1 tvg-id="anime all day" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504502A_20250701T224520SQUARE.png" group-title="Kids",Anime All day
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-USAJ3504502A
@@ -1081,3 +1077,31 @@ https://jmp2.uk/stvp-US4600008JA
 #EXTINF:-1 tvg-id="XITE Rock x Metal" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="Music",XITE Rock x Metal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-USBB2300004KV
+
+#EXTINF:-1 tvg-id="The Walking Dead Universe" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200004NS_20250325T015315SQUARE.png" group-title="Entertainment",The Walking Dead Universe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBD1200004NS
+
+#EXTINF:-1 tvg-id="Nick Pluto TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png" group-title="Kids",Nick Pluto TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBA3000158L
+
+#EXTINF:-1 tvg-id="The LEGO Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20241210T013828SQUARE.png" group-title="Kids",The LEGO Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBA2300001S8
+
+#EXTINF:-1 tvg-id="Pawn Stars" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300003S3_20250520T211345SQUARE.png" group-title="Entertainment",Pawn Stars
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-US300003S3
+
+#EXTINF:-1 tvg-id="Forged In Fire" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20250623T224710SQUARE.png" group-title="Entertainment",Forged In Fire
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBD2700014QW
+
+#EXTINF:-1 tvg-id="Universe: Mysteries Solved" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" group-title="Entertainment",Universe: Mysteries Solved
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-US900001CX
+
+#EXTINF:-1 tvg-id="WildEarth" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3800007CR_20250121T101229SQUARE.png" group-title="Entertainment",WildEarth
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-US3800007CR
