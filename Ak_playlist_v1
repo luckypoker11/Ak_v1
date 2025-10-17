@@ -1026,10 +1026,6 @@ https://jmp2.uk/stvp-US1400012RF
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-USAJ4300001Q7
 
-#EXTINF:-1 tvg-id="billiard tv" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000183X_20250428T223415SQUARE.png" group-title="Sports",Billiard TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://jmp2.uk/stvp-USBD12000183X
-
 #EXTINF:-1 tvg-id="Combate Global MMA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600006R8_20250421T234910SQUARE.png" group-title="Sports",Combate Global MMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-US4600006R8
@@ -1038,23 +1034,50 @@ https://jmp2.uk/stvp-US4600006R8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-USBD12000255B
 
-#EXTINF:-1 tvg-id="Game & Fish TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4400001PL_20250318T021030SQUARE.png" group-title="Sports",Game & Fish TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://jmp2.uk/stvp-US4400001PL
-
 #EXTINF:-1 tvg-id="DraftKings Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700013BW_20250401T004829SQUARE.png" group-title="Sports",DraftKings Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-USBD700013BW
 
-#EXTINF:-1 tvg-id="MeatEater" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US21000043S_20250812T003509SQUARE.png" group-title="Sports",MeatEater
+#EXTINF:-1 tvg-id="K-POP by CJ ENM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="Music",K-POP by CJ ENM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://jmp2.uk/stvp-US21000043S
+https://jmp2.uk/stvp-US39000038W
 
-#EXTINF:-1 tvg-id="One Championship TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600006VY_20241031T150124SQUARE.png" group-title="Sports",One Championship TV
+#EXTINF:-1 tvg-id="K-Stories by CJ ENM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900001P9_20241008T212621SQUARE.png" group-title="Entertainment",K-Stories by CJ ENM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://jmp2.uk/stvp-US2600006VY
+https://jmp2.uk/stvp-USBB2900001P9
 
-#EXTINF:-1 tvg-id="TNA Wrestling" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000001XP_20250428T223407SQUARE.png" group-title="Sports",TNA Wrestling
+#EXTINF:-1 tvg-id="XITE 90s Throwback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20250421T234926SQUARE.png" group-title="Music",XITE 90s Throwback
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://jmp2.uk/stvp-USBB1000001XP
+https://jmp2.uk/stvp-USBB3200007AK
 
+#EXTINF:-1 tvg-id="XITE Celebrates" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20250421T234928SQUARE.png" group-title="Music",XITE Celebrates
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBD350003932
+
+#EXTINF:-1 tvg-id="XITE Classic Country" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png" group-title="Music",XITE Classic Country
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBD3300011UT
+
+#EXTINF:-1 tvg-id="XITE Country Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240716T002639SQUARE.png" group-title="Music",XITE Country Today
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBD3300006O3
+
+#EXTINF:-1 tvg-id="XITE Hits" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20250421T234930SQUARE.png" group-title="Music",XITE Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBD3300004RH
+
+#EXTINF:-1 tvg-id="XITE Just Chill" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png" group-title="Music",XITE Just Chill
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBB2300003JZ
+
+#EXTINF:-1 tvg-id="XITE R&B Classic Jams" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20240716T002648SQUARE.png" group-title="Music",XITE R&B Classic Jams
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBD330000948
+
+#EXTINF:-1 tvg-id="XITE Reggae Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600008JA_20250204T014325SQUARE.png" group-title="Music",XITE Reggae Vibes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-US4600008JA
+
+#EXTINF:-1 tvg-id="XITE Rock x Metal" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="Music",XITE Rock x Metal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://jmp2.uk/stvp-USBB2300004KV
