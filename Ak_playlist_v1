@@ -251,12 +251,10 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/AniPlus/index.mpd
 
-
 #EXTINF:-1 tvg-id="dazn unbeaten" tvg-logo="https://inverleigh.com/wp-content/uploads/2020/07/unbeaten_full_logo_white.png"  group-title="Sports",DAZN Unbeaten
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-dash-dazn/32671e52-5768-4cb1-8e90-659445611d00/stream.mpd
-
 
 #EXTINF:-1 tvg-id="cartoon network" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="Kids",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -365,11 +363,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="da vinci" tvg-logo="https://images.indihometv.com/assets/88_DAVINCI_2025_03_17_15_00_06.png" group-title="Lifestyle",Da Vinci
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
-
 #EXTINF:-1 tvg-id="discovery asia" tvg-logo="https://images.indihometv.com/assets/88_DISCOVERYASIA_2025_03_17_15_31_07.png" group-title="Lifestyle",Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
@@ -377,8 +370,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 #EXTINF:-1 tvg-id="national geographic wild" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJBoAr8OzWfNh-DCwzhMHQFMM1Hrs0Fexjzg&amp;s" group-title="Lifestyle",National Geographic Wild
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://fl7.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-
-#EXTM3U
 
 #EXTINF:-1 tvg-id="action hollywood movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1zW8RLLNCQm6UHcIIJZlscOB5vhs7BF2I7SfTthYGv3LtHeRSut2-Ag&amp;s=10" group-title="Movies",Action Hollywood Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -683,7 +674,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/21ilsertww/
 #KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
 https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
 
-#EXTINF:-1 tvg-id="
 #EXTINF:-1 tvg-id="mtv live" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="Music",MTV Live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
@@ -1030,10 +1020,6 @@ https://jmp2.uk/stvp-US4600006R8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-USBD12000255B
 
-#EXTINF:-1 tvg-id="DraftKings Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700013BW_20250401T004829SQUARE.png" group-title="Sports",DraftKings Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://jmp2.uk/stvp-USBD700013BW
-
 #EXTINF:-1 tvg-id="K-POP by CJ ENM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="Music",K-POP by CJ ENM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-US39000038W
@@ -1106,7 +1092,38 @@ https://jmp2.uk/stvp-US900001CX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-US3800007CR
 
-#EXTINF:-1 tvg-id="WorldPokerTour" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/World_Poker_Tour_Logo.png" group-title="Sports",WorldPokerTour
+#EXTINF:-1 tvg-id="WorldPokerTour" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/World_Poker_Tour_Logo.png" group-title="Sports",World Poker Tour
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
 
+#EXTINF:-1 tvg-id="Billiard TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0b4814b9a5e53029e2b9aba64ddc1df0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1755563498113_BilliardTV_Logo_HUDLogo.png" group-title="Sports",Billiard TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://aka-live491.delivery.roku.com/7bdb9bb8-6f3b-42c3-9ea7-44ec93c849cd/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-id="American Ninja Warrior" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/eec9d131b4095083a23c485d804c8b2d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1713548868549_ANW_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku_PNG.png" group-title="Entertainment",American Ninja Warrior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://aka-live491.delivery.roku.com/42217682-2132-4be0-a4de-11994eea9d74/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-id="Crunchyroll" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJyvBogK8_WGEsHammfstExKgA9ow-epf_1Q&s" group-title="Kids",Crunchyroll
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://aka-live491.delivery.roku.com/cdd53068-81e9-4898-999d-7f4f6d0b28ad/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-id="Vevo 2K" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/94759dbd58a65682bcc573932f725f46/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113375186_Info_HUD_Logo_260X147_center_%252819%2529.png" group-title="Music",Vevo 2K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://aka-live491.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-id="TikTok Radio" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8e04e4c0e2cd5fe49b087a6ce5fd0d91/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1719497617582_11110_SM_TikTokRadio_Logo_260x147_V02.png" group-title="Music",TikTok Radio
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://aka-live491.delivery.roku.com/466146ab-c01d-4959-82dd-7978f7ceada7/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-id="BABY SHARK TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/40d73ba5be775428a377908b02033b4c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1700073147593_Roku_BABY_SHARK_TV_Image_HUD_2_260x147.png" group-title="Kids",BABY SHARK TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://aka-live491.delivery.roku.com/3d5951d2-63f3-45bd-9370-50f524b2ae72/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-id="Hell's Kitchen | Kitchen Nightmares" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b8c4f2efe56a512890042011e5cc0884/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453935313_FilmRise-Cooking_260x147_copy.png" group-title="Entertainment",Cooking",Hell's Kitchen | Kitchen Nightmares
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://aka-live491.delivery.roku.com/d49b042a-efc1-443b-94cc-94ad73e32ca8/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-id="Storage Wars by A&E" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/091bf303c7fd2bc2ec6683b1dbbadae1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746034081194_Storage_Wars_HUD_logo_260x147_center_aligned.png" group-title="Entertainment",Storage Wars by A&E
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://aka-live491.delivery.roku.com/faabf0d8-4315-4386-bf21-c778c681083d/t2-origin/out/v1/live.m3u8
