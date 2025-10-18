@@ -1105,3 +1105,8 @@ https://jmp2.uk/stvp-US900001CX
 #EXTINF:-1 tvg-id="WildEarth" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3800007CR_20250121T101229SQUARE.png" group-title="Entertainment",WildEarth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-US3800007CR
+
+#EXTINF:-1 tvg-id="WorldPokerTour" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/World_Poker_Tour_Logo.png" group-title="Sports",WorldPokerTour
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
+
