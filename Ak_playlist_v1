@@ -1007,3 +1007,8 @@ https://aka-live491.delivery.roku.com/d49b042a-efc1-443b-94cc-94ad73e32ca8/t2-or
 #EXTINF:-1 tvg-id="Storage Wars by A&E" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/091bf303c7fd2bc2ec6683b1dbbadae1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746034081194_Storage_Wars_HUD_logo_260x147_center_aligned.png" group-title="Entertainment",Storage Wars by A&E
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://aka-live491.delivery.roku.com/faabf0d8-4315-4386-bf21-c778c681083d/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPdC9fx-iTn1uyowvSEaj8t2lTIr_pUKFTqw&s" group-title="Educational",Discovery Science
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
