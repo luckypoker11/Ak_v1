@@ -1175,8 +1175,8 @@ https://tiger-hub.vercel.app/kids_Zone/Oggy&cockroach/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="cartoon box" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7nQqG4sMGhSvFcEm-ZfJ91IbABsj61pVyow&s" group-title="Entertainment",Cartoon Box
 https://tiger-hub.vercel.app/kids_Zone/Cartoon-box/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Angry Birds"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR02bkpjcFNvIVqboWay6hZzz9aeL92G2IYTQ&s" group-title="Kids",Angry Birds
-https://tiger-hub.vercel.app/kids_Zone/Angry-birds--Blue/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Spiderman" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyQ5u6NpDXMM74zHIQlGOpWR2mXyvDioilQg&s" group-title="Kids",Spiderman
+https://tiger-hub.vercel.app/kids_Zone/Spiderman-kids/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Angry Birds blue" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvIh54aSaX2_CxTCWhktd3Mn0ToT_S6LoE7Q&s" group-title="Kids",Angry Birds Blue
-https://tiger-hub.vercel.app/kids_Zone/Spiderman-kids/tracks-v1a1/mono.ts.m3u8
+https://tiger-hub.vercel.app/kids_Zone/Angry-birds--Blue/tracks-v1a1/mono.ts.m3u8
