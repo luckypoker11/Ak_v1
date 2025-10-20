@@ -1172,7 +1172,7 @@ https://tiger-hub.vercel.app/kids_Zone/Larva/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Oggy&the cockroach" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0gNIDdudEUiYVYpbcYqWLgt_d-0kXBJfTQ&s" group-title="Kids",Oggy and the Cockroaches
 https://tiger-hub.vercel.app/kids_Zone/Oggy&cockroach/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="cartoon box" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebaBBWhEvDfUUeFq9KZk66PKBnqUPXLjDww&s" group-title="Entertainment",Cartoon Box
+#EXTINF:-1 tvg-id="cartoon box" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7nQqG4sMGhSvFcEm-ZfJ91IbABsj61pVyow&s" group-title="Entertainment",Cartoon Box
 https://tiger-hub.vercel.app/kids_Zone/Cartoon-box/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Angry Birds"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR02bkpjcFNvIVqboWay6hZzz9aeL92G2IYTQ&s" group-title="Kids",Angry Birds
