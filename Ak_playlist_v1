@@ -1159,3 +1159,24 @@ http://161.49.17.2:6610/001/2/ch00000090990000001081/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
+
+#EXTINF:-1 tvg-id="WorldPokerTour.(Pluto TV) tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/World_Poker_Tour_Logo.png" group-title="Sports",World Poker Tour (Pluto TV)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21a974-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97bdb4b6-f530-4173-966d-19421ac303a0
+
+#EXTINF:-1 tvg-id="tom&jerry" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t4fCjANSMhU6BEXJXCCU9okhkGUWm9B-Pg&s" group-title="Kids",Tom & Jerry
+https://tiger-hub.vercel.app/kids_Zone/Tom&Jerry/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="larva" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjh9put-aWwIGzwmXA_YpUkv3gZVICb53uEA&s" group-title="Kids",Larva
+https://tiger-hub.vercel.app/kids_Zone/Larva/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Oggy&the cockroach" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0gNIDdudEUiYVYpbcYqWLgt_d-0kXBJfTQ&s" group-title="Kids",Oggy and the Cockroaches
+https://tiger-hub.vercel.app/kids_Zone/Oggy&cockroach/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="cartoon box" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebaBBWhEvDfUUeFq9KZk66PKBnqUPXLjDww&s" group-title="Entertainment",Cartoon Box
+https://tiger-hub.vercel.app/kids_Zone/Cartoon-box/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Angry Birds"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR02bkpjcFNvIVqboWay6hZzz9aeL92G2IYTQ&s" group-title="Kids",Angry Birds
+https://tiger-hub.vercel.app/kids_Zone/Angry-birds--Blue/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Angry Birds blue" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvIh54aSaX2_CxTCWhktd3Mn0ToT_S6LoE7Q&s" group-title="Kids",Angry Birds Blue
+https://tiger-hub.vercel.app/kids_Zone/Spiderman-kids/tracks-v1a1/mono.ts.m3u8
