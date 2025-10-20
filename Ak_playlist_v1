@@ -1013,6 +1013,5 @@ https://aka-live491.delivery.roku.com/faabf0d8-4315-4386-bf21-c778c681083d/t2-or
 #KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="gtv hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS549MPNYCGnDco_pVstesQZXUV1gcaAbMU1A&s" group-title="Entertainment",GTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://wag.ika.lat/stream/872206966?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="mtv live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png" group-title="Music",MTV LIVE
+https://fl7.moveonjoy.com/MTV_2/index.m3u8
