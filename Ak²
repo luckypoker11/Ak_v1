@@ -900,10 +900,6 @@ https://jmp2.uk/stvp-USAJ4300001Q7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-US4600006R8
 
-#EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20250623T224708SQUARE.png" group-title="Sports",FIFA+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://jmp2.uk/stvp-USBD12000255B
-
 #EXTINF:-1 tvg-id="K-POP by CJ ENM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="Music",K-POP by CJ ENM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-US39000038W
@@ -1168,9 +1164,6 @@ https://tiger-hub.vercel.app/kids_Zone/Tom&Jerry/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="larva" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjh9put-aWwIGzwmXA_YpUkv3gZVICb53uEA&s" group-title="Kids",Larva
 https://tiger-hub.vercel.app/kids_Zone/Larva/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="Oggy&the cockroach" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0gNIDdudEUiYVYpbcYqWLgt_d-0kXBJfTQ&s" group-title="Kids",Oggy and the Cockroaches
-https://tiger-hub.vercel.app/kids_Zone/Oggy&cockroach/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="cartoon box" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7nQqG4sMGhSvFcEm-ZfJ91IbABsj61pVyow&s" group-title="Entertainment",Cartoon Box
 https://tiger-hub.vercel.app/kids_Zone/Cartoon-box/tracks-v1a1/mono.ts.m3u8
