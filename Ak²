@@ -1124,7 +1124,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001254/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001158/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3YvDUjL.png" group-title="Entertainment", Tap Edge
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3YvDUjL.png" group-title="Sports",Tap Edge
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001150/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -1174,7 +1174,7 @@ https://tiger-hub.vercel.app/kids_Zone/Spiderman-kids/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Angry Birds blue" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvIh54aSaX2_CxTCWhktd3Mn0ToT_S6LoE7Q&s" group-title="Kids",Angry Birds Blue
 https://tiger-hub.vercel.app/kids_Zone/Angry-birds--Blue/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="tap edge hd" tvg-logo="https://i.imgur.com/3YvDUjL.png" group-title="Entertainment", Tap Edge HD
+#EXTINF:-1 tvg-id="tap sports hd" tvg-logo="https://i.imgur.com/HWbSPI9.png" group-title="Entertainment",Tap Sports HD
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
