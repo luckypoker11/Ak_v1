@@ -437,7 +437,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/i
 #KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/index.mpd
 
-#EXTINF:-1 tvg-id="travel channel" tvg-logo="https://i.imgur.com/ZCYeUV2.png" group-title="Movies",Travel Channel
+#EXTINF:-1 tvg-id="travel channel" tvg-logo="https://i.imgur.com/ZCYeUV2.png" group-title="Lifestyle",Travel Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd
@@ -1173,3 +1173,10 @@ https://tiger-hub.vercel.app/kids_Zone/Spiderman-kids/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Angry Birds blue" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvIh54aSaX2_CxTCWhktd3Mn0ToT_S6LoE7Q&s" group-title="Kids",Angry Birds Blue
 https://tiger-hub.vercel.app/kids_Zone/Angry-birds--Blue/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="tap edge hd" tvg-logo="https://i.imgur.com/3YvDUjL.png" group-title="Entertainment", Tap Edge HD
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/wrestling/index.m3u8
+
