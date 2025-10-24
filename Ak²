@@ -1140,7 +1140,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 #EXTINF:-1 tvg-id="Mr. Bean" tvg-logo="https://ts3.mm.bing.net/th?id=OIP.uWqJUp2CjHm-NxzU4MMEJQHaF6&pid=15.1" group-title="Kids",Mr. Bean
 https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mtv music by pluto tv" tvg-logo="https://copilot.microsoft.com/th/id/BCO.bd32f912-a536-4fe6-b054-1d66ba63e43f.png" group-title="Music",MTV by Pluto TV
+#EXTINF:-1 tvg-id="mtv music by pluto tv" tvg-logo="https://copilot.microsoft.com/th/id/BCO.bd32f912-a536-4fe6-b054-1d66ba63e43f.png" group-title="Music",MTV (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc8-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f02a8ef1-7c07-44f9-9197-c9b197dbc277
 
 #EXTINF:-1 tvg-id="naruto" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000014IC_20250707T234422SQUARE.png" group-title="Anime",Naruto
