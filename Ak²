@@ -215,20 +215,20 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index
 #KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_nickelodeon/default/index.mpd
 
-#EXTINF:-1 tvg-id="ani one" tvg-logo="https://yt3.googleusercontent.com/xbnpAZWOUZ1ZN0OTkg8w8GbFALlRNzGaBvN1gADyBh6KeOfqLR4SMmGAsZWs7hQkBzzeP5ZHgg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Kids",Ani One
+#EXTINF:-1 tvg-id="ani one" tvg-logo="https://yt3.googleusercontent.com/xbnpAZWOUZ1ZN0OTkg8w8GbFALlRNzGaBvN1gADyBh6KeOfqLR4SMmGAsZWs7hQkBzzeP5ZHgg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Anime",Ani One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
 
-#EXTINF:-1 tvg-id="animax" tvg-logo="https://i.imgur.com/5gJTEHT.png" group-title="Kids",Animax
+#EXTINF:-1 tvg-id="animax" tvg-logo="https://i.imgur.com/5gJTEHT.png" group-title="Anime",Animax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
 
-#EXTINF:-1 tvg-id="aniplus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHpjU96npNgDa32693iLt8KDDmAzstSwJg5g&amp;s" group-title="Kids",Aniplus
+#EXTINF:-1 tvg-id="aniplus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHpjU96npNgDa32693iLt8KDDmAzstSwJg5g&amp;s" group-title="Anime",Aniplus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="aniplus hd" tvg-logo="https://data.phcorner.org/2025/10/12120987_shop_aniplus.png" group-title="Kids",Aniplus HD
+#EXTINF:-1 tvg-id="aniplus hd" tvg-logo="https://data.phcorner.org/2025/10/12120987_shop_aniplus.png" group-title="Anime",Aniplus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/AniPlus/index.mpd
@@ -320,12 +320,12 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 
-#EXTINF:-1 tvg-id="curiosity channel (indihometv)" tvg-logo="https://images.indihometv.com/assets/88_CURIOSITY_2025_03_17_15_29_20.png" group-title="Lifestyle",Curiosity Channel (IndiHomeTV)
+#EXTINF:-1 tvg-id="curiosity channel (indihometv)" tvg-logo="https://images.indihometv.com/assets/88_CURIOSITY_2025_03_17_15_29_20.png" group-title="Educational",Curiosity Channel (IndiHomeTV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
-#EXTINF:-1 tvg-id="curiosity now" tvg-logo="https://press.curiositystream.com/wp-content/uploads/2022/06/CuriosityNow_Wordmark_Stack_1C_Black.png" group-title="Lifestyle",Curiosity Now
+#EXTINF:-1 tvg-id="curiosity now" tvg-logo="https://press.curiositystream.com/wp-content/uploads/2022/06/CuriosityNow_Wordmark_Stack_1C_Black.png" group-title="Educational",Curiosity Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
 
@@ -456,10 +456,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cinemax action" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/500px-Cinemax_Action_Logo.png" group-title="Movies",Cinemax Action
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://mains.services/live/bshorty/Zv5le07a0J/efbb9e32-4b62-4a6f-b72e-4d8241a7d4db.ts
-
 #EXTINF:-1 tvg-id="cinemax hd east" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_EAST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="Movies",Cinemax HD East
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
@@ -493,7 +489,7 @@ https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
 
-#EXTINF:-1 tvg-id="rakuten tv reality" tvg-logo="https://copilot.microsoft.com/th/id/BCO.556a121a-15f0-4a4a-a250-4af992373ee1.png" group-title="Movies",Rakuten TV Reality
+#EXTINF:-1 tvg-id="rakuten tv reality" tvg-logo="https://copilot.microsoft.com/th/id/BCO.556a121a-15f0-4a4a-a250-4af992373ee1.png" group-title="Lifestyle",Rakuten TV Reality
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
 
@@ -512,42 +508,6 @@ https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 #EXTINF:-1 tvg-id="rakuten tv trailers" tvg-logo="https://copilot.microsoft.com/th/id/BCO.eb02b1c1-1bda-44dd-9660-ac3e90e22e32.png" group-title="Movies",Rakuten TV Trailers
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://26b638b2564d41f8b6a36b6dd59e8d4f.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4313/master.m3u8
-
-#EXTINF:-1 tvg-id="sky cinema action" tvg-logo="http://145.239.7.84/logos/SCAction.png" group-title="Movies",Sky Cinema Action
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://mains.services/live/bshorty/Zv5le07a0J/e2d27348-6402-4da0-841f-44ac41f5d748.ts
-
-#EXTINF:-1 tvg-id="sky cinema animation" tvg-logo="http://145.239.7.84/logos/SCAnimation.png" group-title="Movies",Sky Cinema Animation
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://mains.services/live/bshorty/Zv5le07a0J/be8ae3e0-236e-4e31-9e1a-21faa92ad120.ts
-
-#EXTINF:-1 tvg-id="sky cinema comedy" tvg-logo="http://145.239.7.84/logos/SCComedy.png" group-title="Movies",Sky Cinema Comedy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://mains.services/live/bshorty/Zv5le07a0J/9f764494-a742-45e1-a857-af6515cd098f.ts
-
-#EXTINF:-1 tvg-id="sky cinema drama" tvg-logo="http://145.239.7.84/logos/SCDrama.png" group-title="Movies",Sky Cinema Drama
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://mains.services/live/bshorty/Zv5le07a0J/818d9064-5aed-4847-9630-bb0cdf6677f0.ts
-
-#EXTINF:-1 tvg-id="sky cinema family" tvg-logo="http://145.239.7.84/logos/SCFamily.png" group-title="Movies",Sky Cinema Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://mains.services/live/bshorty/Zv5le07a0J/aee69300-87dc-4ecb-990e-a0b48bc37f24.ts
-
-#EXTINF:-1 tvg-id="sky cinema greats" tvg-logo="http://145.239.7.84/logos/SCGreats.png" group-title="Movies",Sky Cinema Greats
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://mains.services/live/bshorty/Zv5le07a0J/55755742-d541-45c1-ae7d-793dc1b71a69.ts
-
-#EXTINF:-1 tvg-id="sky cinema hits" tvg-logo="http://145.239.7.84/logos/SCHits.png" group-title="Movies",Sky Cinema Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://mains.services/live/bshorty/Zv5le07a0J/23d28a3d-1b05-43d4-b4ef-9414c6d7335e.ts
-
-#EXTINF:-1 tvg-id="sky cinema premiere" tvg-logo="http://145.239.7.84/logos/SCPremiere.png" group-title="Movies",Sky Cinema Premiere
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://mains.services/live/bshorty/Zv5le07a0J/50325fb3-2b41-44f1-903f-9baf15cad14d.ts
-
-#EXTINF:-1 tvg-id="sky cinema thriller" tvg-logo="http://145.239.7.84/logos/SCThriller.png" group-title="Movies",Sky Cinema Thriller
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://mains.services/live/bshorty/Zv5le07a0J/8531cfd2-8b1a-4e24-bb6d-9b1200e52d78.ts
 
 #EXTINF:-1 tvg-id="studio universal" tvg-logo="https://images.indihometv.com/assets/88_STUDIOUNIVERSAL_2025_03_17_14_57_23.png" group-title="Movies",Studio Universal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -764,11 +724,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="w-sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-title="Sports",W-Sport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
-
 #EXTINF:-1 tvg-id="wwe network" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png" group-title="Sports",WWE Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
@@ -790,10 +745,6 @@ https://live-atv-cdn.izzigo.tv/2/out/u/dash/NBAHD/default.mpd
 #EXTINF:-1 tvg-id="redbull" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX0QV-kedGK_IJwm3kuQeLu5khlhoeYBXm_Q&amp;s" group-title="Sports",Redbull
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 tvg-id="sky sports select" tvg-logo="https://copilot.microsoft.com/th/id/BCO.76f1207e-3967-479d-be5a-a92fb8551127.png" group-title="Sports",Sky Sports Select
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://mains.services/live/bshorty/Zv5le07a0J/703b63c9-b5fd-446e-a221-5f87f5ab48ec.ts
 
 #EXTINF:-1 tvg-id="ufc 24/7" tvg-logo="https://i.imgur.com/74er6Jm.png" group-title="Sports",UFC 24/7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -974,35 +925,15 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1 tvg-id="Billiard TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0b4814b9a5e53029e2b9aba64ddc1df0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1755563498113_BilliardTV_Logo_HUDLogo.png" group-title="Sports",Billiard TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://aka-live491.delivery.roku.com/7bdb9bb8-6f3b-42c3-9ea7-44ec93c849cd/t2-origin/out/v1/live.m3u8
-
-#EXTINF:-1 tvg-id="American Ninja Warrior" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/eec9d131b4095083a23c485d804c8b2d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1713548868549_ANW_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku_PNG.png" group-title="Entertainment",American Ninja Warrior
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://aka-live491.delivery.roku.com/42217682-2132-4be0-a4de-11994eea9d74/t2-origin/out/v1/live.m3u8
-
-#EXTINF:-1 tvg-id="Crunchyroll" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJyvBogK8_WGEsHammfstExKgA9ow-epf_1Q&s" group-title="Kids",Crunchyroll
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://aka-live491.delivery.roku.com/cdd53068-81e9-4898-999d-7f4f6d0b28ad/t2-origin/out/v1/live.m3u8
-
-#EXTINF:-1 tvg-id="Vevo 2K" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/94759dbd58a65682bcc573932f725f46/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113375186_Info_HUD_Logo_260X147_center_%252819%2529.png" group-title="Music",Vevo 2K
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://aka-live491.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-origin/out/v1/live.m3u8
-
-#EXTINF:-1 tvg-id="TikTok Radio" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8e04e4c0e2cd5fe49b087a6ce5fd0d91/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1719497617582_11110_SM_TikTokRadio_Logo_260x147_V02.png" group-title="Music",TikTok Radio
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://aka-live491.delivery.roku.com/466146ab-c01d-4959-82dd-7978f7ceada7/t2-origin/out/v1/live.m3u8
-
-#EXTINF:-1 tvg-id="BABY SHARK TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/40d73ba5be775428a377908b02033b4c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1700073147593_Roku_BABY_SHARK_TV_Image_HUD_2_260x147.png" group-title="Kids",BABY SHARK TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://aka-live491.delivery.roku.com/3d5951d2-63f3-45bd-9370-50f524b2ae72/t2-origin/out/v1/live.m3u8
+https://jmp2.uk/stvp-USBD12000183X
 
 #EXTINF:-1 tvg-id="Hell's Kitchen | Kitchen Nightmares" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b8c4f2efe56a512890042011e5cc0884/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453935313_FilmRise-Cooking_260x147_copy.png" group-title="Entertainment",Hell's Kitchen | Kitchen Nightmares
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://aka-live491.delivery.roku.com/d49b042a-efc1-443b-94cc-94ad73e32ca8/t2-origin/out/v1/live.m3u8
 
-#EXTINF:-1 tvg-id="Storage Wars by A&E" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/091bf303c7fd2bc2ec6683b1dbbadae1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746034081194_Storage_Wars_HUD_logo_260x147_center_aligned.png" group-title="Entertainment",Storage Wars by A&E
+#EXTINF:-1 tvg-id="Storage Wars: LA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20250707T234424SQUARE.png" group-title="Entertainment",Storage Wars: LA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://aka-live491.delivery.roku.com/faabf0d8-4315-4386-bf21-c778c681083d/t2-origin/out/v1/live.m3u8
+https://jmp2.uk/stvp-USBD1700006T2
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPdC9fx-iTn1uyowvSEaj8t2lTIr_pUKFTqw&s" group-title="Educational",Discovery Science
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1129,7 +1060,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001158/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001150/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="Movies", Solarflix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="Entertainment", Solarflix
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001243/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -1165,16 +1096,13 @@ https://tiger-hub.vercel.app/kids_Zone/Tom&Jerry/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="larva" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjh9put-aWwIGzwmXA_YpUkv3gZVICb53uEA&s" group-title="Kids",Larva
 https://tiger-hub.vercel.app/kids_Zone/Larva/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="cartoon box" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7nQqG4sMGhSvFcEm-ZfJ91IbABsj61pVyow&s" group-title="Entertainment",Cartoon Box
-https://tiger-hub.vercel.app/kids_Zone/Cartoon-box/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-id="Spiderman" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyQ5u6NpDXMM74zHIQlGOpWR2mXyvDioilQg&s" group-title="Kids",Spiderman
 https://tiger-hub.vercel.app/kids_Zone/Spiderman-kids/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Angry Birds blue" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvIh54aSaX2_CxTCWhktd3Mn0ToT_S6LoE7Q&s" group-title="Kids",Angry Birds Blue
 https://tiger-hub.vercel.app/kids_Zone/Angry-birds--Blue/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="tap sports hd" tvg-logo="https://i.imgur.com/HWbSPI9.png" group-title="Entertainment",Tap Sports HD
+#EXTINF:-1 tvg-id="tap sports hd" tvg-logo="https://i.imgur.com/HWbSPI9.png" group-title="Sports",Tap Sports HD
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
