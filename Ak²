@@ -1167,11 +1167,8 @@ https://jungotvstream.chanall.tv/jungotv/screamflix/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="hallypop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/GMA_Hallypop_Logo_(2020).png/revision/latest?cb=20220717111815" group-title="Entertainment",Hallypop
 https://jungotvstream.chanall.tv/jungotv/hallypop/playlist_1080p.m3u8
 
-#EXTINF:-1 tvg-id="jungo pinoy" tvg-logo="https://ts1.mm.bing.net/th?id=OIP.MaEIA8yNfg1WPTEAmfHhuQHaHa&pid=15.1" group-title="Entertainment",Jungo Pinoy
+#EXTINF:-1 tvg-id="jungo pinoy tv" tvg-logo="https://ts1.mm.bing.net/th?id=OIP.MaEIA8yNfg1WPTEAmfHhuQHaHa&pid=15.1" group-title="Entertainment",Jungo Pinoy TV
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
-
-#EXTINF:-1 tvg-id="just for laughs" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f2230f3-d395-4701-9831-457e72d51cdf/dfb527c-d41a3d48-8c9a-4c0f-b6ee-f6012da393db.png/v1/fill/w_793,h_1008,q_70,strp/just_for_laughs_logo_w_comcast_byline_by_appleberries22_dfb527c-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE3MSIsInBhdGgiOiJcL2ZcLzFmMjIzMGYzLWQzOTUtNDcwMS05ODMxLTQ1N2U3MmQ1MWNkZlwvZGZiNTI3Yy1kNDFhM2Q0OC04YzlhLTRjMGYtYjZlZS1mNjAxMmRhMzkzZGIucG5nIiwid2lkdGgiOiI8PTkyMSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Oid3i5rKSadWWMp238Bcd_jo_4ujsKdHKQBdAS_vQ9s" group-title="Entertainment",Just for Laughs
-https://d1geua7w9myu7w.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccslktftyouus-ssai-prd/e45e39ed-d45e-4e00-aa4e-314561daf58d/3.m3u8
 
 #EXTINF:-1 tvg-id="american ninja warrior" tvg-logo="https://ts4.mm.bing.net/th?id=OIP.ZpXCYrQLMuUkshyNLp4rYgHaHa&pid=15.1" group-title="Entertainment",American Ninja Warrior
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
