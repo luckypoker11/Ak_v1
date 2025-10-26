@@ -1172,3 +1172,9 @@ https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="american ninja warrior" tvg-logo="https://ts4.mm.bing.net/th?id=OIP.ZpXCYrQLMuUkshyNLp4rYgHaHa&pid=15.1" group-title="Entertainment",American Ninja Warrior
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="lol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzFIMSuklAZK6py_jq_lsHK8bhINbHgPagtw&s" group-title="Entertainment",LOL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=122c84bc130940586c961bae652b3610:1153586a1a453e03402714a299964564
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5167/default_ott.mpd
+
