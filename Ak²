@@ -1173,11 +1173,6 @@ https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=122c84bc130940586c961bae652b3610:1153586a1a453e03402714a299964564
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5167/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Amazon Movies" tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Emblem.png" group-title="Movies" Amazon Prime Video"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
-https://abbfefcaaaaaaaamd5xd44ij4vb.../v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
-
 #EXTINF:-1 tvg-id="pbb" tvg-logo="https://pql-static.abs-cbn.com/images/channel/pbbcelebritycollab_livethumb_20251023021847.jpg" group-title="Entertainment",PBB All Access Livestream (Main)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
 
@@ -1191,3 +1186,7 @@ https://abslive.akamaized.net/dash/live/2028025/pbb1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9539027a7c42446a8648555af3bb3095:1cb94c88f68bef1e728cfa4677e1eeca
 https://abslive.akamaized.net/dash/live/2028025/pbb2/manifest.mpd
 
+#EXTINF:-1 tvg-id="Amazon Movies" tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Emblem.png" group-title="Movies" Amazon Prime Video"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
+https://abbfefcaaaaaaaamd5xd44ij4vb.../v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
