@@ -224,14 +224,9 @@ https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-a
 #KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd
 
-#EXTINF:-1 tvg-id="aniplus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHpjU96npNgDa32693iLt8KDDmAzstSwJg5g&amp;s" group-title="Anime",Aniplus
+#EXTINF:-1 tvg-id="aniplus" tvg-logo="https://data.phcorner.org/2025/10/12120987_shop_aniplus.png" group-title="Anime",Aniplus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
-
-#EXTINF:-1 tvg-id="aniplus hd" tvg-logo="https://data.phcorner.org/2025/10/12120987_shop_aniplus.png" group-title="Anime",Aniplus HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://slive.mana2.my/AniPlus/index.mpd
 
 #EXTINF:-1 tvg-id="unbeaten" tvg-logo="https://inverleigh.com/wp-content/uploads/2020/07/unbeaten_full_logo_white.png"  group-title="Sports",Unbeaten
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -362,11 +357,6 @@ https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/in
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 
-#EXTINF:-1 tvg-id="hbo 2" tvg-logo="https://e1.pngegg.com/pngimages/397/604/png-clipart-tv-channel-icons-hbo-2-black-hbo-2-logo-thumbnail.png" group-title="Movies",HBO 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
-https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd
-
 #EXTINF:-1 tvg-id="hbo family" tvg-logo="https://i.imgur.com/SefoKAw.png" group-title="Movies",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
@@ -377,11 +367,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mp
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
 
-#EXTINF:-1 tvg-id="hbo pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/2560px-HBO_Pop.svg.png" group-title="Movies",HBO POP
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
-https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
-
 #EXTINF:-1 tvg-id="hbo signature" tvg-logo="https://i.imgur.com/3L9QRDw.png" group-title="Movies",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
@@ -391,11 +376,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
 https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
-
-#EXTINF:-1 tvg-id="hbo+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Movies",HBO+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
-https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
 
 #EXTINF:-1 tvg-id="hits movies" tvg-logo="https://i.imgur.com/xjyDTMr.png" group-title="Movies",HITS Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -918,10 +898,6 @@ https://jmp2.uk/stvp-US3800007CR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
 
-#EXTINF:-1 tvg-id="Hell's Kitchen | Kitchen Nightmares" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b8c4f2efe56a512890042011e5cc0884/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453935313_FilmRise-Cooking_260x147_copy.png" group-title="Entertainment",Hell's Kitchen | Kitchen Nightmares
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://aka-live491.delivery.roku.com/d49b042a-efc1-443b-94cc-94ad73e32ca8/t2-origin/out/v1/live.m3u8
-
 #EXTINF:-1 tvg-id="Storage Wars: LA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20250707T234424SQUARE.png" group-title="Entertainment",Storage Wars: LA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-USBD1700006T2
@@ -1084,16 +1060,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 #EXTINF:-1 tvg-id="tom&jerry" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t4fCjANSMhU6BEXJXCCU9okhkGUWm9B-Pg&s" group-title="Kids",Tom & Jerry
 https://tiger-hub.vercel.app/kids_Zone/Tom&Jerry/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="larva" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjh9put-aWwIGzwmXA_YpUkv3gZVICb53uEA&s" group-title="Kids",Larva
-https://tiger-hub.vercel.app/kids_Zone/Larva/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-id="Spiderman" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyQ5u6NpDXMM74zHIQlGOpWR2mXyvDioilQg&s" group-title="Kids",Spiderman
 https://tiger-hub.vercel.app/kids_Zone/Spiderman-kids/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="Angry Birds blue" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvIh54aSaX2_CxTCWhktd3Mn0ToT_S6LoE7Q&s" group-title="Kids",Angry Birds Blue
-https://tiger-hub.vercel.app/kids_Zone/Angry-birds--Blue/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="tap sports hd" tvg-logo="https://i.imgur.com/HWbSPI9.png" group-title="Sports",Tap Sports HD
+#EXTINF:-1 tvg-id="usa" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="Sports",USA
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -1159,9 +1129,6 @@ https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
 #EXTINF:-1 tvg-id="scream flix" tvg-logo="https://ts1.mm.bing.net/th?id=OIP.yFdm7h36S4yDJwTsSAsvBgHaCB&pid=15.1"  group-title="Movies",Scream Flix
 https://jungotvstream.chanall.tv/jungotv/screamflix/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="hallypop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/GMA_Hallypop_Logo_(2020).png/revision/latest?cb=20220717111815" group-title="Entertainment",Hallypop
-https://jungotvstream.chanall.tv/jungotv/hallypop/playlist_1080p.m3u8
-
 #EXTINF:-1 tvg-id="jungo pinoy tv" tvg-logo="https://ts1.mm.bing.net/th?id=OIP.MaEIA8yNfg1WPTEAmfHhuQHaHa&pid=15.1" group-title="Entertainment",Jungo Pinoy TV
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
 
@@ -1181,33 +1148,38 @@ https://abslive.akamaized.net/dash/live/2028025/pbb1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9539027a7c42446a8648555af3bb3095:1cb94c88f68bef1e728cfa4677e1eeca
 https://abslive.akamaized.net/dash/live/2028025/pbb2/manifest.mpd
 
-#EXTINF:-1 tvg-id="sony one" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1uUYPVrK8nfR3GiMVP-5jM8jW4fgnzC6PqQ&s" group-title="Movies" Sony One Comedy Hits
+#EXTINF:-1 tvg-id="sony one" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1uUYPVrK8nfR3GiMVP-5jM8jW4fgnzC6PqQ&s" group-title="Movies",Sony One Comedy Hits
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe50655307fbdc2c4989c195423ccecf
 https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zbz23awyhg/out/v1/f5666ad30e36413098a56bb8fd97c46a/cenc.mpd
 
-#EXTINF:-1 tvg-id="sony one" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFhwQhY6pMQ03qWLtvp9PnndHdXsGxZvK05g&s" group-title="Movies" Sony One Faves
+#EXTINF:-1 tvg-id="sony one" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFhwQhY6pMQ03qWLtvp9PnndHdXsGxZvK05g&s" group-title="Movies",Sony One Faves
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7cca6e6854c136297e848e9381565b7a
 https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/m2vhkc7l1y/out/v1/da8d0d3203de4ce497ec6af696d47a4f/cenc.mpd
 
-#EXTINF:-1 tvg-id="sony one" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAEpZqUyQA04SRRJ-6JCoEO15Hab2I8VMpXw&s" group-title="Movies" Sony One Action Hits
+#EXTINF:-1 tvg-id="sony one" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAEpZqUyQA04SRRJ-6JCoEO15Hab2I8VMpXw&s" group-title="Movies",Sony One Action Hits
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7fa135ed77f7c42389234846b402b71
 https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/krhwmfeoay/out/v1/c5408fc1dc204decb0c5065effed0f79/cenc.mpd
 
-#EXTINF:-1 tvg-id="sony one" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTreZep55HrNx0qTB6EyEyoL6sMV9IsmDHRGg&s" group-title="Movies" Sony One Comedy TV
+#EXTINF:-1 tvg-id="sony one" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTreZep55HrNx0qTB6EyEyoL6sMV9IsmDHRGg&s" group-title="Movies",Sony One Comedy TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae46c390767c07d69c65a45d45a75c11
 https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qd0pqdbqya/out/v1/29261e2484574d678581f85474d2751d/cenc.mpd
 
-#EXTINF:-1 tvg-id="sony one" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7dr6qq8evFPqBx7guLYK0AusOmBzbiJbSg&s" group-title="Movies" Sony One Thriller TV
+#EXTINF:-1 tvg-id="sony one" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7dr6qq8evFPqBx7guLYK0AusOmBzbiJbSg&s" group-title="Movies",Sony One Thriller TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=783e9e314d375f27cade69595fb94bca
 https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qbnukt8csn/out/v1/90f1b14e4b534193b81e0c263ee7810b/cenc.mpd
 
+#EXTINF:-1 tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1200px-KBS_1_logo.svg.png" group-title="Entertainment",KBS 1
+https://hello.kbshlsfree.workers.dev/free/channel/11/master.m3u8
+
+#EXTINF:-1 tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/2560px-KBS_2_logo.svg.png" group-title="Entertainment",KBS 2
+https://hello.kbshlsfree.workers.dev/free/channel/12/master.m3u8
