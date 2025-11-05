@@ -989,8 +989,8 @@ http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Wi
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="Entertainment",Kapamilya Channel HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
+http://136.239.159.18:6610/001/2/ch00000090990000001286//manifest.mpd?\AuthInfo=d85e93&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="Entertainment", ALL TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
