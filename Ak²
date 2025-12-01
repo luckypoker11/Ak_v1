@@ -681,14 +681,6 @@ https://7pal.short.gy/ufc247
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
 
-#EXTINF:-1 tvg-id="star movies hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjsFMscgSgmjyN5uJaHvoN8WRWdZo8oe1mtA&s" group-title="Movies",Star Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/1169.ts
-
-#EXTINF:-1 tvg-id="star movies select" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlQl45oBipRrR96uB5IjhFe2S-JPZlGtF9lw&s" group-title="Movies",Star Movies Select
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://fast.luckonline.eu:80/live/Ali130225/Cpyej2JL56Xy/745.ts
-
 #EXTINF:-1 tvg-id="dazn ringside"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtnP_3_yvtz_0IuQcV2NYJyi0Tn3LxilvaTg&s"  group-title="Sports",DAZN Ringside
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
