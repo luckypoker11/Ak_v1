@@ -2080,8 +2080,8 @@ https://converse.nathcreqtives.com/1175/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1177/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
 
-#EXTINF:-1 group-title="Converge",Heart Of Asia
+#EXTINF:-1 tvg-logo="https://ts4.mm.bing.net/th?id=OIP.synI2yb9Sq8kyh5pyHl5iQHaHW&pid=15.1" group-title="Converge",Heart Of Asia
 http://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
 
-#EXTINF:-1 group-title="Converge",I Heart Movies
+#EXTINF:-1 tvg-logo="https://ts3.mm.bing.net/th?id=OIP.sjLBUGeh8RaFBYfpJEWFGwHaFX&pid=15.1" group-title="Converge",I Heart Movies
 http://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
