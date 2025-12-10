@@ -2085,3 +2085,9 @@ http://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cC
 
 #EXTINF:-1 tvg-logo="https://ts3.mm.bing.net/th?id=OIP.sjLBUGeh8RaFBYfpJEWFGwHaFX&pid=15.1" group-title="Converge",I Heart Movies
 http://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+
+#EXTINF:-1 tvg-logo="https://webp.amirahtv.art/?img=%2Fuploads%2Fposters%2Fposter_game.png" group-title="Sports",Game+
+https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://webp.amirahtv.art/?img=%2Fuploads%2Fposters%2Fposter_anime-x-hidive.jpg" group-title="Anime",ANIME X HIDIVE
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
