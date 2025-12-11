@@ -1120,267 +1120,277 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
-#EXTINF:-1 tvg-id="1003" tvg-name="Golf Channel [HD]" tvg-logo="https://example.com/logos/golf-channel.png" group-title="Astro",Golf Channel [HD]
+#EXTINF:-1 tvg-id="1003" tvg-name="Golf Channel [HD]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golf_Channel_2008.png/revision/latest?cb=20100323073441" group-title="Astro",Golf Channel [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
-https://converse.nathcreqtives.com/astro/1003/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
-#EXTINF:-1 tvg-id="1006" tvg-name="iQIYI" tvg-logo="https://example.com/logos/iqiyi.png" group-title="Astro",iQIYI
+#EXTINF:-1 tvg-id="1006" tvg-name="iQIYI" tvg-logo="https://companieslogo.com/img/orig/IQ-04da5372.png?t=1701612467" group-title="Astro",iQIYI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-https://converse.nathcreqtives.com/astro/1006/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
-#EXTINF:-1 tvg-id="1008" tvg-name="BBC News [HD]" tvg-logo="https://example.com/logos/bbc.png" group-title="Astro",BBC News [HD]
+#EXTINF:-1 tvg-id="1008" tvg-name="BBC News [HD]" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/bbc_news_logo-freelogovectors.net_.png" group-title="Astro",BBC News [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
-https://converse.nathcreqtives.com/astro/1008/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
 
-#EXTINF:-1 tvg-id="1113" tvg-name="Al-Hijrah [HD]" tvg-logo="https://example.com/logos/al-hijrah.png" group-title="Astro",Al-Hijrah [HD]
+#EXTINF:-1 tvg-id="1113" tvg-name="Al-Hijrah [HD]" tvg-logo="https://tvalhijrah.com/wp-content/uploads/2023/04/cropped-TV_Alhijrah_logo-1.png" group-title="Astro",Al-Hijrah [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
-https://converse.nathcreqtives.com/astro/1113/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
-#EXTINF:-1 tvg-id="1114" tvg-name="Bernama" tvg-logo="https://example.com/logos/bernama.png" group-title="Astro",Bernama
+#EXTINF:-1 tvg-id="1114" tvg-name="Bernama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/BERNAMA_2008.png/revision/latest/scale-to-width-down/250?cb=20231228130244" group-title="Astro",Bernama
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
-https://converse.nathcreqtives.com/astro/1114/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
-#EXTINF:-1 tvg-id="1600" tvg-name="Astro SuperSport [UHD]" tvg-logo="https://example.com/logos/astro-supersport.png" group-title="Astro",Astro SuperSport [UHD]
+#EXTINF:-1 tvg-id="1600" tvg-name="Astro SuperSport [UHD]" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c0c0d7b6-d278-41f4-b102-7eb7908d753f/dfs80kt-dfd0912c-c2eb-4d50-a7e9-db33f1473d07.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MwYzBkN2I2LWQyNzgtNDFmNC1iMTAyLTdlYjc5MDhkNzUzZlwvZGZzODBrdC1kZmQwOTEyYy1jMmViLTRkNTAtYTdlOS1kYjMzZjE0NzNkMDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qR2OrvbOt1hmwU5O9jpFxE7XnrYh0Q37P_-kq9kOe_I" group-title="Astro",Astro SuperSport [UHD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
-https://converse.nathcreqtives.com/astro/1600/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2101" tvg-name="Colors Tamil [HD]" tvg-logo="https://example.com/logos/colors-tamil.png" group-title="Astro",Colors Tamil [HD]
+#EXTINF:-1 tvg-id="2101" tvg-name="Colors Tamil [HD]" tvg-logo="https://indiantvinfo.com/media/2021/08/Colors-Tamil-Channel-Logo-300x247.png" group-title="Astro",Colors Tamil [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
-https://converse.nathcreqtives.com/astro/2101/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2110" tvg-name="Al Jazeera English [HD]" tvg-logo="https://example.com/logos/al-jazeera.png" group-title="Astro",Al Jazeera English [HD]
+#EXTINF:-1 tvg-id="2110" tvg-name="Al Jazeera English [HD]" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="Astro",Al Jazeera English [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1fbd0874e7923f5b05929a042aa0610:6c3c498113abffdf454dc935319a794d
-https://converse.nathcreqtives.com/astro/2110/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2111" tvg-name="Crime & Investigation" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="Astro",Crime & Investigation
-https://converse.nathcreqtives.com/astro/2111/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
-
-#EXTINF:-1 tvg-id="2303" tvg-name="AXN [HD]" tvg-logo="https://example.com/logos/axn.png" group-title="Astro",AXN [HD]
+#EXTINF:-1 tvg-id="2303" tvg-name="AXN [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Astro",AXN [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
-https://converse.nathcreqtives.com/astro/2303/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2302/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2305" tvg-name="Hits Movies [HD]" tvg-logo="https://example.com/logos/hits-movies.png" group-title="Astro",Hits Movies [HD]
+#EXTINF:-1 tvg-id="2305" tvg-name="Hits Movies [HD]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="Astro",Hits Movies [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
-https://converse.nathcreqtives.com/astro/2305/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2306" tvg-name="KBS World [HD]" tvg-logo="https://example.com/logos/kbs-world.png" group-title="Astro",KBS World [HD]
+#EXTINF:-1 tvg-id="2306" tvg-name="KBS World [HD]" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-kbs-world.png" group-title="Astro",KBS World [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
-https://converse.nathcreqtives.com/astro/2306/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2308" tvg-name="Astro Hua Hee Dai [HD]" tvg-logo="https://example.com/logos/astro-hua-hee-dai.png" group-title="Astro",Astro Hua Hee Dai [HD]
+#EXTINF:-1 tvg-id="2308" tvg-name="Astro Hua Hee Dai [HD]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/Astro_Hua_Hee_Dai_Romanised_2D.png/revision/latest?cb=20191017105624" group-title="Astro",Astro Hua Hee Dai [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
-https://converse.nathcreqtives.com/astro/2308/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2309" tvg-name="Astro Vaanavil HD" tvg-logo="https://example.com/logos/astro-vaanavil.png" group-title="Astro",Astro Vaanavil HD
+#EXTINF:-1 tvg-id="2309" tvg-name="Astro Vaanavil HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest/scale-to-width-down/250?cb=20200531231529" group-title="Astro",Astro Vaanavil HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
-https://converse.nathcreqtives.com/astro/2309/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2310" tvg-name="Sun TV" tvg-logo="https://example.com/logos/sun-tv.png" group-title="Astro",Sun TV
+#EXTINF:-1 tvg-id="2310" tvg-name="Sun TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Sun_TV.svg/revision/latest?cb=20201221111545" group-title="Astro",Sun TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83076ff2f68d1764b559c432ab49ca10:ebdf56ba4a3562cc82053a2952975432
-https://converse.nathcreqtives.com/astro/2310/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2311" tvg-name="Zee Tamil [HD]" tvg-logo="https://example.com/logos/zee-tamil.png" group-title="Astro",Zee Tamil [HD]
+#EXTINF:-1 tvg-id="2311" tvg-name="Zee Tamil [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="Astro",Zee Tamil [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
-https://converse.nathcreqtives.com/astro/2311/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2406" tvg-name="TVN Movies [HD]" tvg-logo="https://example.com/logos/tvn-movies.png" group-title="Astro",TVN Movies [HD]
+#EXTINF:-1 tvg-id="2406" tvg-name="TVN Movies [HD]" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/TvN_Movies_logo_2017.png/revision/latest/scale-to-width-down/1200?cb=20231026065321&path-prefix=vi" group-title="Astro",TVN Movies [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
-https://converse.nathcreqtives.com/astro/2406/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2502" tvg-name="HGTV [HD]" tvg-logo="https://example.com/logos/hgtv.png" group-title="Astro",HGTV [HD]
+#EXTINF:-1 tvg-id="2502" tvg-name="HGTV [HD]" tvg-logo="https://www.pikpng.com/pngl/b/207-2078915_hgtv-logo-hgtv-logo-transparent-clipart.png" group-title="Astro",HGTV [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
-https://converse.nathcreqtives.com/astro/2502/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2503" tvg-name="CNN [HD]" tvg-logo="https://example.com/logos/cnn.png" group-title="Astro",CNN [HD]
+#EXTINF:-1 tvg-id="2503" tvg-name="CNN [HD]" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="Astro",CNN [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b618a291cece44c9845dddfc4fd9b10:bf7e1b97555c4acb7455f711b2a9ff16
-https://converse.nathcreqtives.com/astro/2503/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2504" tvg-name="Astro Cricket [HD]" tvg-logo="https://example.com/logos/astro-cricket.png" group-title="Astro",Astro Cricket [HD]
+#EXTINF:-1 tvg-id="2504" tvg-name="Astro Cricket [HD]" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/bnz2cj1731234507.png" group-title="Astro",Astro Cricket [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-https://converse.nathcreqtives.com/astro/2504/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2505" tvg-name="Astro Oasis [HD]" tvg-logo="https://example.com/logos/astro-oasis.png" group-title="Astro",Astro Oasis [HD]
+#EXTINF:-1 tvg-id="2505" tvg-name="Astro Oasis [HD]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/Astro_oasis_flat_logo.png/revision/latest?cb=20190820194457" group-title="Astro",Astro Oasis [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
-https://converse.nathcreqtives.com/astro/2505/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2506" tvg-name="Astro Football [HD]" tvg-logo="https://example.com/logos/astro-football.png" group-title="Astro",Astro Football [HD]
+#EXTINF:-1 tvg-id="2506" tvg-name="Astro Football [HD]" tvg-logo="https://ts3.mm.bing.net/th?id=OIP.FOJ9AIoR2a9lf_RVs0aK1AAAAA&pid=15.1" group-title="Astro",Astro Football [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-https://converse.nathcreqtives.com/astro/2506/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2510" tvg-name="Discovery Channel [HD]" tvg-logo="https://example.com/logos/discovery.png" group-title="Astro",Discovery Channel [HD]
+#EXTINF:-1 tvg-id="2510" tvg-name="Discovery Channel [HD]" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-2-1-2048x424.png" group-title="Astro",Discovery Channel [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
-https://converse.nathcreqtives.com/astro/2510/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2511" tvg-name="Nickelodeon [HD]" tvg-logo="https://example.com/logos/nickelodeon.png" group-title="Astro",Nickelodeon [HD]
+#EXTINF:-1 tvg-id="2511" tvg-name="Nickelodeon [HD]" tvg-logo="https://cdn.mos.cms.futurecdn.net/u3xQKM9WfmqKc8FPXbcqyY.jpg" group-title="Astro",Nickelodeon [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
-https://converse.nathcreqtives.com/astro/2511/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2601" tvg-name="Premier Sports [HD]" tvg-logo="https://example.com/logos/premiersports.png" group-title="Astro",Premier Sports [HD]
+#EXTINF:-1 tvg-id="2601" tvg-name="Premier Sports [HD]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Premier_Sports_logo_final.png/revision/latest/scale-to-width-down/400?cb=20210920130931" group-title="Astro",Premier Sports [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
-https://converse.nathcreqtives.com/astro/2601/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2604" tvg-name="Astro Arena [HD]" tvg-logo="https://example.com/logos/astro-arena.png" group-title="Astro",Astro Arena [HD]
+#EXTINF:-1 tvg-id="2604" tvg-name="Astro Arena [HD]" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zj1pap1731234597.png" group-title="Astro",Astro Arena [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-https://converse.nathcreqtives.com/astro/2604/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2605" tvg-name="Warner TV [HD]" tvg-logo="https://example.com/logos/warner-tv.png" group-title="Astro",Warner TV [HD]
+#EXTINF:-1 tvg-id="2605" tvg-name="Warner TV [HD]" tvg-logo="https://clipground.com/images/warner-channel-logo-png.png" group-title="Astro",Warner TV [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
-https://converse.nathcreqtives.com/astro/2605/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2611" tvg-name="Colors Hindi [HD]" tvg-logo="https://example.com/logos/colors-hindi.png" group-title="Astro",Colors Hindi [HD]
+#EXTINF:-1 tvg-id="2611" tvg-name="Colors Hindi [HD]" tvg-logo="https://www.nationalfilmawards.in/wp-content/uploads/2024/08/image-46-1024x576.png" group-title="Astro",Colors Hindi [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
-https://converse.nathcreqtives.com/astro/2611/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2702" tvg-name="One [HD]" tvg-logo="https://example.com/logos/one.png" group-title="Astro",One [HD]
+#EXTINF:-1 tvg-id="2702" tvg-name="One [HD]" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="Astro",One [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
-https://converse.nathcreqtives.com/astro/2702/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2705" tvg-name="beIN Sports 3 [HD]" tvg-logo="https://example.com/logos/bein-sports-3.png" group-title="Astro",beIN Sports 3 [HD]
+#EXTINF:-1 tvg-id="2705" tvg-name="beIN Sports 3 [HD]" tvg-logo="https://ts1.mm.bing.net/th?id=OIP.onQVhlrTMuzdLDkOLjKU7gHaBG&pid=15.1" group-title="Astro",beIN Sports 3 [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-https://converse.nathcreqtives.com/astro/2705/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
-#EXTINF:-1 tvg-id="2707" tvg-name="Star Vijay [HD]" tvg-logo="https://example.com/logos/star-vijay.png" group-title="Astro",Star Vijay [HD]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
-https://converse.nathcreqtives.com/astro/2707/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
-
-#EXTINF:-1 tvg-id="2709" tvg-name="TLC [HD]" tvg-logo="https://example.com/logos/tlc.png" group-title="Astro",TLC [HD]
+#EXTINF:-1 tvg-id="2709" tvg-name="TLC [HD]" tvg-logo="https://images.seeklogo.com/logo-png/22/2/tlc-logo-png_seeklogo-220530.png" group-title="Astro",TLC [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
-https://converse.nathcreqtives.com/astro/2709/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 
-#EXTINF:-1 tvg-id="5011" tvg-name="Sun Music [HD]" tvg-logo="https://example.com/logos/sun-music.png" group-title="Astro",Sun Music [HD]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=beaca9461f7ca0d58ba529fed2e7b610:da0a70148e126eb40cce02665753896d
-https://converse.nathcreqtives.com/astro/5011/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
-
-#EXTINF:-1 tvg-id="5014" tvg-name="MTV Live [HD]" tvg-logo="https://example.com/logos/mtv-live.png" group-title="Astro",MTV Live [HD]
+#EXTINF:-1 tvg-id="5014" tvg-name="MTV Live [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/2155px-MTV_Live_2021_logo.svg.png" group-title="Astro",MTV Live [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
-https://converse.nathcreqtives.com/astro/5014/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
-#EXTINF:-1 tvg-id="5016" tvg-name="TVB Classic" tvg-logo="https://example.com/logos/tvb-classic.png" group-title="Astro",TVB Classic
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
-https://converse.nathcreqtives.com/astro/5016/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
-
-#EXTINF:-1 tvg-id="5019" tvg-name="CGTN" tvg-logo="https://example.com/logos/cgtn.png" group-title="Astro",CGTN
+#EXTINF:-1 tvg-id="5019" tvg-name="CGTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/CGTN_(China_Global_Television_Network).svg/revision/latest?cb=20210816144604" group-title="Astro",CGTN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc66ef0ee35b5ba639dc0e13c5f8a910:9e706161f02fb99cb692d2965470494e
-https://converse.nathcreqtives.com/astro/5019/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd
 
-#EXTINF:-1 tvg-id="5020" tvg-name="Bloomberg [HD]" tvg-logo="https://example.com/logos/bloomberg.png" group-title="Astro",Bloomberg [HD]
+#EXTINF:-1 tvg-id="5020" tvg-name="Bloomberg [HD]" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Bloomberg-Logo-1981.png" group-title="Astro",Bloomberg [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
-https://converse.nathcreqtives.com/astro/5020/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 
 #EXTINF:-1 tvg-id="5021" tvg-name="TVS [HD]" tvg-logo="https://example.com/logos/tvs.png" group-title="Astro",TVS [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
-https://converse.nathcreqtives.com/astro/5021/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 #EXTINF:-1 tvg-id="5025" tvg-name="Astro Awani" tvg-logo="https://example.com/logos/astro-awani.png" group-title="Astro",Astro Awani
 #KODIPROP:inputstreamaddon=inputstream.adaptive
