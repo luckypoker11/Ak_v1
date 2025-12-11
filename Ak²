@@ -1032,88 +1032,93 @@ https://converse.nathcreqtives.com/astro/info?token=eyJhbGciOiJIUzI1NiIsInR5cCI6
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
-#EXTINF:-1 tvg-id="403" tvg-name="CCTV4" tvg-logo="https://i.imgur.com/HBisPOA.png" group-title="Astro",CCTV4
-https://converse.nathcreqtives.com/astro/403/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
-
-#EXTINF:-1 tvg-id="408" tvg-name="beIN Sports 1 [HD]" tvg-logo="https://example.com/logos/bein-sports-1.png" group-title="Astro",beIN Sports 1 [HD]
+#EXTINF:-1 tvg-id="408" tvg-name="beIN Sports 1 [HD]" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~8884f09c3361af44.png/1200x630/crop-from/top/quality/80/bein-sports-1.png" group-title="Astro",beIN Sports 1 [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-https://converse.nathcreqtives.com/astro/408/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
-#EXTINF:-1 tvg-id="500" tvg-name="Asian Food Network [HD]" tvg-logo="https://example.com/logos/asian-food-network.png" group-title="Astro",Asian Food Network [HD]
+#EXTINF:-1 tvg-id="500" tvg-name="Asian Food Network [HD]" tvg-logo="https://www.kindpng.com/picc/m/469-4699767_asian-food-network-logo-hd-png-download.png" group-title="Astro",Asian Food Network [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
-https://converse.nathcreqtives.com/astro/500/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 
-#EXTINF:-1 tvg-id="501" tvg-name="Discovery Asia [HD]" tvg-logo="https://example.com/logos/discovery-asia.png" group-title="Astro",Discovery Asia [HD]
+#EXTINF:-1 tvg-id="501" tvg-name="Discovery Asia [HD]" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/dfke3q3-4dd015c6-cca0-443a-9c35-60e7b5217015.png/v1/fill/w_1200,h_516/discovery_asia_logo_by_huyvo2001_dfke3q3-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTE2IiwicGF0aCI6IlwvZlwvMTBkN2U4YjEtOWZlMS00YzQxLWFlYjctMzMxZjRmYjE4OGFhXC9kZmtlM3EzLTRkZDAxNWM2LWNjYTAtNDQzYS05YzM1LTYwZTdiNTIxNzAxNS5wbmciLCJ3aWR0aCI6Ijw9MTIwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.nsGULPk0C_Qn3M2Qpq-XXaHIT0Lan0qkjbtDclmhN_U" group-title="Astro",Discovery Asia [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
-https://converse.nathcreqtives.com/astro/501/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 
-#EXTINF:-1 tvg-id="506" tvg-name="Celestial Movies [HD]" tvg-logo="https://example.com/logos/celestial-movies.png" group-title="Astro",Celestial Movies [HD]
+#EXTINF:-1 tvg-id="506" tvg-name="Celestial Movies [HD]" tvg-logo="https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg" group-title="Astro",Celestial Movies [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
-https://converse.nathcreqtives.com/astro/506/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
-#EXTINF:-1 tvg-id="509" tvg-name="Cartoon Network [HD]" tvg-logo="https://example.com/logos/cartoon-network.png" group-title="Astro",Cartoon Network [HD]
+#EXTINF:-1 tvg-id="509" tvg-name="Cartoon Network [HD]" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Logo-2010-present.png" group-title="Astro",Cartoon Network [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
-https://converse.nathcreqtives.com/astro/509/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 
-#EXTINF:-1 tvg-id="603" tvg-name="Cinemax [HD]" tvg-logo="https://example.com/logos/cinemax.png" group-title="Astro",Cinemax [HD]
+#EXTINF:-1 tvg-id="603" tvg-name="Cinemax [HD]" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="Astro",Cinemax [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
-https://converse.nathcreqtives.com/astro/603/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
-#EXTINF:-1 tvg-id="604" tvg-name="History [HD]" tvg-logo="https://example.com/logos/history.png" group-title="Astro",History [HD]
+#EXTINF:-1 tvg-id="604" tvg-name="History [HD]" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/History-Channel-Logo.png" group-title="Astro",History [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
-https://converse.nathcreqtives.com/astro/604/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
-#EXTINF:-1 tvg-id="605" tvg-name="Channel News Asia" tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="Astro",Channel News Asia
-https://converse.nathcreqtives.com/astro/605/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
-
-#EXTINF:-1 tvg-id="606" tvg-name="Hits [HD]" tvg-logo="https://example.com/logos/hits.png" group-title="Astro",Hits [HD]
+#EXTINF:-1 tvg-id="606" tvg-name="Hits [HD]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810" group-title="Astro",Hits [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
-https://converse.nathcreqtives.com/astro/606/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
 
-#EXTINF:-1 tvg-id="711" tvg-name="TV1 [HD]" tvg-logo="https://example.com/logos/tv1.png" group-title="Astro",TV1 [HD]
+#EXTINF:-1 tvg-id="711" tvg-name="TV1 [HD]" tvg-logo="https://www.pikpng.com/pngl/b/417-4175606_logo-of-tv1-tv-1-malaysia-clipart.png" group-title="Astro",TV1 [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
-https://converse.nathcreqtives.com/astro/711/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
 
-#EXTINF:-1 tvg-id="900" tvg-name="CNBC [HD]" tvg-logo="https://example.com/logos/cnbc.png" group-title="Astro",CNBC [HD]
+#EXTINF:-1 tvg-id="900" tvg-name="CNBC [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" group-title="Astro",CNBC [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3a38f1340531759a1ca97bc5d80c810:602827a870d49862d1a23f2912957b4c
-https://converse.nathcreqtives.com/astro/900/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 
-#EXTINF:-1 tvg-id="1001" tvg-name="TVN [HD]" tvg-logo="https://example.com/logos/tvn.png" group-title="Astro",TVN [HD]
+#EXTINF:-1 tvg-id="1001" tvg-name="TVN [HD]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/67/Logo_tvN.svg/revision/latest/scale-to-width-down/250?cb=20150127112725" group-title="Astro",TVN [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
-https://converse.nathcreqtives.com/astro/1001/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 #EXTINF:-1 tvg-id="1003" tvg-name="Golf Channel [HD]" tvg-logo="https://example.com/logos/golf-channel.png" group-title="Astro",Golf Channel [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
