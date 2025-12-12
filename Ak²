@@ -2150,10 +2150,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/dash/index
 #KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/dash/index.mpd
 
-#EXTINF:-1 tvg-id="5014" tvg-name="MTV Live [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/2155px-MTV_Live_2021_logo.svg.png" group-title="TEstHere",MTV Live [HD]
+#EXTINF:-1 tvg-id="606" tvg-name="Hits [HD]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810" group-title="Astro",Hits [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
+#KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
