@@ -2157,3 +2157,10 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/dash/index
 #KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 10; MiBox S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
+
+#EXTINF:-1 tvg-id="606" tvg-name="Hits [HD]" tvg-logo="https://example.com/logos/hits.png" group-title="TEST",Hits [HD]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
+https://converse.nathcreqtives.com/astro/606/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJsdWNreXBva2VyIiwiZXhwIjoxNzY1ODYyNDY2fQ.f-i5YXXfr8qDS8c-9Rpl3vgvV1jaKzl-3xnfW6dgWV8
