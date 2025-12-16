@@ -914,7 +914,7 @@ https://converse.nathcreqtives.com/1089/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1091/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJMdWNreXBva2VyIiwiZXhwIjoxNzY2Mjk0NTU2fQ.Z4DQHcMwQnKNzSB3kZiRp0h_OWh4lOssgEEHBpT2Eqo
 
-#EXTINF:-1 tvg-id="1340" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723604992973.png" group-title="WesleyVanneck",KNOWLEDGE CHANNEL
+#EXTINF:-1 tvg-id="1340" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723604992973.png" group-title="Converge",KNOWLEDGE CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
@@ -937,7 +937,7 @@ https://converse.nathcreqtives.com/1249/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1083/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJMdWNreXBva2VyIiwiZXhwIjoxNzY2Mjk0NTU2fQ.Z4DQHcMwQnKNzSB3kZiRp0h_OWh4lOssgEEHBpT2Eqo
 
-#EXTINF:-1 tvg-id="1283" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125628005.png" group-title="WesleyVanneck",CINEMA ONE
+#EXTINF:-1 tvg-id="1283" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125628005.png" group-title="Converge",CINEMA ONE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
@@ -1381,14 +1381,14 @@ https://converse.nathcreqtives.com/1175/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1177/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJMdWNreXBva2VyIiwiZXhwIjoxNzY2Mjk0NTU2fQ.Z4DQHcMwQnKNzSB3kZiRp0h_OWh4lOssgEEHBpT2Eqo
 
-#EXTINF:-1 tvg-id="2304" tvg-name="StarMoviesHD" tvg-logo="https://www.nicepng.com/png/detail/213-2132991_star-movies-hd-logo.png" group-title="Experimental",Star Movies HD
+#EXTINF:-1 tvg-id="2304" tvg-name="StarMoviesHD" tvg-logo="https://www.nicepng.com/png/detail/213-2132991_star-movies-hd-logo.png" group-title="Movies",Star Movies HD
 https://converse.nathcreqtives.com/channels/starmovies.ts?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJMdWNreXBva2VyIiwiZXhwIjoxNzY2Mjk0NTU2fQ.Z4DQHcMwQnKNzSB3kZiRp0h_OWh4lOssgEEHBpT2Eqo
 
-#EXTINF:-1 tvg-id="2304" tvg-name="ESPN HD" tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="Experimental",ESPN HD
+#EXTINF:-1 tvg-id="2304" tvg-name="ESPN HD" tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="Sports",ESPN HD
 https://converse.nathcreqtives.com/channels/espnhd.ts?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJMdWNreXBva2VyIiwiZXhwIjoxNzY2Mjk0NTU2fQ.Z4DQHcMwQnKNzSB3kZiRp0h_OWh4lOssgEEHBpT2Eqo
 
-#EXTINF:-1 tvg-id="2304" tvg-name="Nat Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png" group-title="Experimental",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="2304" tvg-name="Nat Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png" group-title="Educational",Nat Geo Wild HD
 https://converse.nathcreqtives.com/channels/natgeowildhd.ts?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJMdWNreXBva2VyIiwiZXhwIjoxNzY2Mjk0NTU2fQ.Z4DQHcMwQnKNzSB3kZiRp0h_OWh4lOssgEEHBpT2Eqo
 
-#EXTINF:-1 tvg-id="2304" tvg-name="Sony Pix HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="Experimental",Sony Pix HD
+#EXTINF:-1 tvg-id="2304" tvg-name="Sony Pix HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="Movies",Sony Pix HD
 https://converse.nathcreqtives.com/channels/sonypix.ts?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJMdWNreXBva2VyIiwiZXhwIjoxNzY2Mjk0NTU2fQ.Z4DQHcMwQnKNzSB3kZiRp0h_OWh4lOssgEEHBpT2Eqo
