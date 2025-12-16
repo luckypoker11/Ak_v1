@@ -325,11 +325,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_hitsmovies/default/inde
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="movies now" tvg-logo="https://i.imgur.com/3BCg3pS.png" group-title="Movies",Movies Now
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-
 #EXTINF:-1 tvg-id="pbo" tvg-logo="https://i.imgur.com/r3PUF9p.png" group-title="Movies",PBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
