@@ -1384,9 +1384,6 @@ https://converse.nathcreqtives.com/1177/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #EXTINF:-1 tvg-id="2304" tvg-name="StarMoviesHD" tvg-logo="https://www.nicepng.com/png/detail/213-2132991_star-movies-hd-logo.png" group-title="Experimental",Star Movies HD
 https://converse.nathcreqtives.com/channels/starmovies.ts?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJMdWNreXBva2VyIiwiZXhwIjoxNzY2Mjk0NTU2fQ.Z4DQHcMwQnKNzSB3kZiRp0h_OWh4lOssgEEHBpT2Eqo
 
-#EXTINF:-1 tvg-id="2304" tvg-name="StarMoviesSELECTHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20190810162735" group-title="Experimental",Star Movies SELECT HD
-https://converse.nathcreqtives.com/channels/smhdselect.ts?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJMdWNreXBva2VyIiwiZXhwIjoxNzY2Mjk0NTU2fQ.Z4DQHcMwQnKNzSB3kZiRp0h_OWh4lOssgEEHBpT2Eqo
-
 #EXTINF:-1 tvg-id="2304" tvg-name="ESPN HD" tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="Experimental",ESPN HD
 https://converse.nathcreqtives.com/channels/espnhd.ts?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJMdWNreXBva2VyIiwiZXhwIjoxNzY2Mjk0NTU2fQ.Z4DQHcMwQnKNzSB3kZiRp0h_OWh4lOssgEEHBpT2Eqo
 
