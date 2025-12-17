@@ -1398,4 +1398,10 @@ https://converse.nathcreqtives.com/channels/natgeowildhd.ts?token=eyJhbGciOiJIUz
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Mediacorp/Mediacorp-Logo.wine.png" group-title="Mediacorp",Mediacorp SEA Games 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=acc4581a25ef0cd76f8fd7d826bb2d06:bc006e72e9aab57aca8ae75a83e8f20e
-https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest/default.mpd
+https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://i.imgur.com/3BCg3pS.png",Movies Now
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
