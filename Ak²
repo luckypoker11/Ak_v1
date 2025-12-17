@@ -1448,3 +1448,10 @@ https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO2-HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
 https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBOFAMILYHD/default.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/01/peacock-wwe-479x535.jpg",WWE Network
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc106wh3yw)/master.mpd
+
