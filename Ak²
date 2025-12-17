@@ -860,6 +860,11 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/dash/index
 #KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/dash/index.mpd
 
+#EXTINF:-1 tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo.svg" group-title="Pilipinas Live",Pilipinas Live 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/dash/index.mpd
+
 #EXTINF:-1 tvg-logo="https://ts4.mm.bing.net/th?id=OIP.synI2yb9Sq8kyh5pyHl5iQHaHW&pid=15.1" group-title="Converge",Heart Of Asia
 http://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJMdWNreXBva2VyIiwiZXhwIjoxNzY2Mjk0NTU2fQ.Z4DQHcMwQnKNzSB3kZiRp0h_OWh4lOssgEEHBpT2Eqo
 
