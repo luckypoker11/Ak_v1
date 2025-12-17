@@ -1405,3 +1405,63 @@ https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/MTV_Live_2021.svg",MTV Live
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=acc4581a25ef0cd76f8fd7d826bb2d06:bc006e72e9aab57aca8ae75a83e8f20e
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/MTV-LIVE-HD/default.mpd
+
+#EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png",HBO HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=df18f6a05bab28d89e5dc01d88f4deb8:baceb525467c0db22ba83090616c1ad0
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-HD/default.mpd
+
+#EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dgfmxtz-288c17db-800c-4771-a9c6-cafa6617d039.png/v1/fill/w_774,h_509/hbo_mundi_logo_concept_2023_by_wbblackofficial_dgfmxtz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA5IiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZ2ZteHR6LTI4OGMxN2RiLTgwMGMtNDc3MS1hOWM2LWNhZmE2NjE3ZDAzOS5wbmciLCJ3aWR0aCI6Ijw9Nzc0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ca2UejHwov4UEtKT6905Ud2NBWJMwOBEiPQbm2Bbigk",HBO MUNDI HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba4052ca5eb6f8ff6b98d47d098b2dec:bb3e4bfa1821d2bdc25c9a0970e4e3b8
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-MUNDI-HD/manifest.mpd
+
+#EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://1.bp.blogspot.com/-hbb2olvPtcs/YavslEKEx0I/AAAAAAAA-E4/gt3ERt1ckLkKpPke8_6dixkVqwg_yXXLACNcBGAsYHQ/w1200-h630-p-k-no-nu/HBO-plus-2019.png",HBO PLUS HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/manifest.mpd
+
+#EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://ts1.mm.bing.net/th?id=OIP.BaHeNXJiJ_B8rai72hzB2AHaFt&pid=15.1",HBO POP HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-POP-HD/manifest.mpd
+
+#EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/233-2333069_hbo-signature-logo-png.png",HBO Signature HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5782156290f035ef28ae66cca252eedd:10d8bb6d9f9852747298487ab3c4afa3
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-SIGNATURE-HD/manifest.mpd
+
+#EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://logospng.org/download/hbo-2/hbo-2-4096.png",HBO2 HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO2-HD/manifest.mpd
+
+#EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://logodix.com/logo/789117.jpg",HBO Family HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBOFAMILYHD/default.mpd
+
+#EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://www.pngall.com/wp-content/uploads/15/Dreamworks-Logo-PNG-HD-Image.png",Dream Works HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a255e1384db3e9ce7e0349e8aa9b9f77:404cc4fb45f82c9a7dffd3d2496cca20
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/DREAM-WORKS-HD/default.mpd
+
+#EXTINF:-1 group-title="Test" tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dfpxe56-142f4475-ceac-49d7-88d7-82a6a8ff1dd8.png/v1/fill/w_962,h_422/star_channel_hd_logo_concept_2023_by_wbblackofficial_dfpxe56-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDIyIiwicGF0aCI6IlwvZlwvNzUxOWI5NmMtNzFmOC00MDQwLTgyZDQtYzgwZTE4Mzg0ZjFiXC9kZnB4ZTU2LTE0MmY0NDc1LWNlYWMtNDlkNy04OGQ3LTgyYTZhOGZmMWRkOC5wbmciLCJ3aWR0aCI6Ijw9OTYyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.2g0OpS2cHqOBmHoha1HzPxpoSsfunb8sXBsoRI0Fjfo",STAR HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0830fe96416ef7b9a523a825fe4e31d:5d67881a7ecc475a0677efa81cdf0027
+https://zap-live1-ott.izzigo.tv/2/out/u/dash/STAR-HD/default.mpd
