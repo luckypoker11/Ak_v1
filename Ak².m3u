@@ -1498,12 +1498,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
 
-#EXTINF:-1 tvg-id="1286" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129013828.png" group-title="Converge",KAPAMILYA HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1286/manifest.mpd
-
 #EXTINF:-1 tvg-id="1086" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133792284.png" group-title="Converge",PTV
 https://converse.nathcreqtives.com/1086/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJMdWNreVBva2VyMSIsImlhdCI6MTc2NzAxMzg0MywiZXhwIjoxNzY3NDQ1ODQzLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc0NDU4NDN9.hWlXF9RBUnjf4T8lKkrtjyvPQZipA8CE8QQjzY8XhwE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
