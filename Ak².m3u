@@ -2022,3 +2022,21 @@ http://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cC
 
 #EXTINF:-1 group-title="Converge",I Heart Movies
 http://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJMdWNreVBva2VyMSIsImlhdCI6MTc2NzAxMzg0MywiZXhwIjoxNzY3NDQ1ODQzLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc0NDU4NDN9.hWlXF9RBUnjf4T8lKkrtjyvPQZipA8CE8QQjzY8XhwE
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
+#EXTINF:-1 tvg-id="1286" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFlg7-vOptJLo70Lq57DLJD1mebT0OqVh7xZhVS_VZIQ&s=10" group-title="PINOY",KAPAMILYA HD
+https://honortvph.dpdns.org/1286/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
+#EXTINF:-1 tvg-id="1143" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWRVdGJL3otxzjqOXB5s7KP3I-VwmglZvnzA&s" group-title="PINOY",GTV
+https://honortvph.dpdns.org/1143/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
+#EXTINF:-1 tvg-id="1093" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiFAa43CbX0gg6AFJIHnRah1LJmuHRA3X73pfRgq2mNvpD8015eifvg-4&s=10" group-title="PINOY",GMA 7
+https://honortvph.dpdns.org/1093/manifest.mpd
