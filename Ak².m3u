@@ -2034,3 +2034,13 @@ https://honortvph.dpdns.org/1143/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiFAa43CbX0gg6AFJIHnRah1LJmuHRA3X73pfRgq2mNvpD8015eifvg-4&s=10" group-title="PINOY",GMA 7
 https://honortvph.dpdns.org/1093/manifest.mpd
+
+#EXTINF:-1 tvg-id="Kapatid Channel" tvg-logo="https://data.phcorner.org/2025/12/12201918_download_1.webp" group-title="Entertainment",Kapatid Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf670bed2ea4905a114557e90e7ffb6:616059bec8dfb27f3524b7e7c31b6cff
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pphd_sdi1/default/index.mpd
+
+#EXTINF:-1 tvg-id="will tv" tvg-logo="" group-title="Entertainment",Will TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1773d6f982242cdb0f694546a3db26f:ae9a90dbea78f564eb98fe817909ec9a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd
