@@ -1331,6 +1331,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56
 #EXTINF:-1 tvg-id="TNAWrestlingChannel.pl@SD" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg" group-title="Pluto TV",TNA Wrestling
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
 
+#EXTINF:-1 tvg-id="PlutoTVAction.us@US" tvg-logo="https://i.imgur.com/tDapGal.png" group-title="Pluto TV",Pluto TV Action
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
+
+#EXTINF:-1 tvg-id="PlutoTVCrimeMovies.us@SD" tvg-logo="https://i.imgur.com/SJcqknt.png" group-title="Pluto TV",Pluto TV Crime Movies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed41-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4d2554e-9b84-4086-8e1d-07f64310a23b
+
 **********Samsung TV Plus**********
 
 #EXTINF:-1 group-logo="https://images.samsung.com/is/image/samsung/assets/nz/smart-tv-apps/samsung-tv-plus-logo-black.png"
@@ -1463,10 +1469,6 @@ https://jmp2.uk/stvp-USBA2300001S8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-US3800007CR
 
-#EXTINF:-1 group-title="Samsung TV Plus" tvg-id="cjenm.kr" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/3/36/CJ_E%26M_logo.png",CJ E&M
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Mr. Bean" tvg-logo="https://ts3.mm.bing.net/th?id=OIP.uWqJUp2CjHm-NxzU4MMEJQHaF6&pid=15.1" group-title="Samsung TV Plus",Mr. Bean
 https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
 
@@ -1482,12 +1484,6 @@ https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Samsung TV Plus",Vevo 2K
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
-#EXTINF:-1 channel-id="US2000012KX" tvg-id="US2000012KX" tvg-chno="1614" tvg-name="Genie K-Drama" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000012KX_20250813T151513SQUARE.png" group-title="Samsung TV Plus",Genie K-Drama
-https://jmp2.uk/stvp-US2000012KX
-
-#EXTINF:-1 channel-id="US1700017NM" tvg-id="US1700017NM" tvg-chno="1613" tvg-name="K-Drama+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1700017NM_20251013T235717SQUARE.png" group-title="Samsung TV Plus",K-Drama+
-https://jmp2.uk/stvp-US1700017NM
-
 #EXTINF:-1 tvg-id="river monsters" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1FEPARiy7ZXa5UlXKylXOKcs9-JiOY1CNg&s" group-title="Samsung TV Plus",River Monsters
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
@@ -1498,6 +1494,18 @@ https://d1si3n1st4nkgb.cloudfront.net/10000/88258000/hls/master.m3u8?ads.xumo_ch
 
 #EXTINF:-1 tvg-id="WorldBilliards.pl@SD" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe-width200-quality90.png" group-title="Samsung TV Plus",World Billiards TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+
+#EXTINF:-1 channel-id="US4300002FK" tvg-id="US4300002FK" tvg-chno="1608" tvg-name="Series K Heart" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4300002FK_20251209T005951SQUARE.png" group-title="Samsung TV Plus",Series K Heart
+https://jmp2.uk/stvp-US4300002FK
+
+#EXTINF:-1 channel-id="US3700006XE" tvg-id="US3700006XE" tvg-chno="3524" tvg-name="Dinos 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700006XE_20241203T004820SQUARE.png" group-title="Samsung TV Plus",Dinos 24/7
+https://jmp2.uk/stvp-US3700006XE
+
+#EXTINF:-1 channel-id="USBA3400003IP" tvg-id="USBA3400003IP" tvg-chno="3532" tvg-name="Love Nature 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20251125T030751SQUARE.png" group-title="Samsung TV Plus",Love Nature 4K
+https://jmp2.uk/stvp-USBA3400003IP
+
+#EXTINF:-1 channel-id="USBD700011RE" tvg-id="USBD700011RE" tvg-chno="1260" tvg-name="Gravitas Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20241203T004808SQUARE.png" group-title="Samsung TV Plus",Gravitas Movies
+https://jmp2.uk/stvp-USBD700011RE
 
 **********World-TV**********
 
@@ -1522,7 +1530,7 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 
-#EXTINF:-1 tvg-id="curiosity now" tvg-logo="https://press.curiositystream.com/wp-content/uploads/2022/06/CuriosityNow_Wordmark_Stack_1C_Black.png" group-title="World TV Plus",Curiosity Now
+#EXTINF:-1 tvg-id="curiosity now" tvg-logo="https://press.curiositystream.com/wp-content/uploads/2022/06/CuriosityNow_Wordmark_Stack_1C_Black.png" group-title="World TV",Curiosity Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
 
