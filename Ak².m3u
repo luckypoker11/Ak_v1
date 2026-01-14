@@ -1805,3 +1805,9 @@ https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-com
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1746789759484354560/gyTX99Xv_400x400.jpg" group-title="World TV",NEW K Movies
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/MTV-Emblem.png" group-title="World TV",MTV
+https://nl.utako.moe/mtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/px/285466/svg/animax-logo-logo-icon-png-svg.png" group-title="World TV",Animax
+https://nl.utako.moe/Animax/index.m3u8
+
