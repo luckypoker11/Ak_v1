@@ -1203,7 +1203,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 
 **********Local**********
 
-#EXTINF:-1 group-logo="https://copilot.microsoft.com/th/id/BCO.2e3bc96b-69c4-466c-854f-ea232c70b395.png"
+#EXTINF:-1 group-logo="https://copilot.microsoft.com/th/id/BCO.51258e6b-58a0-42d5-b362-85a98cd7d4d1.png"
 
 #EXTINF:-1 tvg-id="pbb" tvg-logo="https://pql-static.abs-cbn.com/images/channel/pbbcelebritycollab_livethumb_20251023021847.jpg" group-title="Local",PBB All Access Livestream (Main)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
@@ -1535,7 +1535,7 @@ https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 
 **********World-TV**********
 
-#EXTINF:-1 group-logo="https://copilot.microsoft.com/th/id/BCO.37cc6938-cdff-49ba-86a4-4f783bd15d61.png"
+#EXTINF:-1 group-logo="https://copilot.microsoft.com/th/id/BCO.7618cc83-c557-4157-826f-ad40cb3051b0.png"
 
 #EXTINF:-1 tvg-id="cartoon network" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="World TV",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
