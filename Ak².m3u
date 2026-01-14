@@ -1236,6 +1236,14 @@ https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://copilot.microsoft.com/th/id/BCO.2ee10c82-3967-48cd-b4e5-2dc201a4db3d.png" group-title="Local",3rs TV
 https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://phcorner.org/attachments/1000064809-webp.3830196/" group-title="Local",AnimeX
+https://live20.bozztv.com/giatv/giatv-animex/animex/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://copilot.microsoft.com/th/id/BCO.79e96bd1-653a-4b0f-8062-d3e58782c7e5.png" group-title="Local",Movie Box PH
+https://live20.bozztv.com/giatvplayout7/giatv-210731/tracks-v1a1/mono.ts.m3u8
+
+
+
 **********Pilipinas Live**********
 
 #EXTINF:-1 group-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png"
@@ -1287,7 +1295,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/dash/index
 
 **********Pluto TV**********
 
-#EXTINF:-1 group-logo="https://static.cdnlogo.com/logos/p/95/pluto-tv.png"
+#EXTINF:-1 group-logo="https://variety.com/wp-content/uploads/2022/06/Pluto-TV-Canada.png?w=1000&h=667&crop=1"
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/World_Poker_Tour_Logo.png" group-title="Pluto TV",World Poker Tour
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21a974-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97bdb4b6-f530-4173-966d-19421ac303a0
@@ -1324,7 +1332,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 **********Samsung TV Plus**********
 
-#EXTINF:-1 group-logo="https://images.samsung.com/is/image/samsung/assets/nz/smart-tv-apps/samsung-tv-plus-logo-black.png"
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Samsung_TV_Plus_logo.png"
 
 #EXTINF:-1 tvg-id="deal or no deal" tvg-logo="https://w7.pngwing.com/pngs/345/193/png-transparent-deal-or-no-deal-logo-brand-game-label-large-pearl-game-text-label.png" group-title="Samsung TV Plus",Deal or No Deal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1349,6 +1357,9 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 #EXTINF:-1 tvg-id="kidoodle tv" tvg-logo="https://d1iiooxwdowqwr.cloudfront.net/pub/appsubmissions/20201230211817_FullLogoColor4x.png" group-title="Samsung TV Plus",Kidoodle TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg07653-apmc-amg07653c5-samsung-ph-8539.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/comic-u.png" group-title="Samsung TV Plus",Comic U
+https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="movie sphere" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzr9n9vXfsIMXF0V88P4qvKGc2O-RjY7QaKfgLWPNGy-MIONnQo6vlwRO7&amp;s=10" group-title="Samsung TV Plus",Movie Sphere
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1491,6 +1502,9 @@ https://jmp2.uk/stvp-USBA3400003IP
 
 #EXTINF:-1 channel-id="USBD700011RE" tvg-id="USBD700011RE" tvg-chno="1260" tvg-name="Gravitas Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20241203T004808SQUARE.png" group-title="Samsung TV Plus",Gravitas Movies
 https://jmp2.uk/stvp-USBD700011RE
+
+#EXTINF:-1 tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2025/01/motoracing-212.png" group-title="Samsung TV Plus",Motor Racing
+https://dai.google.com/linear/hls/pb/event/qI1pC-R_Sma0bVLVjaEOtw/stream/e5dc6e3b-2e32-4b5a-a0fd-c2f6290e54c4:TPE/variant/c587157d83c07c094ddbd5827f285bc4/bandwidth/3328000.m3u8
 
 **********World-TV**********
 
@@ -1770,4 +1784,19 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnon
 
 #EXTINF:-1 tvg-logo="https://userdocs.smartdnsproxy.com/userdocs/services/new/asian-crush.png" group-title="World TV",Asian Crush
 https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Crunchyroll-Emblem.png" group-title="World TV",Crunchyroll 
+https://8846385a.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQ3J1bmNoeXJvbGxfSExT/52fcc0aa-1958-4689-b873-89e2e8f928ec/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://copilot.microsoft.com/th/id/BCO.0383b5ea-564c-4d05-bd10-ec15702cc97e.png" group-title="World TV",Robot Wars by Mech+
+https://756db222c2d642f3beda9099815b4cf4.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_MechPlus/ce9d1260-9d08-4f03-9a1a-864fd2d7c249/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/212-2123663_mbc-south-korea-to-use-ksc-core-system.png" group-title="World TV",MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D5612AQFO5Gy4HL1onQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1680728015128?e=2147483647&v=beta&t=TzZMycD3hfmCnVtqd--vT2dnuAyKBuqVN6dp1qeprJ8" group-title="World TV",Billiard TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/6063a9ba-71aa-44f2-bdcf-0eb1cabf7b34/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/featuredImage.jpg" group-title="World TV",DAZN Combat
+https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
 
