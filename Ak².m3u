@@ -1,6 +1,6 @@
 #EXTM3U billed-msg="M3U PLAYLIST BY: Ak²/luckypoker11 (275-55)"
 
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz, https://raw.githubusercontent.com/azimabid00/epg/refs/heads/main/astro_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz
 
 **********Astro**********
 
@@ -294,14 +294,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
-#EXTINF:-1 tvg-id="2605" tvg-name="Warner TV [HD]" tvg-logo="https://clipground.com/images/warner-channel-logo-png.png" group-title="Astro",Warner TV [HD]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
-
 #EXTINF:-1 tvg-id="2611" tvg-name="Colors Hindi [HD]" tvg-logo="https://www.nationalfilmawards.in/wp-content/uploads/2024/08/image-46-1024x576.png" group-title="Astro",Colors Hindi [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -333,14 +325,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
-
-#EXTINF:-1 tvg-id="5014" tvg-name="MTV Live [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/2155px-MTV_Live_2021_logo.svg.png" group-title="Astro",MTV Live [HD]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
 
 #EXTINF:-1 tvg-id="5019" tvg-name="CGTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/CGTN_(China_Global_Television_Network).svg/revision/latest?cb=20210816144604" group-title="Astro",CGTN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1227,11 +1211,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbno
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Local",Kapamilya Channel HD
 https://live-faws.akamaized.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
-#EXTINF:-1 tvg-id="tfc" tvg-logo="https://i.imgur.com/zZWj5vn.png" group-title="Local",TFC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
-
 #EXTINF:-1 tvg-id="dzmm teleradyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/1200px-DZMM_TeleRadyo.svg.png" group-title="Local",DZMM TeleRadyo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
@@ -1250,6 +1229,12 @@ https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90ea4079e02f418db7b170e8763e65f0:1bfe2d166e31d03eee86ee568bd6c272
 https://abslive.akamaized.net/dash/live/2028025/jeepneytv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://copilot.microsoft.com/th/id/BCO.48c13c7e-2ae9-4635-b6ba-3bdfd309bfb9.png" group-title="Local",3rs Sine Pinoy
+https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://copilot.microsoft.com/th/id/BCO.2ee10c82-3967-48cd-b4e5-2dc201a4db3d.png" group-title="Local",3rs TV
+https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
 
 **********Pilipinas Live**********
 
@@ -1509,7 +1494,7 @@ https://jmp2.uk/stvp-USBD700011RE
 
 **********World-TV**********
 
-#EXTINF:-1 group-logo="https://copilot.microsoft.com/th/id/BCO.edaaa303-eceb-42ed-9065-f08a8c80a0bd.png"
+#EXTINF:-1 group-logo="https://copilot.microsoft.com/th/id/BCO.37cc6938-cdff-49ba-86a4-4f783bd15d61.png"
 
 #EXTINF:-1 tvg-id="cartoon network" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="World TV",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1773,7 +1758,16 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_c
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
 
-#EXTINF:-1 tvg-id="korean drama sd" tvg-logo="https://cdn.vectorstock.com/i/500p/91/49/korean-drama-lettering-art-vector-44579149.jpg" group-title="World TV",Korean Drama SD
+#EXTINF:-1 tvg-id="korean drama sd" tvg-logo="https://copilot.microsoft.com/th/id/BCO.7ee36bde-2a0b-4dee-96a2-32f7aafccb80.png" group-title="World TV",Korean Drama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="tfc" tvg-logo="https://i.imgur.com/zZWj5vn.png" group-title="World TV",TFC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
+
+#EXTINF:-1 tvg-logo="https://userdocs.smartdnsproxy.com/userdocs/services/new/asian-crush.png" group-title="World TV",Asian Crush
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8
+
