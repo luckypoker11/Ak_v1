@@ -1,0 +1,1319 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b2c1ec68ac711ef82fd506b4d4f9255:9f059838c8ac7a21fea2476abfce12ae
+#EXTINF:-1 tvg-id="thegatekeeper" tvg-name="The Gatekeeper (2024)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mkbkFUk5hQFKg4D9In7SI4zopxa.jpg" group-title="TFC MOVIES",The Gatekeeper (2024)
+https://absvod.akamaized.net/c/2/m/5b2c1ec6-8ac7-11ef-82fd-506b4d4f9255.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f31204c51e511ecb738b0c19a9349dd:c68c5a957d5b72aceb51147c6997d125
+#EXTINF:-1 tvg-id="malaya" tvg-name="Malaya" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mKmNyiEtO3wDPEoAu7Z690QT0Qz.jpg" group-title="TFC MOVIES",Malaya
+https://absvod.akamaized.net/c/2/m/6f31204c-51e5-11ec-b738-b0c19a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6efe3b287d3311eb8a949f5b408284f3:d0ce58e8b5254e51046c3196886bce0e
+#EXTINF:-1 tvg-id="nortlights" tvg-name="Northern Lights" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/agleuVYzkXmEaNBbp9CHPqOYlYw.jpg" group-title="TFC MOVIES",Northern Lights
+https://absvod.akamaized.net/c/2/m/6efe3b28-7d33-11eb-8a94-9f5b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65a98216160e11ecae36fee762049da0:5b1d0439f58b9d27c2f964236a9a584d
+#EXTINF:-1 tvg-id="statuscompli" tvg-name="Status: It's Complicated" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/k0FjT1eAqkFiAem82Q0dHbtDhG7.jpg" group-title="TFC MOVIES",Status: It's Complicated
+https://absvod.akamaized.net/c/2/m/65a98216-160e-11ec-ae36-fee762049da0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8030e5e89ab11eb80aace34408284f3:055c064e825536fd4c241fa360a29830
+#EXTINF:-1 tvg-id="allmylife" tvg-name="All My Life" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/58l4QZ2yykbZDuSlQNg2HI2wQQz.jpg" group-title="TFC MOVIES",All My Life
+https://absvod.akamaized.net/c/2/m/c8030e5e-89ab-11eb-80aa-ce34408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82bdf316872811eba5996c4f408284f3:6f6f396398a85b0e857329faf5848ce1
+#EXTINF:-1 tvg-id="allaboutlove" tvg-name="All About Love" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2Tng0npJmMD8ipQdoH2ulcDjtcQ.jpg" group-title="TFC MOVIES",All About Love
+https://absvod.akamaized.net/c/2/m/82bdf316-8728-11eb-a599-6c4f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f384e9ec872811eb9377bc52408284f3:5b4b9b1cbd2fb0fdef1bb4997a1d466d
+#EXTINF:-1 tvg-id="dongibup" tvg-name="Don't Give Up On Us" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xIUjbMDkiQH4W6KLclPddZVRniL.jpg" group-title="TFC MOVIES",Don't Give Up On Us
+https://absvod.akamaized.net/c/2/m/f384e9ec-8728-11eb-9377-bc52408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecf9231089ab11eb82da0f3b408284f3:6796835b872986869bf0039280d65e17
+#EXTINF:-1 tvg-id="dreamboy" tvg-name="Dreamboy" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pIO1otUpSIq6jVTybl07M0mdZfr.jpg" group-title="TFC MOVIES",Dreamboy
+https://absvod.akamaized.net/c/2/m/ecf92310-89ab-11eb-82da-0f3b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dea41518324811ec88048e31d69bab7c:6a525f71091fc3b31dd57c7b1817285f
+#EXTINF:-1 tvg-id="bagongbuwan" tvg-name="Bagong Buwan" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gAjKi6uy5AMbX7FQSaZjaqwtaUC.jpg" group-title="TFC MOVIES",Bagong Buwan
+https://absvod.akamaized.net/c/2/m/dea41518-3248-11ec-8804-8e31d69bab7c.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c3c5690b97911eda82538ce629ee721:5377566cd2dfbeafb29aa1377041a465
+#EXTINF:-1 tvg-id="may1pamilya" tvg-name="May Isang Pamilya" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gko2loNe2phPXjv6VUJU7BLLkJL.jpg" group-title="TFC MOVIES",May Isang Pamilya
+https://absvod.akamaized.net/c/2/m/9c3c5690-b979-11ed-a825-38ce629ee721.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=980bf3e27eb011eb87e7e19b408284f3:795fda030ee4c9635de794d0a92a9947
+#EXTINF:-1 tvg-id="maybediztime" tvg-name="Maybe This Time" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iLRNcubYiSIYPDeSX4nvm7WhH7O.jpg" group-title="TFC MOVIES",Maybe This Time
+https://absvod.akamaized.net/c/2/m/980bf3e2-7eb0-11eb-87e7-e19b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c0e12dc7dd511ebbfe1a438408284f3:80e20cefb206cc5ee88596da30f25fd2
+#EXTINF:-1 tvg-id="archybrekhert" tvg-name="The Achy Breaky Hearts" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jKHxnjDiKUNAkTQmeP1gCwpB7oD.jpg" group-title="TFC MOVIES",The Achy Breaky Hearts
+https://absvod.akamaized.net/c/2/m/7c0e12dc-7dd5-11eb-bfe1-a438408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a59033ca7eb011eb82d70640408284f3:a7a1b51dcd0c9c79bb923442bfddab7e
+#EXTINF:-1 tvg-id="thetrial" tvg-name="The Trial" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/f6RmYA7pZJOX4NULr3lz1ZHihXE.jpg" group-title="TFC MOVIES",The Trial
+https://absvod.akamaized.net/c/2/m/a59033ca-7eb0-11eb-82d7-0640408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=be48a0947b5b11ebb8c8df2f408284f3:b43f7d3fa78c0f1a0350df5128f328a3
+#EXTINF:-1 tvg-id="isapafeel" tvg-name="Isa Pa With Feelings" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4vEigdvdsMFHQGDUEfZPXXD7YWn.jpg" group-title="TFC MOVIES",Isa Pa With Feelings
+https://absvod.akamaized.net/c/2/m/be48a094-7b5b-11eb-b8c8-df2f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c187e97e6e5911ee96e7818750b9a56c:85ed4f641180f70a5ce3f6b964de9892
+#EXTINF:-1 tvg-id="gorengdres" tvg-name="The Girl in the Orange Dress" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hAdSVSwrqMgKQ75DQQYoxXsto8.jpg" group-title="TFC MOVIES",The Girl in the Orange Dress
+https://absvod.akamaized.net/c/2/m/c187e97e-6e59-11ee-96e7-818750b9a56c.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85ec5d62af211eeb494f14c5666e3bf:00dedf0cdfde6858f6c7240e6b02a206
+#EXTINF:-1 tvg-id="relaksijp" tvg-name="Relaks, It's Just Pag-ibig" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fH6CbITshMB0voTaOkDDfMtN334.jpg" group-title="TFC MOVIES",Relaks, It's Just Pag-ibig
+https://absvod.akamaized.net/c/2/m/e85ec5d6-2af2-11ee-b494-f14c5666e3bf.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce0fdf47f9c11ebb4fb462b408284f3:0628e5687abd2ba0b8fe315c0699f9bc
+#EXTINF:-1 tvg-id="themitret" tvg-name="The Mistress" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hVW73ewS9OaOHsXsu7iulPJxm06.jpg" group-title="TFC MOVIES",The Mistress
+https://absvod.akamaized.net/c/2/m/8ce0fdf4-7f9c-11eb-b4fb-462b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=612d648c7d3411ebb146817d408284f3:5e694e25dac353238f15f93aea7ce07e
+#EXTINF:-1 tvg-id="dahwsofus" tvg-name="The Hows of Us" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2O3SS7Gh2OuKdzxi2bEOi7zNVue.jpg" group-title="TFC MOVIES",The Hows of Us
+https://absvod.akamaized.net/c/2/m/612d648c-7d34-11eb-b146-817d408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae6ec7407eb011eb9497e934408284f3:685d417b3b13cc51a0fd9e9bc4392a4c
+#EXTINF:-1 tvg-id="unOfficiallyurs" tvg-name="UnOfficially Yours" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9xmaAX5ZpIVVHwavb9fMfC4LkgQ.jpg" group-title="TFC MOVIES",UnOfficially Yours
+https://absvod.akamaized.net/c/2/m/ae6ec740-7eb0-11eb-9497-e934408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2688d2e0835f11eba2457f9f408284f3:5d1c7de056eb3715439b5b8008e24267
+#EXTINF:-1 tvg-id="wedingtaundi" tvg-name="Wedding Tayo, Wedding Hindi" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aaxkPNVPYN0rtF86OKvPzj2wmIP.jpg" group-title="TFC MOVIES",Wedding Tayo, Wedding Hindi
+https://absvod.akamaized.net/c/2/m/2688d2e0-835f-11eb-a245-7f9f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=09b2095e89ac11ebb4d2c197408284f3:af40cd0d0ef3cf3517bc6e08ce532243
+#EXTINF:-1 tvg-id="wenlabbegin" tvg-name="When Love Begins" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/r20kklgPDB5of6UbRSiAlwflexi.jpg" group-title="TFC MOVIES",When Love Begins
+https://absvod.akamaized.net/c/2/m/09b2095e-89ac-11eb-b4d2-c197408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a51f0b4488c111eb822cfc40408284f3:d3f78967a25567fc92d8885395d7da71
+#EXTINF:-1 tvg-id="caineabel" tvg-name="Cain & Abel" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/a9UnqOf73L2HPu1fLIIqkROD8OW.jpg" group-title="TFC MOVIES",Cain & Abel
+https://absvod.akamaized.net/c/2/m/a51f0b44-88c1-11eb-822c-fc40408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a810652446911ec9ac00137550b00c0:c561702961b59c4c5e2de21a29b3fff2
+#EXTINF:-1 tvg-id="ssskolokoy" tvg-name="Sanggano, Sanggago't Sanggwapo" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2LFkGH8s14GeHhy8uJS8D5VfxOp.jpg" group-title="TFC MOVIES",Sanggano, Sanggago't Sanggwapo
+https://absvod.akamaized.net/c/2/m/8a810652-4469-11ec-9ac0-0137550b00c0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9acfe24e7f9811ebb4d9a978408284f3:9a3372c85a846ae28759f41fdcd120f4
+#EXTINF:-1 tvg-id="sisterakas" tvg-name="Sisterakas" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rsWVKdCf1iIeLA4UJpqpHT1Nw9R.jpg" group-title="TFC MOVIES",Sisterakas
+https://absvod.akamaized.net/c/2/m/9acfe24e-7f98-11eb-b4d9-a978408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53a7928a835411ebac0f5ca3408284f3:984f73bbcb0cd1278517cfd6b85738eb
+#EXTINF:-1 tvg-id="soltera" tvg-name="Soltera" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/efvKH5jUfyzeW47cx2UkJAiOFH5.jpg" group-title="TFC MOVIES",Soltera
+https://absvod.akamaized.net/c/2/m/53a7928a-8354-11eb-ac0f-5ca3408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e0e6c0c3d3011ee98f0b466f17e351c:da4155d17e5a179bee0ababa56475316
+#EXTINF:-1 tvg-id="silip" tvg-name="Silip" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yJg0fdbpfEUN4co9cWAfLQODNmn.jpg" group-title="TFC MOVIES",Silip
+https://absvod.akamaized.net/c/2/m/4e0e6c0c-3d30-11ee-98f0-b466f17e351c.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=439aa8ac6b2c11ed993763a81bec293c:5fe476d93f930d9c519854700065a513
+#EXTINF:-1 tvg-id="sisid" tvg-name="Sisid" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/CyQ9YKxZtSjP52XQiatiSBXJey.jpg" group-title="TFC MOVIES",Sisid
+https://absvod.akamaized.net/c/2/m/439aa8ac-6b2c-11ed-9937-63a81bec293c.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3af41f0c84d411ebaa2d5d64408284f3:824b7e7c97e3818fe2cbcdeb5f74914f
+#EXTINF:-1 tvg-id="saraprinsesa" tvg-name="Sarah, Ang Munting Prinsesa" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kJCX5g2bu8RhL3N1ss2IeD21oTY.jpg" group-title="TFC MOVIES",Sarah, Ang Munting Prinsesa
+https://absvod.akamaized.net/c/2/m/3af41f0c-84d4-11eb-aa2d-5d64408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd5c5e4c89be11eba8618a2b408284f3:88433192e2dd19e0df54ce79036bcc84
+#EXTINF:-1 tvg-id="segundamano" tvg-name="Segunda Mano" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cvataJAGPfMEfRfzzdSRi8fxaTT.jpg" group-title="TFC MOVIES",Segunda Mano
+https://absvod.akamaized.net/c/2/m/cd5c5e4c-89be-11eb-a861-8a2b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=245c487e090611ee9dc498cf4cd6f88b:6259fdcd77f3a0c688a2453de69f025c
+#EXTINF:-1 tvg-id="siargao" tvg-name="Siargao" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9VKVrdyZj3Zr5F64PzvdOJy5PQi.jpg" group-title="TFC MOVIES",Siargao
+https://absvod.akamaized.net/c/2/m/245c487e-0906-11ee-9dc4-98cf4cd6f88b.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2882b0a678f11eebc4e948ecede1db9:a0ae248ede31db8db95c8959dc17345f
+#EXTINF:-1 tvg-id="pakpakkwak" tvg-name="Pak! Pak! My Dr. Kwak!" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hCG9wxOebBztRnOV9YEUcdZzGdt.jpg" group-title="TFC MOVIES",Pak! Pak! My Dr. Kwak!
+https://absvod.akamaized.net/c/2/m/23076eae-4468-11ec-9a8a-961a550b00c0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1f16b267d3011ebb2ed9f5b408284f3:815a5036047e31841e21912c6d02ea90
+#EXTINF:-1 tvg-id="alwaysbemybabe" tvg-name="Always Be My Maybe" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cYb2NXNgTUvnFJfEuNpZ1YErDBF.jpg" group-title="TFC MOVIES",Always Be My Maybe
+https://absvod.akamaized.net/c/2/m/e1f16b26-7d30-11eb-b2ed-9f5b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e999f68e872811eb9377bc52408284f3:2e114144e3e339f189caf5b0152aa8df
+#EXTINF:-1 tvg-id="dluckones" tvg-name="D' Lucky Ones" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mZbmDI8K9lIE161R6GGbr8P2sgW.jpg" group-title="TFC MOVIES",D' Lucky Ones
+https://absvod.akamaized.net/c/2/m/e999f68e-8728-11eb-9377-bc52408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f19e2a8840111ebaf44e4a8408284f3:020693e584b1f58ed2afc28f4d29b0bf
+#EXTINF:-1 tvg-id="danothers" tvg-name="D' Anothers" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d18SSu7qAWyzcrt5x2xFr4QWmve.jpg" group-title="TFC MOVIES",D' Anothers
+https://absvod.akamaized.net/c/2/m/7f19e2a8-8401-11eb-af44-e4a8408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=868b11c0d98711ebbf2098ba2c84fa97:c833182c77756706f5284341fae7355a
+#EXTINF:-1 tvg-id="entenginmo" tvg-name="Enteng Ng Ina Mo" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zSrWrdfQBeuzvGLWbYlat69JK45.jpg" group-title="TFC MOVIES",Enteng Ng Ina Mo
+https://absvod.akamaized.net/c/2/m/868b11c0-d987-11eb-bf20-98ba2c84fa97.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3af60d42895411ebbaad243c408284f3:b96304b0deb4e3a88a606d5a13369ad8
+#EXTINF:-1 tvg-id="ekstra" tvg-name="Ekstra" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pk4cEAvHagZduwD2161RVIq0lAA.jpg" group-title="TFC MOVIES",Ekstra
+https://absvod.akamaized.net/c/2/m/3af60d42-8954-11eb-baad-243c408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e813043ec111ec92a9b839550b00c0:e69c0dccef5db1486e3e122c53f9413c
+#EXTINF:-1 tvg-id="pinaypie" tvg-name="Pinay Pie" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/z0Rkx95dBTlVGsFodQlkN6Jagjj.jpg" group-title="TFC MOVIES",Pinay Pie
+https://absvod.akamaized.net/c/2/m/58e81304-3ec1-11ec-92a9-b839550b00c0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3681a5e4880211eb96301f56408284f3:14622ccb8733bdff88904f2c9163481a
+#EXTINF:-1 tvg-id="radioromance" tvg-name="Radio Romance" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hCyZe2Q6qu3vZCoIIidfx4tGVmk.jpg" group-title="TFC MOVIES",Radio Romance
+https://absvod.akamaized.net/c/2/m/3681a5e4-8802-11eb-9630-1f56408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d17b0a2c89c411eb8c8aef45408284f3:f8feb47d85e86c403ecebfad70fc52a5
+#EXTINF:-1 tvg-id="tillmyhert" tvg-name="Till My Heartaches End" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yOfGk35D35sHnPOKbjeJTxdFc64.jpg" group-title="TFC MOVIES",Till My Heartaches End
+https://absvod.akamaized.net/c/2/m/d17b0a2c-89c4-11eb-8c8a-ef45408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e591f450326911ec8d83abbd5f903d0e:bf161901c183186005d7053b9457187e
+#EXTINF:-1 tvg-id="tilderwasu" tvg-name="Till There Was You" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/p6rsyWXAbFeE7lj9BTc9xpKzLoe.jpg" group-title="TFC MOVIES",Till There Was You
+https://absvod.akamaized.net/c/2/m/e591f450-3269-11ec-8d83-abbd5f903d0e.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cdaf3ea7f9e11eb821f9338408284f3:9fee11f8f70c9e7b1aacf20c71fcafb6
+#EXTINF:-1 tvg-id="the3dparty" tvg-name="The Third Party" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oKY6EbKB3OZaJEyOnRBOtH1Y21c.jpg" group-title="TFC MOVIES",The Third Party
+https://absvod.akamaized.net/c/2/m/2cdaf3ea-7f9e-11eb-821f-9338408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcbbc66c7b5b11eb80f34b2e408284f3:a2e697e696d455d04cb27aef11288806
+#EXTINF:-1 tvg-id="thesigoth" tvg-name="The Significant Other" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fptVI8W91e6G1slKCJUzNMwxHLP.jpg" group-title="TFC MOVIES",The Significant Other
+https://absvod.akamaized.net/c/2/m/fcbbc66c-7b5b-11eb-80f3-4b2e408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=986f3aac7f9a11ebaefbb678408284f3:9c35687929f5870a35086ff1b3388f8a
+#EXTINF:-1 tvg-id="theloveaffair" tvg-name="The Love Affair" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xfkKojYMUTDrI1jD6DTyAuDZdXr.jpg" group-title="TFC MOVIES",The Love Affair
+https://absvod.akamaized.net/c/2/m/986f3aac-7f9a-11eb-aefb-b678408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=964272fa7f9811ebb881a585408284f3:78ad9975f92de8586a69f01a8b1c604b
+#EXTINF:-1 tvg-id="ridtandem" tvg-name="Riding In Tandem" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vbOMv96hxWTxOcLeKYg8YuNVDGs.jpg" group-title="TFC MOVIES",Riding In Tandem
+https://absvod.akamaized.net/c/2/m/964272fa-7f98-11eb-b881-a585408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2730fecdb2311ebbce3d6962c84fa97:3f1def1cf94ebb04ef0053b14108ff17
+#EXTINF:-1 tvg-id="bridelover" tvg-name="The Bride and the Lover" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/l8AFZZyiTynfVJoYcD9g5GtzVeY.jpg" group-title="TFC MOVIES",The Bride and the Lover
+https://absvod.akamaized.net/c/2/m/c2730fec-db23-11eb-bce3-d6962c84fa97.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d48f582a7b5b11ebb11a9f2f408284f3:3f5a7a906c17b74d1fa56426bfb460cb
+#EXTINF:-1 tvg-id="muchbelove" tvg-name="Must Beâ€¦ Love" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ujnvceG8jovPh4sr7kiP13UAX8K.jpg" group-title="TFC MOVIES",Must Beâ€¦ Love
+https://absvod.akamaized.net/c/2/m/d48f582a-7b5b-11eb-b11a-9f2f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8abd3aa27eb011eb82ab8540408284f3:8ff8a70559bc78e85802c013f700c5da
+#EXTINF:-1 tvg-id="just2us" tvg-name="Just the 3 of Us" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2SXeMYcN4q3KwYf2gb3RHYwkCdn.jpg" group-title="TFC MOVIES",Just the 3 of Us
+https://absvod.akamaized.net/c/2/m/8abd3aa2-7eb0-11eb-82ab-8540408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f15a53048a1c11eb9a10a898408284f3:74dabd431e3b8301d5ed5f307417b553
+#EXTINF:-1 tvg-id="sanamaulit" tvg-name="Sana Maulit Muli" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nzTtXPjUtzocAAXajgBhrhJMq04.jpg" group-title="TFC MOVIES",Sana Maulit Muli
+https://absvod.akamaized.net/c/2/m/f15a5304-8a1c-11eb-9a10-a898408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76c8d6463a3f11ec95223c4028972df8:8e491319221b4b705d9af4a9ec4a9e64
+#EXTINF:-1 tvg-id="silong" tvg-name="Silong" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/89dBfje0fCEUtdHP7qjpJaSj6Nz.jpg" group-title="TFC MOVIES",Silong
+https://absvod.akamaized.net/c/2/m/76c8d646-3a3f-11ec-9522-3c4028972df8.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=80f77cda7dd411eb8917833b408284f3:3f0c772ac0d571bf4f00547cfa578919
+#EXTINF:-1 tvg-id="howtobyur" tvg-name="How to Be Yours" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mjIrh2R4VLZAhI9bpJsjwkhwhHd.jpg" group-title="TFC MOVIES",How to Be Yours
+https://absvod.akamaized.net/c/2/m/80f77cda-7dd4-11eb-8917-833b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=de341b3289ab11eb801ec655408284f3:9d821cb8c218fffc458eb69948116623
+#EXTINF:-1 tvg-id="banaue" tvg-name="Banaue: Stairway to the Sky" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kZHTgrX4YqPpEiUwC8FMGolyIR5.jpg" group-title="TFC MOVIES",Banaue: Stairway to the Sky
+https://absvod.akamaized.net/c/2/m/de341b32-89ab-11eb-801e-c655408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e912fb9a84d311ebbca12446408284f3:f11c1abc09da2de89cf79a7a4b9ef3e1
+#EXTINF:-1 tvg-id="kailangnkta" tvg-name="Kailangan Kita" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eQiGnPl7MA2CsCT6iPilT51qMZH.jpg" group-title="TFC MOVIES",Kailangan Kita
+https://absvod.akamaized.net/c/2/m/e912fb9a-84d3-11eb-bca1-2446408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c71aa6227b5b11ebbbf2c62f408284f3:683e94ebd04834b51c0bc75427ed0b3f
+#EXTINF:-1 tvg-id="jtwya" tvg-name="Just the Way You Are" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oNFY6283FTciXSD8ktpUnsWCDky.jpg" group-title="TFC MOVIES",Just the Way You Are
+https://absvod.akamaized.net/c/2/m/c71aa622-7b5b-11eb-bbf2-c62f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff96da3e7d3111eba8dd9f5b408284f3:a81318f9661ab5eb3f5038038c5e3629
+#EXTINF:-1 tvg-id="blockz" tvg-name="Block Z" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/n6jAasaOFvg0LNEpx7tLr5gVAEP.jpg" group-title="TFC MOVIES",Block Z
+https://absvod.akamaized.net/c/2/m/ff96da3e-7d31-11eb-a8dd-9f5b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f14ab4907d3211eb8f9d215a408284f3:c2f7592eb5d8937855ca02a536b40178
+#EXTINF:-1 tvg-id="lastnight" tvg-name="Last Night" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/y8I5VeSWJb6Pgukhhiiup5AEXA.jpg" group-title="TFC MOVIES",Last Night
+https://absvod.akamaized.net/c/2/m/f14ab490-7d32-11eb-8f9d-215a408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5089c592446911eca1491725550b00c0:b53df402b5849012890568282825663a
+#EXTINF:-1 tvg-id="luck2stsi" tvg-name="Luck At First Sight" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kpM6SdfaZYt8h39mbf1FiqsSOMl.jpg" group-title="TFC MOVIES",Luck At First Sight
+https://absvod.akamaized.net/c/2/m/5089c592-4469-11ec-a149-1725550b00c0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8653f5adb1a11eb8597bd722c84fa97:022a9265af145ada48ad4df1cb75eb88
+#EXTINF:-1 tvg-id="manopo3" tvg-name="Mano Po III: My Love" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/grV1pIrn22Bu3pweYIgrtabM0kE.jpg" group-title="TFC MOVIES",Mano Po III: My Love
+https://absvod.akamaized.net/c/2/m/c8653f5a-db1a-11eb-8597-bd722c84fa97.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6008e8d03c9511ecb9d756dd28972df8:66577f3b1866e2d0f300db9e56aa84f4
+#EXTINF:-1 tvg-id="walangforever" tvg-name="#WalangForever" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7qZUC0AQmSi7pxNP6cH3swkb8Is.jpg" group-title="TFC MOVIES",#WalangForever
+https://absvod.akamaized.net/c/2/m/6008e8d0-3c95-11ec-b9d7-56dd28972df8.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c6989c07ea211eb8db1f89a408284f3:e7f65a4c0874445ded4ea5d502f7a4f1
+#EXTINF:-1 tvg-id="borntolovyu" tvg-name="Born To Love You" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gxMCYpBbQX54cgNQB1NmdSipsbq.jpg" group-title="TFC MOVIES",Born To Love You
+https://absvod.akamaized.net/c/2/m/0c6989c0-7ea2-11eb-8db1-f89a408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4303676e872911eba32c9d6b408284f3:dcd1f80e443c6a4dfb30cb868d80c099
+#EXTINF:-1 tvg-id="kungakonlsna" tvg-name="Kung Ako Na Lang Sana" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/t9BZZrwtNFfJ5oZaQ5kP0naDAE7.jpg" group-title="TFC MOVIES",Kung Ako Na Lang Sana
+https://absvod.akamaized.net/c/2/m/4303676e-8729-11eb-a32c-9d6b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3deddee80f211eb81a7e537408284f3:08d277b1b9279cebb8346d56e3e99a76
+#EXTINF:-1 tvg-id="haliksahangin" tvg-name="Halik sa Hangin" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tbBoJnQiqCcLYSySmyWi2qduqiQ.jpg" group-title="TFC MOVIES",Halik sa Hangin
+https://absvod.akamaized.net/c/2/m/f3deddee-80f2-11eb-81a7-e537408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=373c7ce6835411ebbadc5ba6408284f3:e5f7555198d2cbc08444ab785b1c6977
+#EXTINF:-1 tvg-id="pulubiprinsesa" tvg-name="Ang Pulubi at ang Prinsesa" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8aq70BmKlI6xX43t6HpGl3SdPbe.jpg" group-title="TFC MOVIES",Ang Pulubi at ang Prinsesa
+https://absvod.akamaized.net/c/2/m/373c7ce6-8354-11eb-badc-5ba6408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=312d799e80f311ebb7b5326e408284f3:d854e9cd5bf53aca4965138d457d981e
+#EXTINF:-1 tvg-id="superpg" tvg-name="The Super Parental Guardians" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2f7lZGx6uhon67m4WRIztStXwwa.jpg" group-title="TFC MOVIES",The Super Parental Guardians
+https://absvod.akamaized.net/c/2/m/312d799e-80f3-11eb-b7b5-326e408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab91ee347f3811eb97f78d54408284f3:8137909ff640435efd1ceaffe75a02f1
+#EXTINF:-1 tvg-id="allneedpag" tvg-name="All You Need is Pag-ibig" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1KPsz80Fqua6kCmJSJyCc1Tp66V.jpg" group-title="TFC MOVIES",All You Need is Pag-ibig
+https://absvod.akamaized.net/c/2/m/ab91ee34-7f38-11eb-97f7-8d54408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9cde95480f211ebbccfe537408284f3:953519ac5c519fa76e9376d2aa70ad37
+#EXTINF:-1 tvg-id="deraderself" tvg-name="Dear Other Self" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m1uCowCITpZ8rWC9jdYKUITAA6A.jpg" group-title="TFC MOVIES",Dear Other Self
+https://absvod.akamaized.net/c/2/m/d9cde954-80f2-11eb-bccf-e537408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a752700370211ecb189d6c128972df8:7bbb51e7d21702fa827eae3f57ee4c3b
+#EXTINF:-1 tvg-id="aishite1941" tvg-name="Aishite Imasu 1941: Mahal Kita" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jSkFEGutmWN9i06jc1wssJLDoot.jpg" group-title="TFC MOVIES",Aishite Imasu 1941: Mahal Kita
+https://absvod.akamaized.net/c/2/m/5a752700-3702-11ec-b189-d6c128972df8.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=400d411c7d3111eba0f29f5b408284f3:abc6a0a410ad9d9196635b85a25bc4c3
+#EXTINF:-1 tvg-id="2mrsreyes" tvg-name="Ang Dalawang Mrs. Reyes" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gnn1eryRhGibDZWoVXs6aVYGjNt.jpg" group-title="TFC MOVIES",Ang Dalawang Mrs. Reyes
+https://absvod.akamaized.net/c/2/m/400d411c-7d31-11eb-a0f2-9f5b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=09e73dc67b5c11ebaee86a2f408284f3:8171c1eceefe13e5237cfda525f227f0
+#EXTINF:-1 tvg-id="unbreakable" tvg-name="Unbreakable" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/r7YbAANWNOiXP4EVZR3MzW4PbTn.jpg" group-title="TFC MOVIES",Unbreakable
+https://absvod.akamaized.net/c/2/m/09e73dc6-7b5c-11eb-aee8-6a2f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd966b3680f211ebaa376c36408284f3:d45324f1c6307de5c0ecc7e23e152f99
+#EXTINF:-1 tvg-id="kasal" tvg-name="Kasal" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sU2dcj0v80Bftq4jnjqXcIiqOsM.jpg" group-title="TFC MOVIES",Kasal
+https://absvod.akamaized.net/c/2/m/fd966b36-80f2-11eb-aa37-6c36408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=affa10147f3811eb899dfa40408284f3:815ee9b309e6fb4ee80d58dddb74f733
+#EXTINF:-1 tvg-id="asecondchance" tvg-name="A Second Chance" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/82FpLp4gYMguvIyzu8RD2eQ0TlC.jpg" group-title="TFC MOVIES",A Second Chance
+https://absvod.akamaized.net/c/2/m/affa1014-7f38-11eb-899d-fa40408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5926c4ca7d3611ebb11e1c83408284f3:4d0c4306a49e905882506f62eb7d6edc
+#EXTINF:-1 tvg-id="unexpectedly" tvg-name="Unexpectedly Yours" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/y6TGzo0tfh0fxC7x6TBYne7NR4a.jpg" group-title="TFC MOVIES",Unexpectedly Yours
+https://absvod.akamaized.net/c/2/m/5926c4ca-7d36-11eb-b11e-1c83408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8066d6b0446911ec80ea5734550b00c0:091a90ca9d906296f8c0ed27c6b0bf34
+#EXTINF:-1 tvg-id="forthebrokenh" tvg-name="For the Broken Hearted" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/v0OTHW7zSfRIrIZ3PNxxpl1zTvO.jpg" group-title="TFC MOVIES",For the Broken Hearted
+https://absvod.akamaized.net/c/2/m/8066d6b0-4469-11ec-80ea-5734550b00c0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=39b427a07dd511eb93c88e3b408284f3:0f79664aae46a4a74bcd6c9c35d357a3
+#EXTINF:-1 tvg-id="myexwhy" tvg-name="My Ex & Whys" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mG0LADwKFZ2cU0sbpt5yDUuLJHp.jpg" group-title="TFC MOVIES",My Ex & Whys
+https://absvod.akamaized.net/c/2/m/39b427a0-7dd5-11eb-93c8-8e3b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55cee3ca7f9811eba326a978408284f3:32a1e495c8db4769f44a3e526fe1da91
+#EXTINF:-1 tvg-id="itamaw" tvg-name="It Takes a Man and a Woman" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/g4iK1p5ZZDkpMQH0GUYTDGKNmsi.jpg" group-title="TFC MOVIES",It Takes a Man and a Woman
+https://absvod.akamaized.net/c/2/m/55cee3ca-7f98-11eb-a326-a978408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aae39854826a11ebab38bf98408284f3:62ec3d8bd680ed9bc7147a289cdde790
+#EXTINF:-1 tvg-id="babe143" tvg-name="Babe, I Love You" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kuOwTztCfmaooq1hVaQHqakXvF7.jpg" group-title="TFC MOVIES",Babe, I Love You
+https://absvod.akamaized.net/c/2/m/aae39854-826a-11eb-ab38-bf98408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa24077e7d3211ebb1e1b962408284f3:6f1125637c11b8fe0463bf41cd1751df
+#EXTINF:-1 tvg-id="lyttdfg" tvg-name="Love You to the Stars and Back" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xI2kkwgSWY7ONqKWoORyJNUEDaU.jpg" group-title="TFC MOVIES",Love You to the Stars and Back
+https://absvod.akamaized.net/c/2/m/fa24077e-7d32-11eb-b1e1-b962408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeac980c7f9911eb9795a585408284f3:24ae7989d11df2a194b911a8b2200362
+#EXTINF:-1 tvg-id="tbplaylist" tvg-name="The Breakup Playlist" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/57fQBQS5tw3buS8LaOmILH2kOgf.jpg" group-title="TFC MOVIES",The Breakup Playlist
+https://absvod.akamaized.net/c/2/m/eeac980c-7f99-11eb-9795-a585408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a320321c826a11ebb327aca1408284f3:2d6a8f583e3d3ff838b13e4e61991408
+#EXTINF:-1 tvg-id="averspeclo" tvg-name="A Very Special Love" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/eggMe506MiKRzDKuY1yAO71sUGY.jpg" group-title="TFC MOVIES",A Very Special Love
+https://absvod.akamaized.net/c/2/m/a320321c-826a-11eb-b327-aca1408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd7a77867d3011eba11acf5a408284f3:c4f8426203e807cebb6e9dfdc295f424
+#EXTINF:-1 tvg-id="Abandoned" tvg-name="Abandoned" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ayqDqYh9t1XS0mdczj0pOz2yzId.jpg" group-title="TFC MOVIES",Abandoned
+https://absvod.akamaized.net/c/2/m/dd7a7786-7d30-11eb-a11a-cf5a408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfcdcc02872811eb8dde5e4f408284f3:d8216fec60ab8680094d621d61ebe755
+#EXTINF:-1 tvg-id="dalaw" tvg-name="Dalaw" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rwxlKI5Sat1HbZVY6Bh9rENEIhC.jpg" group-title="TFC MOVIES",Dalaw
+https://absvod.akamaized.net/c/2/m/dfcdcc02-8728-11eb-8dde-5e4f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce42112872811eba13c2e59408284f3:a58991860d192b8da43e2bde5e62b112
+#EXTINF:-1 tvg-id="cuteinamo" tvg-name="Ang Cute ng Ina Mo" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/n0LoIIae93wG6APCTpZHuothef4.jpg" group-title="TFC MOVIES",Ang Cute ng Ina Mo
+https://absvod.akamaized.net/c/2/m/8ce42112-8728-11eb-a13c-2e59408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca7e386e8a2f11eba5a9a798408284f3:01aab653908f939a437323b554a1be33
+#EXTINF:-1 tvg-id="crushngcroo" tvg-name="Bakit Hindi Ka Crush ng Crush Mo?" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d2mk6f1sGlmyODGnzMNmBzTrJIg.jpg" group-title="TFC MOVIES",Bakit Hindi Ka Crush ng Crush Mo?
+https://absvod.akamaized.net/c/2/m/ca7e386e-8a2f-11eb-a5a9-a798408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b47a285e7f3811ebafc01e56408284f3:71403101e83359a33ac9ce2c426864ba
+#EXTINF:-1 tvg-id="beautybottle" tvg-name="Beauty in A Bottle" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wgVp97O6Qg7DAtz1zpMxGXo3mN7.jpg" group-title="TFC MOVIES",Beauty in A Bottle
+https://absvod.akamaized.net/c/2/m/b47a285e-7f38-11eb-afc0-1e56408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8eb5a527f3811ebb9ceea40408284f3:7cba878147078a78ef5d7764c04bcbec
+#EXTINF:-1 tvg-id="bride4rent" tvg-name="Bride for Rent" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lYekmCbEb7srZGXRr9c8V1Vi8so.jpg" group-title="TFC MOVIES",Bride for Rent
+https://absvod.akamaized.net/c/2/m/b8eb5a52-7f38-11eb-b9ce-ea40408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5549911e3ec111ec971dab41550b00c0:bc7bde8485097e167433ec2441fe73d6
+#EXTINF:-1 tvg-id="perabayong" tvg-name="Pera O Bayong (Not Da TV)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cD7G4AqcQHVJKERJco54JC42DQ7.jpg" group-title="TFC MOVIES",Pera O Bayong (Not Da TV)
+https://absvod.akamaized.net/c/2/m/5549911e-3ec1-11ec-971d-ab41550b00c0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7740b1fc7eb011ebb1798540408284f3:370904ccaf43618f3b87aeea5b524e72
+#EXTINF:-1 tvg-id="finallyfondyu" tvg-name="Finally Found Someone" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/saONztl540rC9VHYL1UpNIvrmRi.jpg" group-title="TFC MOVIES",Finally Found Someone
+https://absvod.akamaized.net/c/2/m/7740b1fc-7eb0-11eb-b179-8540408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=125fbf6889b811ebbdb5d396408284f3:29cfdfbfad941042e74942f58c0ee6c2
+#EXTINF:-1 tvg-id="karnal" tvg-name="Karnal" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cpAHxe9Wwz86Bkh2uavTt1zxpl5.jpg" group-title="TFC MOVIES",Karnal
+https://absvod.akamaized.net/c/2/m/125fbf68-89b8-11eb-bdb5-d396408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=278c25ce68a711ec9c5b58b51b1ed018:2e83c2cbd519d24d0bd20c1334231678
+#EXTINF:-1 tvg-id="amnesialove" tvg-name="Amnesia Love" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lREoge9SnfFDz7Vus2kP35IUl0h.jpg" group-title="TFC MOVIES",Amnesia Love
+https://absvod.akamaized.net/c/2/m/278c25ce-68a7-11ec-9c5b-58b51b1ed018.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=38c8a944872911ebbc88b84f408284f3:ab37b074515d8e6316f7d56bf0294a83
+#EXTINF:-1 tvg-id="kasal3" tvg-name="Kasal, Kasali, Kasalo" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jDtJ35l9MoNZ3aSN2B89b4TzZsy.jpg" group-title="TFC MOVIES",Kasal, Kasali, Kasalo
+https://absvod.akamaized.net/c/2/m/38c8a944-8729-11eb-bc88-b84f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00108e5c84d411ebbeeb6064408284f3:8f94034261d5843c31000ee6c76ff004
+#EXTINF:-1 tvg-id="kokey" tvg-name="Kokey" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AcB9QCWLzWDQIbK8hLTdZbX52uI.jpg" group-title="TFC MOVIES",Kokey
+https://absvod.akamaized.net/c/2/m/00108e5c-84d4-11eb-beeb-6064408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0784a59280f611eb8f55caa9408284f3:5bdb117e51a172b8064d617697ea0ebd
+#EXTINF:-1 tvg-id="kungkudivas" tvg-name="Kung Fu Divas" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/a0tMQxbjlFHFBbL8Hc9KuzcOlo4.jpg" group-title="TFC MOVIES",Kung Fu Divas
+https://absvod.akamaized.net/c/2/m/0784a592-80f6-11eb-8f55-caa9408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a282d81483e611eb87a1e4a8408284f3:b334a6462d317d2cce0ccd864a870769
+#EXTINF:-1 tvg-id="labskol" tvg-name="Labs Kita, Okey Ka Lang?" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/N81uYs6EDeKLfLU0bC4eJCrCcF.jpg" group-title="TFC MOVIES",Labs Kita, Okey Ka Lang?
+https://absvod.akamaized.net/c/2/m/a282d814-83e6-11eb-87a1-e4a8408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd04d44c898211ebbb985e39408284f3:8cd5983343e864e30bf8005b1a196ec5
+#EXTINF:-1 tvg-id="langistubig" tvg-name="Langis at Tubig" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1Xizo0dqnzge8UgrYXi5YxKBbXI.jpg" group-title="TFC MOVIES",Langis at Tubig
+https://absvod.akamaized.net/c/2/m/cd04d44c-8982-11eb-bb98-5e39408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4463d20ca6f211eda20d48c231d000f2:e43c0bcc2cba72fe5af9c228c1bf71cb
+#EXTINF:-1 tvg-id="nasaanpuso" tvg-name="Nasaan ang Puso" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iOOxiTdYm5phqMP140eKDNeFi5Y.jpg" group-title="TFC MOVIES",Nasaan ang Puso
+https://absvod.akamaized.net/c/2/m/4463d20c-a6f2-11ed-a20d-48c231d000f2.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6452e7a6406411ecaaeb0d6a550b00c0:95ede799663e7f2168d0f0e843b3fabf
+#EXTINF:-1 tvg-id="thetrigonal" tvg-name="The Trigonal" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8E9Tbz8X1xLdtpMU9rMhiUdWXZs.jpg" group-title="TFC MOVIES",The Trigonal
+https://absvod.akamaized.net/c/2/m/6452e7a6-4064-11ec-aaeb-0d6a550b00c0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dcec56484d611eba0335964408284f3:074b081c3948bb7ea41864197f058fe3
+#EXTINF:-1 tvg-id="nasaankaman" tvg-name="Nasaan Ka Man" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xPZbHAE4Aa6OABznaeD1Vvk7aFy.jpg" group-title="TFC MOVIES",Nasaan Ka Man
+https://absvod.akamaized.net/c/2/m/7dcec564-84d6-11eb-a033-5964408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f3eb2ce7f9811eb9624f987408284f3:dec95306df9bdd675e539960fe1695cd
+#EXTINF:-1 tvg-id="startingagain" tvg-name="Starting Over Again" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rYhlpMYHmnBkZSw8zwvHFK4p620.jpg" group-title="TFC MOVIES",Starting Over Again
+https://absvod.akamaized.net/c/2/m/9f3eb2ce-7f98-11eb-9624-f987408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49abb6687af211ebb8dd2f3a408284f3:25c84d43bd80c7bd741ad545289c23e5
+#EXTINF:-1 tvg-id="iwantmov" tvg-name="A Moment in Time" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rE6HCRJ6bkXCxiCFf6YcWNklK4M.jpg" group-title="TFC MOVIES",A Moment in Time
+https://absvod.akamaized.net/c/2/m/49abb668-7af2-11eb-b8dd-2f3a408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=593d00467b5b11ebb260c62f408284f3:b19d3a56899ace9271d83b5e505385c0
+#EXTINF:-1 tvg-id="iwantmov01" tvg-name="Hello, Love, Goodbye" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sJFouUfCgHFSUh5OKVSQBSfrfA1.jpg" group-title="TFC MOVIES",Hello, Love, Goodbye
+https://absvod.akamaized.net/c/2/m/593d0046-7b5b-11eb-b260-c62f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b275c447dd511eba01a973b408284f3:0f5b21692d87ee36c21b2919ec89e220
+#EXTINF:-1 tvg-id="iwantmov02" tvg-name="Seven Sundays" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hEwtD6AUYjde9vk0vN9nCSAdGcf.jpg" group-title="TFC MOVIES",Seven Sundays
+https://absvod.akamaized.net/c/2/m/6b275c44-7dd5-11eb-a01a-973b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=013922b67b5c11eb80f34b2e408284f3:cca5094ee3922b9b4c738f320cfee350
+#EXTINF:-1 tvg-id="iwantmov03" tvg-name="Three Words to Forever" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d6aiEgFoFfWrdXwxdn52mTfDCnx.jpg" group-title="TFC MOVIES",Three Words to Forever
+https://absvod.akamaized.net/c/2/m/013922b6-7b5c-11eb-80f3-4b2e408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d993ef67dd611ebb836c999408284f3:b1b5ce8b14f1366ed029d7cc5e2853b8
+#EXTINF:-1 tvg-id="iwantmov04" tvg-name="The Unmarried Wife" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kS8bZU5WO3BdXFQ6dG5FqdX2NHm.jpg" group-title="TFC MOVIES",The Unmarried Wife
+https://absvod.akamaized.net/c/2/m/1d993ef6-7dd6-11eb-b836-c999408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd9163203f0911ec887013eb550b00c0:3087c2a035678139765d15f289f41dfa
+#EXTINF:-1 tvg-id="iwantmov05" tvg-name="Through Night and Day" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/F5lAWeD2CaLgQRmzbc70L1xKUY.jpg" group-title="TFC MOVIES",Through Night and Day
+https://absvod.akamaized.net/c/2/m/cd916320-3f09-11ec-8870-13eb550b00c0.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a38146e854311eba8fa4272408284f3:367a6413012a090fb3fb472119b1baae
+#EXTINF:-1 tvg-id="iwantmov1" tvg-name="That Thing Called Tadhana" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fjzwktG6MWbuUQ80XXkdIXPC03G.jpg" group-title="TFC MOVIES",That Thing Called Tadhana
+https://absvod.akamaized.net/c/2/m/3a38146e-8543-11eb-a8fa-4272408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccff854a325711ec8c27c028bb99b791:dd8c218030c680322bfa2fb9e8842a8b
+#EXTINF:-1 tvg-id="iwantmov2" tvg-name="Caregiver" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vwBeNAlTXFl1Zedb33U5YBigm7k.jpg" group-title="TFC MOVIES",Caregiver
+https://absvod.akamaized.net/c/2/m/ccff854a-3257-11ec-8c27-c028bb99b791.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a06ed3e80f311eba69f596a408284f3:880ee04715c6e4425dd09ea335df83c5
+#EXTINF:-1 tvg-id="iwantmov3" tvg-name="You're My Boss" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8d0bO40Ke5ecVt06fBBtnTpQUxs.jpg" group-title="TFC MOVIES",You're My Boss
+https://absvod.akamaized.net/c/2/m/3a06ed3e-80f3-11eb-a69f-596a408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6c1f2b689ab11eb870b5e39408284f3:5dfc71f93bd10204aafaa1a14605edbe
+#EXTINF:-1 tvg-id="iwantmov4" tvg-name="Anak" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vz1Lntn8qnQon0lbO3hlSfN0hJJ.jpg" group-title="TFC MOVIES",Anak
+https://absvod.akamaized.net/c/2/m/d6c1f2b6-89ab-11eb-870b-5e39408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbaea368872811ebb1a55e4f408284f3:826ff7ab555ede93371f2fa2cf366818
+#EXTINF:-1 tvg-id="iwantmov5" tvg-name="Cinco" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5TcYBdDTaPnsuPQsYFBciZetV2Q.jpg" group-title="TFC MOVIES",Cinco
+https://absvod.akamaized.net/c/2/m/cbaea368-8728-11eb-b1a5-5e4f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=06b908de841a11ebaa4fe4a8408284f3:1b5cbd2647233f4b6f23f83e3e7dc7bf
+#EXTINF:-1 tvg-id="iwantmov6" tvg-name="Dubai" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bjJaU5ZOvCEqP7H8wNy8u172lPK.jpg" group-title="TFC MOVIES",Dubai
+https://absvod.akamaized.net/c/2/m/06b908de-841a-11eb-aa4f-e4a8408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9661cacc7d3311eb8087e062408284f3:e513fa430e7efaa2b37313253df08270
+#EXTINF:-1 tvg-id="iwantmov7" tvg-name="She's The One" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ptc6vmdmRoyBgOxTygp6cndILaU.jpg" group-title="TFC MOVIES",She's The One
+https://absvod.akamaized.net/c/2/m/9661cacc-7d33-11eb-8087-e062408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bdd8196840a11ebb92e95a8408284f3:d00b1c1551ee9ecba0143155bb3f595a
+#EXTINF:-1 tvg-id="iwantmov8" tvg-name="Now That I Have You" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fPKlTB2l7GJESzoL1qLGoqWvCXv.jpg" group-title="TFC MOVIES",Now That I Have You
+https://absvod.akamaized.net/c/2/m/1bdd8196-840a-11eb-b92e-95a8408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bd6ac4088c111eba97dce34408284f3:53c0d5451d13275b831624df4f39f663
+#EXTINF:-1 tvg-id="iwantmov9" tvg-name="A Love Story" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2yoXW56BGnFcXB0qrXa0fa6lZps.jpg" group-title="TFC MOVIES",A Love Story
+https://absvod.akamaized.net/c/2/m/9bd6ac40-88c1-11eb-a97d-ce34408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9513e5b084d611eb94dd5d64408284f3:ac3650125b88068b07c86a2aed31b35d
+#EXTINF:-1 tvg-id="iwantmov10" tvg-name="Oops Teka Lang Diskarte Ko 'To" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7J9UvmevBoa13clzHJhDkIyJavb.jpg" group-title="TFC MOVIES",Oops Teka Lang Diskarte Ko 'To
+https://absvod.akamaized.net/c/2/m/9513e5b0-84d6-11eb-94dd-5d64408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=908cdd20d98711ebbe2945bd2c84fa97:69f36ad02d00249ff7f7b7611a1afe0b
+#EXTINF:-1 tvg-id="iwantmov11" tvg-name="Ex-Con" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/m3Zf8G7t46BJtxcpDP3l7mbvsyI.jpg" group-title="TFC MOVIES",Ex-Con
+https://absvod.akamaized.net/c/2/m/908cdd20-d987-11eb-be29-45bd2c84fa97.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17cf5a3abab211eda9c796db629ee721:656a94249a9b4587fbaec0e3bcb3e8c9
+#EXTINF:-1 tvg-id="iwantmov12" tvg-name="Gatilyo: Sa Bawat Kalabit Buhay Ang Kapalit" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/czLCrnJOYjHiqj4f7bvnkUPkHTO.jpg" group-title="TFC MOVIES",Gatilyo: Sa Bawat Kalabit Buhay Ang Kapalit
+https://absvod.akamaized.net/c/2/m/17cf5a3a-bab2-11ed-a9c7-96db629ee721.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ccc0e88093011ef824c44c485bba94d:09e19a8d832d983464b395188a4b39ae
+#EXTINF:-1 tvg-id="iwantmov13" tvg-name="Hostage" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5Wi1bQzRP3Dp6uWM6gke54S9lws.jpg" group-title="TFC MOVIES",Hostage
+https://absvod.akamaized.net/c/2/m/2ccc0e88-0930-11ef-824c-44c485bba94d.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=13b5f5f43c6b11ee8515a858c1000089:e45e713c7be54f73983476ec3d63bb9d
+#EXTINF:-1 tvg-id="iwantmov14" tvg-name="Jack Em Popoy: The Puliscredibles" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/l0jKEmwIYMTqtIZcKiDi8kLt9oC.jpg" group-title="TFC MOVIES",Jack Em Popoy: The Puliscredibles
+https://absvod.akamaized.net/c/2/m/13b5f5f4-3c6b-11ee-8515-a858c1000089.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcbd4aaa8ed911eb9c70c3045c3281b3:0f0cda4ef3fd268c08bf7d1c33a4b3dd
+#EXTINF:-1 tvg-id="iwantmov15" tvg-name="Gandarrapiddo: The Revenger Squad" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lWJrqgpBUWWmzu6APYx5tddUOfn.jpg" group-title="TFC MOVIES",Gandarrapiddo: The Revenger Squad
+https://absvod.akamaized.net/c/2/m/fcbd4aaa-8ed9-11eb-9c70-c3045c3281b3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f13a44c7f9811eb94d0bb78408284f3:e3907918b1e086d49d77fa5385e087ec
+#EXTINF:-1 tvg-id="iwantmov16" tvg-name="Beauty and the Bestie" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wJrtPxNHEZbnAhrsXrobMUZWTLT.jpg" group-title="TFC MOVIES",Beauty and the Bestie
+https://absvod.akamaized.net/c/2/m/1f13a44c-7f98-11eb-94d0-bb78408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c00db202696211ec8ea1e8b71a1ed018:a3c947b0960b698803e50ce832f6857a
+#EXTINF:-1 tvg-id="tenement" tvg-name="Tenement 66" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uRvFETVuBZ0SWBdVJSMrDGMJtpr.jpg" group-title="TFC MOVIES",Tenement 66
+https://absvod.akamaized.net/c/2/m/c00db202-6962-11ec-8ea1-e8b71a1ed018.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5fc875c691a11ecb305eb041b1ed018:072c29a9ce4fe7a52c96f9a06d1a6363
+#EXTINF:-1 tvg-id="iwantmov18" tvg-name="BuyBust" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vvArzms4uGDAlqo6JfeAe0b4ro4.jpg" group-title="TFC MOVIES",BuyBust
+https://absvod.akamaized.net/c/2/m/d5fc875c-691a-11ec-b305-eb041b1ed018.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3af28d62a6d411edbe374ce431d000f2:fd26442f559c7c0a4e8ab69811293539
+#EXTINF:-1 tvg-id="iwantmov19" tvg-name="Kanang Kamay: Ituro mo, itutumba ko" tvg-logo="https://i.imgur.com/u7e2PB2.jpg" group-title="TFC MOVIES",Kanang Kamay: Ituro mo, itutumba ko
+https://absvod.akamaized.net/c/2/m/3af28d62-a6d4-11ed-be37-4ce431d000f2.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d42a3f06326911ec98e3dbd210ca9eae:80a787fe76b1b629d0e7adc392dcb6aa
+#EXTINF:-1 tvg-id="iwantmov20" tvg-name="Kung Kaya Mo, Kaya Ko Rin!" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nQHvKAl3p3nY0c30O1FXRRvfnQb.jpg" group-title="TFC MOVIES",Kung Kaya Mo, Kaya Ko Rin!
+https://absvod.akamaized.net/c/2/m/d42a3f06-3269-11ec-98e3-dbd210ca9eae.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9410fa0d45211ed9b41ccab4e14d9bf:526c65c88fc544cc0e9a339ba27cf3a7
+#EXTINF:-1 tvg-id="iwantmov21" tvg-name="Lalaban Ako Hanggang sa Huling Hininga" tvg-logo="https://i.imgur.com/cGx4rQL.jpg" group-title="TFC MOVIES",Lalaban Ako Hanggang sa Huling Hininga
+https://absvod.akamaized.net/c/2/m/e9410fa0-d452-11ed-9b41-ccab4e14d9bf.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98b9afbe8a2211ebb52df052408284f3:27fc195d358dcd70056e3780077e6688
+#EXTINF:-1 tvg-id="iwantmov22" tvg-name="NBI: The Mariano Mison Story" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/jY8u3dKBDG1mpA8NEoODedcdsfg.jpg" group-title="TFC MOVIES",NBI: The Mariano Mison Story
+https://absvod.akamaized.net/c/2/m/98b9afbe-8a22-11eb-b52d-f052408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=760081f06dde11ecae2daa9923c4461d:5f3771f2eb4c9b604e1844c041c9916c
+#EXTINF:-1 tvg-id="iwantmov23" tvg-name="MaÃ±anita" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/t3M2pcG7y4I483n9EZq7ReKmwu8.jpg" group-title="TFC MOVIES",MaÃ±anita
+https://absvod.akamaized.net/c/2/m/760081f0-6dde-11ec-ae2d-aa9923c4461d.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ccffea47d3411ebba06896a408284f3:a4e83fa5f822d4cb716b4871e3bf7917
+#EXTINF:-1 tvg-id="iwantmov24" tvg-name="The Amazing Praybeyt Benjamin" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gPRvRpTO8FlzM3FAhqIxNHI3KkD.jpg" group-title="TFC MOVIES",The Amazing Praybeyt Benjamin
+https://absvod.akamaized.net/c/2/m/5ccffea4-7d34-11eb-ba06-896a408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=36f74e6ebcd211ed8d3a24147c3f0afe:12454be254feee59d29a23be0181624d
+#EXTINF:-1 tvg-id="iwantmov25" tvg-name="Sagad sa Init" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/oxrpbCMit83NyjPx6xZWygZkPPA.jpg" group-title="TFC MOVIES",Sagad sa Init
+https://absvod.akamaized.net/c/2/m/36f74e6e-bcd2-11ed-8d3a-24147c3f0afe.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49598b2e6b2b11ed8f3d19961bec293c:5144e3f0f31f04f4b865c84e57611217
+#EXTINF:-1 tvg-id="iwantmov26" tvg-name="Patikim ng Pinya" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/QiowmAidP406fXB0RFZnMgdWoh.jpg" group-title="TFC MOVIES",Patikim ng Pinya
+https://absvod.akamaized.net/c/2/m/49598b2e-6b2b-11ed-8f3d-19961bec293c.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21133c5687e211eba0cd8736408284f3:a289a2078d220b9ed96ba9a700482dad
+#EXTINF:-1 tvg-id="iwantmov27" tvg-name="Sunday Night Fever" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wLJqdlVlnMl4ShpIxscjpclu5VO.jpg" group-title="TFC MOVIES",Sunday Night Fever
+https://absvod.akamaized.net/c/2/m/21133c56-87e2-11eb-a0cd-8736408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6036a9c67eb011ebbd0ae934408284f3:604a23f4543ef918d2c7895d1c688cb9
+#EXTINF:-1 tvg-id="iwantmov28" tvg-name="ANi (The Harvest)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uX9mK3anDYNMXbTBiXLGN1Jmrzr.jpg" group-title="TFC MOVIES",ANi (The Harvest)
+https://absvod.akamaized.net/c/2/m/6036a9c6-7eb0-11eb-bd0a-e934408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9463cec7dd311ebad06723b408284f3:057b106afa80d8ba7b1dd8f40bfba0e0
+#EXTINF:-1 tvg-id="iwantmov29" tvg-name="Ang Panday" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/s30mLiLVR5xIG8kKOI52SisNg4w.jpg" group-title="TFC MOVIES",Ang Panday
+https://absvod.akamaized.net/c/2/m/d9463cec-7dd3-11eb-ad06-723b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=415eb0c48c8011eb8831b541408284f3:34df9f0c50b573b79048308370d08ad4
+#EXTINF:-1 tvg-id="iwantmov30" tvg-name="Magic Temple" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/66Dk7XX4TasCkQbqoTrWSoYDGtl.jpg" group-title="TFC MOVIES",Magic Temple
+https://absvod.akamaized.net/c/2/m/415eb0c4-8c80-11eb-8831-b541408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf703b3a89ab11eb8086e932408284f3:a09a340dbbe0e8199c01b91d2a186aa6
+#EXTINF:-1 tvg-id="iwantmov31" tvg-name="A Mother's Story" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Ua1PiMggYnykNmy8ZDCMA3zleA.jpg" group-title="TFC MOVIES",A Mother's Story
+https://absvod.akamaized.net/c/2/m/cf703b3a-89ab-11eb-8086-e932408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50010810c30c11ed95256e0a7c3f0afe:cdee7347b1efcf55359681563e810a58
+#EXTINF:-1 tvg-id="iwantmov32" tvg-name="A Beautiful Affair" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kdcCLSjLS4kDfpmsZsdwkl4yiky.jpg" group-title="TFC MOVIES",A Beautiful Affair
+https://absvod.akamaized.net/c/2/m/50010810-c30c-11ed-9525-6e0a7c3f0afe.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6031fb96840111eb8bda13a6408284f3:bc939171e35efe4ddf6bfd8f62f8bb3b
+#EXTINF:-1 tvg-id="iwantmov33" tvg-name="9 Mornings" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kMnxQCZLhK5OiuCIy20qP1N2L15.jpg" group-title="TFC MOVIES",9 Mornings
+https://absvod.akamaized.net/c/2/m/6031fb96-8401-11eb-8bda-13a6408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f608dd4c840b11eb83cc7f9f408284f3:2f2cd802d8cbb2713193b9ab4537329b
+#EXTINF:-1 tvg-id="iwantmov34" tvg-name="Bakit 'Di Totohanin" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cUoVTPagoq8dUdnJVjM99W4xJEW.jpg" group-title="TFC MOVIES",Bakit 'Di Totohanin
+https://absvod.akamaized.net/c/2/m/f608dd4c-840b-11eb-83cc-7f9f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3f91608324811eca15db76573b7f869:9a6fed5ff6727807829df511be9d4205
+#EXTINF:-1 tvg-id="iwantmov35" tvg-name="Barcelona: A Love Untold" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dY1GE16jog0IbwFzLPCKAxY5tWE.jpg" group-title="TFC MOVIES",Barcelona: A Love Untold
+https://absvod.akamaized.net/c/2/m/e3f91608-3248-11ec-a15d-b76573b7f869.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5823f2289ab11eb91c15e39408284f3:e87b1e0c82fb311200b11a9602f379be
+#EXTINF:-1 tvg-id="iwantmov36" tvg-name="Basta't Kasama Kita" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gUkADYKPIzz0EDZRh1jtNx3aNse.jpg" group-title="TFC MOVIES",Basta't Kasama Kita
+https://absvod.akamaized.net/c/2/m/e5823f22-89ab-11eb-91c1-5e39408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60b081fa325711eca8baccc08753fb34:3bb8124340f61b5ba01175f804d3fb11
+#EXTINF:-1 tvg-id="iwantmov37" tvg-name="Bata, Bata... Paano Ka Ginawa?" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hPeLhFw4UsYsaHVrTeym5zasSGy.jpg" group-title="TFC MOVIES",Bata, Bata... Paano Ka Ginawa?
+https://absvod.akamaized.net/c/2/m/60b081fa-3257-11ec-a8ba-ccc08753fb34.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=812844a87b7911eb8ea86a2f408284f3:0806f7ae5555a54b9ac6dbf59b7079ff
+#EXTINF:-1 tvg-id="iwantmov38" tvg-name="Between Maybes" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zgaRu1fNiMF3axvlOLh3Nns8UIG.jpg" group-title="TFC MOVIES",Between Maybes
+https://absvod.akamaized.net/c/2/m/812844a8-7b79-11eb-8ea8-6a2f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=040209047d3211eb9e9c205b408284f3:80fce3415c3dc2edf37148c640cd7986
+#EXTINF:-1 tvg-id="iwantmov39" tvg-name="Can't Help Falling in Love" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bWTG8X1rd4b4UEhQkWx8WXtmGEd.jpg" group-title="TFC MOVIES",Can't Help Falling in Love
+https://absvod.akamaized.net/c/2/m/04020904-7d32-11eb-9e9c-205b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6533227e7eb011eb9602f89a408284f3:29ff3b93d50b5a61f9575d7a79fd45de
+#EXTINF:-1 tvg-id="iwantmov40" tvg-name="Clarita" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6D98XukeN3lJf5BJ4vEIcHMwu5n.jpg" group-title="TFC MOVIES",Clarita
+https://absvod.akamaized.net/c/2/m/6533227e-7eb0-11eb-9602-f89a408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=480d4ed47f9811ebb16be982408284f3:6646f735ab8c364afa13b4dae7f80e01
+#EXTINF:-1 tvg-id="iwantmov41" tvg-name="Everything About Her" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ActeqKqVvMY7jdAtBfvdWBrOaeC.jpg" group-title="TFC MOVIES",Everything About Her
+https://absvod.akamaized.net/c/2/m/480d4ed4-7f98-11eb-b16b-e982408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=de3c614680f211ebbccfe537408284f3:8037b6ab9dccd84a55d36ea20eab7a8c
+#EXTINF:-1 tvg-id="iwantmov42" tvg-name="Etiquette for Mistresses" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sZRxs4m9qD77Z5Io5bT9OKnCR2k.jpg" group-title="TFC MOVIES",Etiquette for Mistresses
+https://absvod.akamaized.net/c/2/m/de3c6146-80f2-11eb-bccf-e537408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e22c5387eb011eb8547e19b408284f3:92a9f099b4a8a463b7e77e8438165e55
+#EXTINF:-1 tvg-id="iwantmov43" tvg-name="Everyday I Love You" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4Cr8wdIIYq6vJJkQzHusgF4w4WP.jpg" group-title="TFC MOVIES",Everyday I Love You
+https://absvod.akamaized.net/c/2/m/6e22c538-7eb0-11eb-8547-e19b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7292ebd47eb011eba02fb537408284f3:f158737fceb9d453d35d4971a3b5183b
+#EXTINF:-1 tvg-id="iwantmov44" tvg-name="Ex with Benefits" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wI5zsFz4zi3P6tpFgqfhmSIY3h5.jpg" group-title="TFC MOVIES",Ex with Benefits
+https://absvod.akamaized.net/c/2/m/7292ebd4-7eb0-11eb-a02f-b537408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62c04b207dd411ebb0f6af3e408284f3:0435427c970a86237728a47d2fb082b3
+#EXTINF:-1 tvg-id="iwantmov45" tvg-name="Exes Baggage" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pHVNxtOl9mAjP9IThxz6nzqfUJe.jpg" group-title="TFC MOVIES",Exes Baggage
+https://absvod.akamaized.net/c/2/m/62c04b20-7dd4-11eb-b0f6-af3e408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fe9b91ed98711eb834b98ba2c84fa97:9de47303a52bb8e332c2ef6b3c0b2e4a
+#EXTINF:-1 tvg-id="iwantmov46" tvg-name="Finding You" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vF5xbACRBfTZGwumCH2ZCMJ3jrT.jpg" group-title="TFC MOVIES",Finding You
+https://absvod.akamaized.net/c/2/m/9fe9b91e-d987-11eb-834b-98ba2c84fa97.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90a5e7c27af311eb8a45ce3d408284f3:7baa117dfad1d887300a9b5e910f9a8a
+#EXTINF:-1 tvg-id="iwantmov47" tvg-name="First Love" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6QbMLK9ccbRbjrk8y6cOZymTR6j.jpg" group-title="TFC MOVIES",First Love
+https://absvod.akamaized.net/c/2/m/90a5e7c2-7af3-11eb-8a45-ce3d408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0614ce74872911eb9b0a604f408284f3:fbb9f1560db0cd07ade8529ea741b49c
+#EXTINF:-1 tvg-id="iwantmov48" tvg-name="For The First Time" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/1uPmJfXTcNDdMiaiEBQ9CTKtLtI.jpg" group-title="TFC MOVIES",For The First Time
+https://absvod.akamaized.net/c/2/m/0614ce74-8729-11eb-9b0a-604f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4581ac5e835411eba2297f9f408284f3:da2c669d16c6814fb6b43ddbb1629a6b
+#EXTINF:-1 tvg-id="iwantmov49" tvg-name="Forever and A Day" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/shl64PAucXlE3FZSbj5JGu1lSjY.jpg" group-title="TFC MOVIES",Forever and A Day
+https://absvod.akamaized.net/c/2/m/4581ac5e-8354-11eb-a229-7f9f408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=440be7d88c8011eba13a6e77408284f3:300c53a82b540af7a4495b7950ec0c33
+#EXTINF:-1 tvg-id="iwantmov50" tvg-name="Forevermore (2002)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/85gXFLYi1UL1VKPOVfBlkzlrwnp.jpg" group-title="TFC MOVIES",Forevermore (2002)
+https://absvod.akamaized.net/c/2/m/440be7d8-8c80-11eb-a13a-6e77408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeee1b1a80f211eb936b6c36408284f3:dd64464f69cdc5872c164a9b6975085a
+#EXTINF:-1 tvg-id="iwantmov51" tvg-name="Four Sisters and A Wedding" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/yQgPveLenFJlA7jzmK0UuO59uVJ.jpg" group-title="TFC MOVIES",Four Sisters and A Wedding
+https://absvod.akamaized.net/c/2/m/eeee1b1a-80f2-11eb-936b-6c36408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8786a69281bd11ebac7a35a1408284f3:e98e396cddffd3fd6804b272ea1df665
+#EXTINF:-1 tvg-id="iwantmov52" tvg-name="Glorious (Director's Cut)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6b3fp8hRvz5BMo9U5ayAwtDyZPs.jpg" group-title="TFC MOVIES",Glorious (Director's Cut)
+https://absvod.akamaized.net/c/2/m/8786a692-81bd-11eb-ac7a-35a1408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=268e7b3289b811eb83b9ce34408284f3:f19d0fc07fffe0f02d331a90fcc6a264
+#EXTINF:-1 tvg-id="iwantmov53" tvg-name="Love Me Again" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uOXFtMECh9OfdYfzfWh0YhUUkQc.jpg" group-title="TFC MOVIES",Love Me Again
+https://absvod.akamaized.net/c/2/m/268e7b32-89b8-11eb-83b9-ce34408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=298e4af08a1811eb9f88a698408284f3:03890fa948e7125fef8b02b535d360e3
+#EXTINF:-1 tvg-id="iwantmov54" tvg-name="Milan" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3o0p8UtdbHxZIseaBsK8OwSy8og.jpg" group-title="TFC MOVIES",Milan
+https://absvod.akamaized.net/c/2/m/298e4af0-8a18-11eb-9f88-a698408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaec70ba826a11eba8d32895408284f3:ead5fd829c4814b2ffd6fd27ee359de8
+#EXTINF:-1 tvg-id="iwantmov55" tvg-name="My Amnesia Girl" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fUxmtjdnDHRk2fikN0xmdeMBlHy.jpg" group-title="TFC MOVIES",My Amnesia Girl
+https://absvod.akamaized.net/c/2/m/eaec70ba-826a-11eb-a8d3-2895408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9888583880f911eb85c5f15d408284f3:f80a70e232e6be7de0651b05fdc82c9f
+#EXTINF:-1 tvg-id="iwantmov56" tvg-name="My Illegal Wife" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/c0U3tevS62tN15pDzUSRyuaTq9G.jpg" group-title="TFC MOVIES",My Illegal Wife
+https://absvod.akamaized.net/c/2/m/98885838-80f9-11eb-85c5-f15d408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8992120284d611eb94dd5d64408284f3:1287c43893cdc7778efbebc4289b037d
+#EXTINF:-1 tvg-id="iwantmov57" tvg-name="Ngayong Nandito Ka" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dUfUdPniPUuS7YBOWuFAoXCKRAb.jpg" group-title="TFC MOVIES",Ngayong Nandito Ka
+https://absvod.akamaized.net/c/2/m/89921202-84d6-11eb-94dd-5d64408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4cb659ea7dd511eb9fbea23b408284f3:2d40cc3e57810296e5ea3307902ed123
+#EXTINF:-1 tvg-id="iwantmov58" tvg-name="One More Try" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/udfJwyrTcvNfq3pdYFKg7G1jTnj.jpg" group-title="TFC MOVIES",One More Try
+https://absvod.akamaized.net/c/2/m/4cb659ea-7dd5-11eb-9fbe-a23b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c17122e89bc11eb93934c2b408284f3:f90b9c21646375c664834729922a229f
+#EXTINF:-1 tvg-id="iwantmov59" tvg-name="Paano Na Kaya" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fvdDOu7afdtxqwb13bJvaFIZZ0F.jpg" group-title="TFC MOVIES",Paano Na Kaya
+https://absvod.akamaized.net/c/2/m/5c17122e-89bc-11eb-9393-4c2b408284f3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c053ed4b5a711ec86d5ba9c6a45220a:415cd5c4a176a34f1b70cf1b7f394543
+#EXTINF:-1 tvg-id="iwantmov60" tvg-name="Throwback Today" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7nabvhQ4Td0pgwm0wiCo2MjkmLH.jpg" group-title="TFC MOVIES",Throwback Today
+https://absvod.akamaized.net/c/2/m/4c053ed4-b5a7-11ec-86d5-ba9c6a45220a.ism/manifest.mpd
+#EXTINF:-1 group-logo="https://3.bp.blogspot.com/-kdXNwm6lSo8/WeN0Js_O9oI/AAAAAAAABOE/vVkIpQcdGXQgX18CkKXjZsL9Mm29PqAswCLcBGAs/w1200-h630-p-k-no-nu/MMK-Maalaala-Mo-Kaya.jpg"
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8368c32c50e011ec9a581d789b9349dd:0c14fa00271a48acf7d90630fc2521fe
+#EXTINF:-1 tvg-id="mmk1" tvg-name="MMK - (Anting-anting)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/EaHDxx6Nc8LdbcRlvPS9LQ.jpg" group-title="MMK",MMK - (Anting-anting)
+https://absvod.akamaized.net/c/2/m/8368c32c-50e0-11ec-9a58-1d789b9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14ae76c764b11eeb0cf78acbd60e092:846b7265901e60f32bf52936ad71584e
+#EXTINF:-1 tvg-id="mmk2" tvg-name="MMK - (Arroz Caldo)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/i6GOkihnXCV9azwxsOipQQ.jpg" group-title="MMK",MMK - (Arroz Caldo)
+https://absvod.akamaized.net/c/2/m/e14ae76c-764b-11ee-b0cf-78acbd60e092.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d46d82a2f9c11ee882bf642f51c2fa9:5785566f717ca289c54ecba163bbf159
+#EXTINF:-1 tvg-id="mmk3" tvg-name="MMK - (Bahay)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/rEPa-AGGgkpbeEhPke_Rog.jpg" group-title="MMK",MMK - (Bahay)
+https://absvod.akamaized.net/c/2/m/7d46d82a-2f9c-11ee-882b-f642f51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5655a2e48a7b11ed817bcb9d8d8fa797:dc553f96097f90d4a04817e70a848de2
+#EXTINF:-1 tvg-id="mmk4" tvg-name="MMK - (Balsa)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/jm6fgzkflGHi7GnWV9414Q.jpg" group-title="MMK",MMK - (Balsa)
+https://absvod.akamaized.net/c/2/m/5655a2e4-8a7b-11ed-817b-cb9d8d8fa797.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8610e105bb811ee88b0bf020433b537:6764fd328fab1177d43a2e5469e1afde
+#EXTINF:-1 tvg-id="mmk5" tvg-name="MMK - (Banana Que)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/tAMYX4Ba3q5M9C7KqBatGA.jpg" group-title="MMK",MMK - (Banana Que)
+https://absvod.akamaized.net/c/2/m/b8610e10-5bb8-11ee-88b0-bf020433b537.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=41c72bfc5c9111eeaccbd6961956c8dc:26ca5b2f63d6c0e17be806de35e7cf4c
+#EXTINF:-1 tvg-id="mmk6" tvg-name="MMK - (Banana Split)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/KIb014n-1TOcanho8raCsA.jpg" group-title="MMK",MMK - (Banana Split)
+https://absvod.akamaized.net/c/2/m/41c72bfc-5c91-11ee-accb-d6961956c8dc.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8731b4b450e011ec8524345d9a9349dd:f86f4561e71da72eb67e6df1dc0afe18
+#EXTINF:-1 tvg-id="mmk7" tvg-name="MMK - (Bangka)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/nNfA1vVrRMQFk3kY8eSx3g.jpg" group-title="MMK",MMK - (Bangka)
+https://absvod.akamaized.net/c/2/m/8731b4b4-50e0-11ec-8524-345d9a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b36477de5bb911ee857df977d87f17f5:e98abc62177cb44b05406e275c35577a
+#EXTINF:-1 tvg-id="mmk8" tvg-name="MMK - (Barko)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/Xdf7pKM-HZYMgyjq9Vc_1w.jpg" group-title="MMK",MMK - (Barko)
+https://absvod.akamaized.net/c/2/m/b36477de-5bb9-11ee-857d-f977d87f17f5.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e2974e4307311ee9be75138f51c2fa9:0bb66dfb172ce2febba69ad4ad01388b
+#EXTINF:-1 tvg-id="mmk9" tvg-name="MMK - (Barya)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/Fr783zM3Rd89THPJHd0JyQ.jpg" group-title="MMK",MMK - (Barya)
+https://absvod.akamaized.net/c/2/m/9e2974e4-3073-11ee-9be7-5138f51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c371df702f9c11eeb46a2c44f51c2fa9:97e6decb3799676b13aa2cf9c2f53bfa
+#EXTINF:-1 tvg-id="mmk10" tvg-name="MMK - (Baso)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/uoclPScco-clWkUH_iJwoA.jpg" group-title="MMK",MMK - (Baso)
+https://absvod.akamaized.net/c/2/m/c371df70-2f9c-11ee-b46a-2c44f51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5dabfaa307311ee81400740f51c2fa9:a173c7f2c02caf0b5c7905cef3f4ddf6
+#EXTINF:-1 tvg-id="mmk11" tvg-name="MMK - (Bawang)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/TWcIYqcedc-H3LR0w82mwg.jpg" group-title="MMK",MMK - (Bawang)
+https://absvod.akamaized.net/c/2/m/e5dabfaa-3073-11ee-8140-0740f51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=70a14fc25bb811ee8dcecb1486f9a290:4d5ee29099e5fcef107d72712f14e278
+#EXTINF:-1 tvg-id="mmk12" tvg-name="MMK - (Bintana)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/2on6KTc13DY5Q4guCqGgpw.jpg" group-title="MMK",MMK - (Bintana)
+https://absvod.akamaized.net/c/2/m/70a14fc2-5bb8-11ee-8dce-cb1486f9a290.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60e5533e307111ee97d49c32f51c2fa9:f35ded6d7936ae5b6d62f5540841a6da
+#EXTINF:-1 tvg-id="mmk13" tvg-name="MMK - (Bisikleta - 2021)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/6pS9-H10T5M2lePNzY_X8Q.jpg" group-title="MMK",MMK - (Bisikleta - 2021)
+https://absvod.akamaized.net/c/2/m/60e5533e-3071-11ee-97d4-9c32f51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e357bc002f9d11eeb8c1134af51c2fa9:858d693b119bd9c563aa0fbe7de9b9b5
+#EXTINF:-1 tvg-id="mmk14" tvg-name="MMK - (Bituin)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/OxSrCu_gXSaGFolhLOkMIA.jpg" group-title="MMK",MMK - (Bituin)
+https://absvod.akamaized.net/c/2/m/e357bc00-2f9d-11ee-b8c1-134af51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f36eb50a5c9111eea970d7fc3717216e:9ecb86cf4fed8fbafae98fadf8a963ad
+#EXTINF:-1 tvg-id="mmk15" tvg-name="MMK - (Bota)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/DEoSQtxr298qOsH-wf54Og.jpg" group-title="MMK",MMK - (Bota)
+https://absvod.akamaized.net/c/2/m/f36eb50a-5c91-11ee-a970-d7fc3717216e.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=600cc2105bbb11ee8bb8a320ff0bc678:71c81c9240ba01b8f3c3eb271b4f7edf
+#EXTINF:-1 tvg-id="mmk16" tvg-name="MMK - (Bottled Water)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/SZdp4VbLKiwJGPfnJURsYg.jpg" group-title="MMK",MMK - (Bottled Water)
+https://absvod.akamaized.net/c/2/m/600cc210-5bbb-11ee-8bb8-a320ff0bc678.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a3ceaf65c9211ee8dee9ba953f00954:26f973e609b275aa41fb319fe1efbe08
+#EXTINF:-1 tvg-id="mmk17" tvg-name="MMK - (Bracelet)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/UVrwxcnIh0PvXjLtpBGlLw.jpg" group-title="MMK",MMK - (Bracelet)
+https://absvod.akamaized.net/c/2/m/8a3ceaf6-5c92-11ee-8dee-9ba953f00954.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c25b7f85c9311eea73d836baaadee72:bb36b0b6b5cc1d9304fa9db2bf31389e
+#EXTINF:-1 tvg-id="mmk18" tvg-name="MMK - (Camera)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/x0ScQ2esgjFFQxhbIezM1w.jpg" group-title="MMK",MMK - (Camera)
+https://absvod.akamaized.net/c/2/m/7c25b7f8-5c93-11ee-a73d-836baaadee72.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9584d0281ec11eda5fa2d6a7f5128d6:6882d8d1b4426cf9377b9857ee2fad76
+#EXTINF:-1 tvg-id="mmk19" tvg-name="MMK - (Cards)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/ofSn6lqy5UhU1H8crj7Ebw.jpg" group-title="MMK",MMK - (Cards)
+https://absvod.akamaized.net/c/2/m/b9584d02-81ec-11ed-a5fa-2d6a7f5128d6.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9e4274a2fb711eea04c863af51c2fa9:d78e22f6525165ccac58d60febf0340b
+#EXTINF:-1 tvg-id="mmk20" tvg-name="MMK - (Casa)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/upe06SPXbifFMrH91wHFuw.jpg" group-title="MMK",MMK - (Casa)
+https://absvod.akamaized.net/c/2/m/b9e4274a-2fb7-11ee-a04c-863af51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b8a98ac312a11eebb843a33f51c2fa9:99da255ec02162ef1555fe10cf4c2800
+#EXTINF:-1 tvg-id="mmk21" tvg-name="MMK - (Choir)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/GIYjgNrUbVdrLqV5BQIe2g.jpg" group-title="MMK",MMK - (Choir)
+https://absvod.akamaized.net/c/2/m/7b8a98ac-312a-11ee-bb84-3a33f51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c41e6d985c9311ee8a79d4360673ffa3:2d3e224ff163151b395838ff6b7faa61
+#EXTINF:-1 tvg-id="mmk22" tvg-name="MMK - (Class Picture)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/QHapRa2-D_0JvQDVaesg_g.jpg" group-title="MMK",MMK - (Class Picture)
+https://absvod.akamaized.net/c/2/m/c41e6d98-5c93-11ee-8a79-d4360673ffa3.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=26309e2a8a7611eda47700848d8fa797:12d06155c431d26f36b61abbf2987a1c
+#EXTINF:-1 tvg-id="mmk23" tvg-name="MMK - (Dollhouse)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/jEAFTvBa1Gi3MaYdVQ1DBQ.jpg" group-title="MMK",MMK - (Dollhouse)
+https://absvod.akamaized.net/c/2/m/26309e2a-8a76-11ed-a477-00848d8fa797.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a9a4ede312b11eea3ece536f51c2fa9:b0ee5f120fadad863f09eb703199d68a
+#EXTINF:-1 tvg-id="mmk24" tvg-name="MMK - (Drawing)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/J4KpR5kkdT396LHdeanDLg.jpg" group-title="MMK",MMK - (Drawing)
+https://absvod.akamaized.net/c/2/m/0a9a4ede-312b-11ee-a3ec-e536f51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fc0b478307211ee80a4f63af51c2fa9:d18578d4009c7e4d78f32af65fa886c6
+#EXTINF:-1 tvg-id="mmk25" tvg-name="MMK - (Duyan)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/DB5TWnT-3erkFSn9BjprvQ.jpg" group-title="MMK",MMK - (Duyan)
+https://absvod.akamaized.net/c/2/m/7fc0b478-3072-11ee-80a4-f63af51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd8f33f6312b11ee9421ec3af51c2fa9:b5efb50e69d9865fe4a9c226b9d97434
+#EXTINF:-1 tvg-id="mmk26" tvg-name="MMK - (Dyip)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/wg6HunAYhFwhLttPk6riWw.jpg" group-title="MMK",MMK - (Dyip)
+https://absvod.akamaized.net/c/2/m/bd8f33f6-312b-11ee-9421-ec3af51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=275070be78a511ee9f7c4fc9bd60e092:7c6cd9725972d53fae6b69a6defaa8df
+#EXTINF:-1 tvg-id="mmk27" tvg-name="MMK - (E-mail)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/pOBhYOFTBNmJZlnDP8EZ_A.jpg" group-title="MMK",MMK - (E-mail)
+https://absvod.akamaized.net/c/2/m/275070be-78a5-11ee-9f7c-4fc9bd60e092.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ca5af4a5c8d11eea6f0bfa4b2ec694e:439896d79eb446764470ec3790b39751
+#EXTINF:-1 tvg-id="mmk28" tvg-name="MMK - (Entablado)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/JyzatAJ9LvnYNZUCvGpXUQ.jpg" group-title="MMK",MMK - (Entablado)
+https://absvod.akamaized.net/c/2/m/7ca5af4a-5c8d-11ee-a6f0-bfa4b2ec694e.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b3cf8ae78c411eebba39ad2bd60e092:ea592d2c268366420bf9993407fc4f75
+#EXTINF:-1 tvg-id="mmk29" tvg-name="MMK - (Eye Glasses)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/WrwqHez4cqlH41Qf0Fx8Kw.jpg" group-title="MMK",MMK - (Eye Glasses)
+https://absvod.akamaized.net/c/2/m/2b3cf8ae-78c4-11ee-bba3-9ad2bd60e092.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5c4cf82307311eea9208a3ff51c2fa9:4a0c5d196b00cdacede9bf55c38adb4f
+#EXTINF:-1 tvg-id="mmk30" tvg-name="MMK - (Fireworks)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/e5NnBbxS1UR5JORequOqqg.jpg" group-title="MMK",MMK - (Fireworks)
+https://absvod.akamaized.net/c/2/m/a5c4cf82-3073-11ee-a920-8a3ff51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e83c9d42fb911ee8cb3fa43f51c2fa9:3c2851e1f2301a743ac67a92abe336c5
+#EXTINF:-1 tvg-id="mmk31" tvg-name="MMK - (Gown)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/qr0IoR9l-C0x7-el-UC9Ig.jpg" group-title="MMK",MMK - (Gown)
+https://absvod.akamaized.net/c/2/m/1e83c9d4-2fb9-11ee-8cb3-fa43f51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7129f4051be11ecb63012bd9a9349dd:e447bd06156d0cb0a4ed6f2bfbf3da35
+#EXTINF:-1 tvg-id="mmk32" tvg-name="MMK - (Hapagkainan)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/I3-O0NvbqtENRHN6YoXrjg.jpg" group-title="MMK",MMK - (Hapagkainan)
+https://absvod.akamaized.net/c/2/m/e7129f40-51be-11ec-b630-12bd9a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a19c6c0531511ecafbe94e29a9349dd:fc5f41bdd240196c995680109e5aa08d
+#EXTINF:-1 tvg-id="mmk33" tvg-name="MMK - (Hat)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/o0zhcX9_TVu-vZggAzAitA.jpg" group-title="MMK",MMK - (Hat)
+https://absvod.akamaized.net/c/2/m/4a19c6c0-5315-11ec-afbe-94e29a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=51120578531511ec9898e8e49a9349dd:83505542e801fda6a7d6a43d6276a7a2
+#EXTINF:-1 tvg-id="mmk34" tvg-name="MMK - (Ilog)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/1p1gQmT_Wpz_58jqm7A5DA.jpg" group-title="MMK",MMK - (Ilog)
+https://absvod.akamaized.net/c/2/m/51120578-5315-11ec-9898-e8e49a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bccd6a3e50e311ecac6788789a9349dd:b6faa769ab38f265c361cfba0f7c1307
+#EXTINF:-1 tvg-id="mmk35" tvg-name="MMK - (Itak)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/1p1gQmT_Wpz_58jqm7A5DA.jpg" group-title="MMK",MMK - (Itak)
+https://absvod.akamaized.net/c/2/m/bccd6a3e-50e3-11ec-ac67-88789a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=41af83c05c8d11ee9576b18e0a653f75:0fb282e2d8346191322871b43dc00ee0
+#EXTINF:-1 tvg-id="mmk36" tvg-name="MMK - (Jumper)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/G8d34xQM9ZdhuwOpGaXoPw.jpg" group-title="MMK",MMK - (Jumper)
+https://absvod.akamaized.net/c/2/m/41af83c0-5c8d-11ee-9576-b18e0a653f75.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9235ed3e5c9211ee8a99a0930c4f7ae9:6a5405b15c09fa3c2cccf5cc14c68e04
+#EXTINF:-1 tvg-id="mmk37" tvg-name="MMK - (Kahon)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/QyuzneFm6nU5X1EDq2_ErQ.jpg" group-title="MMK",MMK - (Kahon)
+https://absvod.akamaized.net/c/2/m/9235ed3e-5c92-11ee-8a99-a0930c4f7ae9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0a168ea8a7b11edba57429f8d8fa797:3797a453ef99f9f545089fe04b74add2
+#EXTINF:-1 tvg-id="mmk38" tvg-name="MMK - (Kalabaw)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/S7H6uB9_VIqMWpXlDXPWLQ.jpg" group-title="MMK",MMK - (Kalabaw)
+https://absvod.akamaized.net/c/2/m/c0a168ea-8a7b-11ed-ba57-429f8d8fa797.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2d837f650e311ecb5bab5779a9349dd:5074d89cbbb0cc6c490dd5f5886d6e45
+#EXTINF:-1 tvg-id="mmk39" tvg-name="MMK - (Kamao)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/Uk-3NGIT6vNOWL3d_6cx2A.jpg" group-title="MMK",MMK - (Kamao)
+https://absvod.akamaized.net/c/2/m/c2d837f6-50e3-11ec-b5ba-b5779a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82ec1ba05c9211eeb65df6a4d77a82c8:d4d633b1003af9d8b154f5bbda9f4e5f
+#EXTINF:-1 tvg-id="mmk40" tvg-name="MMK - (Korona)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/AcLG3UmkTY3ZZ8y1Yc1HcQ.jpg" group-title="MMK",MMK - (Korona)
+https://absvod.akamaized.net/c/2/m/82ec1ba0-5c92-11ee-b65d-f6a4d77a82c8.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ede610fe51be11ec998962c09a9349dd:ad629cabd88f6c497428326e143fd269
+#EXTINF:-1 tvg-id="mmk41" tvg-name="MMK - (Kotse-kotsehan)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/Wee37jwrPjBpZbiP7_0A-w.jpg" group-title="MMK",MMK - (Kotse-kotsehan)
+https://absvod.akamaized.net/c/2/m/ede610fe-51be-11ec-9989-62c09a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=09ea4faa5c8e11eebe49d30434d2feb4:55e4c6b160332816d6fd68902aa60c68
+#EXTINF:-1 tvg-id="mmk42" tvg-name="MMK - (Kulungan)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/SaaNd8Vrfgam5NWlbWgqAQ.jpg" group-title="MMK",MMK - (Kulungan)
+https://absvod.akamaized.net/c/2/m/09ea4faa-5c8e-11ee-be49-d30434d2feb4.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdf023645c8b11eeaac2fcb7f8cbcc4a:572642d5d03c536f3f9e0dc704abb4c0
+#EXTINF:-1 tvg-id="mmk43" tvg-name="MMK - (Kumelavoo)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/yLZc95FMMMLkjdJ_tyOITw.jpg" group-title="MMK",MMK - (Kumelavoo)
+https://absvod.akamaized.net/c/2/m/cdf02364-5c8b-11ee-aac2-fcb7f8cbcc4a.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03871804307511eeb7dc0746f51c2fa9:0959fed0a28be79d5841bfe1f45afe4b
+#EXTINF:-1 tvg-id="mmk44" tvg-name="MMK - (Laptop)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/K8N4G4qR6wCi5sDqxLI4mA.jpg" group-title="MMK",MMK - (Laptop)
+https://absvod.akamaized.net/c/2/m/03871804-3075-11ee-b7dc-0746f51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7fde2125d9411ec8e2ca63040825e3a:2083b3e259215e04dc2db73f34c190f7
+#EXTINF:-1 tvg-id="mmk45" tvg-name="MMK - (Luneta Park)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/7EuO8-x4i_bqTrFFgFBz2g.jpg" group-title="MMK",MMK - (Luneta Park)
+https://absvod.akamaized.net/c/2/m/d7fde212-5d94-11ec-8e2c-a63040825e3a.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33c133248a7b11edabb87e9a8d8fa797:3d3f2ac69ed19497f71024490bc3eb5b
+#EXTINF:-1 tvg-id="mmk46" tvg-name="MMK - (Magnifying Glass)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/hHdNzpQDegN3gcVm-auYyA.jpg" group-title="MMK",MMK - (Magnifying Glass)
+https://absvod.akamaized.net/c/2/m/33c13324-8a7b-11ed-abb8-7e9a8d8fa797.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c1e25ec8a7511edbac2697e8d8fa797:c3be0c3edc16aa55445d390249a98178
+#EXTINF:-1 tvg-id="mmk47" tvg-name="MMK - (Garapon)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/MHsVO7eSSBw5Id_Kmji2cg.jpg" group-title="MMK",MMK - (Garapon)
+https://absvod.akamaized.net/c/2/m/2c1e25ec-8a75-11ed-bac2-697e8d8fa797.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f0eb3368a7311ed81aec6768d8fa797:0308ec921f281a089de560596615f36f
+#EXTINF:-1 tvg-id="mmk48" tvg-name="MMK - (Gitara)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/8HA-li7qrZNuSPHrEHNsZg.jpg" group-title="MMK",MMK - (Gitara)
+https://absvod.akamaized.net/c/2/m/7f0eb336-8a73-11ed-81ae-c6768d8fa797.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02fcd1702fb811ee8db80d39f51c2fa9:0dbe64a19116f66dd85b14e57e3b9a92
+#EXTINF:-1 tvg-id="mmk49" tvg-name="MMK - (Cellphone)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/57XnPcuDDEwLcta2U7IMGg.jpg" group-title="MMK",MMK - (Cellphone)
+https://absvod.akamaized.net/c/2/m/02fcd170-2fb8-11ee-8db8-0d39f51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90d9f83278c511ee831f92dabd60e092:e3b35c2a6408a87d55f9c5f75558c43f
+#EXTINF:-1 tvg-id="mmk50" tvg-name="MMK - (Bukid)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/tPiCyCiv6bp88XoJhI-u2w.jpg" group-title="MMK",MMK - (Bukid)
+https://absvod.akamaized.net/c/2/m/90d9f832-78c5-11ee-831f-92dabd60e092.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=da5c881878c411ee940eded6bd60e092:cb3d8d18a639fa21d2ea1cfe5f816c4a
+#EXTINF:-1 tvg-id="mmk51" tvg-name="MMK - (Alitaptap)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/jgXrbN7w8mrk2cW2BVyeMA.jpg" group-title="MMK",MMK - (Alitaptap)
+https://absvod.akamaized.net/c/2/m/da5c8818-78c4-11ee-940e-ded6bd60e092.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c79def3a8a7911ed9fe060958d8fa797:dda617709a034b0db9f5c75757385adb
+#EXTINF:-1 tvg-id="mmk52" tvg-name="MMK - (Walis)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/sZIMxPAQ7_q7lNQaSjLalg.jpg" group-title="MMK",MMK - (Walis)
+https://absvod.akamaized.net/c/2/m/c79def3a-8a79-11ed-9fe0-60958d8fa797.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0178a66c4c6511ed9e261e4fdc2ae6a6:13739ca1491f5388d2e7efa4dcab9b9d
+#EXTINF:-1 tvg-id="mmk53" tvg-name="MMK - (TV)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/uA3YbcLmCZ7af4-PzL1-Pw.jpg" group-title="MMK",MMK - (TV)
+https://absvod.akamaized.net/c/2/m/0178a66c-4c65-11ed-9e26-1e4fdc2ae6a6.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4e390ac622f11eca23f0c0c40825e3a:efff43d372e7585676b39b5158aba2af
+#EXTINF:-1 tvg-id="mmk54" tvg-name="MMK - (Tsinelas)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/53NFucZDzFMwnQb_R_kyZw.jpg" group-title="MMK",MMK - (Tsinelas)
+https://absvod.akamaized.net/c/2/m/b4e390ac-622f-11ec-a23f-0c0c40825e3a.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2f5286078c611eebe738fe4bd60e092:6b809836d4c24fa9ea7f35b14b7b3489
+#EXTINF:-1 tvg-id="mmk55" tvg-name="MMK - (Train)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/646K0rBfIvu2Ez0n8osLZA.jpg" group-title="MMK",MMK - (Train)
+https://absvod.akamaized.net/c/2/m/f2f52860-78c6-11ee-be73-8fe4bd60e092.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=30edbe44815a11ed89d67d8f7f5128d6:7dbf0dd217556fc95b9794d3156d41bc
+#EXTINF:-1 tvg-id="mmk56" tvg-name="MMK - (Toothbrush)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/lcf9SGKaap0ZFC-9BrI0rw.jpg" group-title="MMK",MMK - (Toothbrush)
+https://absvod.akamaized.net/c/2/m/30edbe44-815a-11ed-89d6-7d8f7f5128d6.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=81d5c6862f9b11eeae76683ff51c2fa9:6bec35f9ae6f11fed595d03f89263416
+#EXTINF:-1 tvg-id="mmk57" tvg-name="MMK - (Teddy Bear)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/enWQjwECJ91XFH8HmWeCWw.jpg" group-title="MMK",MMK - (Teddy Bear)
+https://absvod.akamaized.net/c/2/m/81d5c686-2f9b-11ee-ae76-683ff51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95dfd9c250f511ecb023e3019b9349dd:4ad0c5546e780c483471e32a61d49da3
+#EXTINF:-1 tvg-id="mmk58" tvg-name="MMK - (Tattoo)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/LdDIo_qFC5YRiyi1wxbj4g.jpg" group-title="MMK",MMK - (Tattoo)
+https://absvod.akamaized.net/c/2/m/95dfd9c2-50f5-11ec-b023-e3019b9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e466b6815911edbfd5c3897f5128d6:b904766d92bf0aeaa4d7133eaa205282
+#EXTINF:-1 tvg-id="mmk59" tvg-name="MMK - (Tablet)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/eTsAiYRF9tESgc7dLPawKQ.jpg" group-title="MMK",MMK - (Tablet)
+https://absvod.akamaized.net/c/2/m/e3e466b6-8159-11ed-bfd5-c3897f5128d6.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=70972c685eee11ec9416df8f40825e3a:89ba9a77ca3e9737467a7b6045a6234a
+#EXTINF:-1 tvg-id="mmk60" tvg-name="MMK - (Sumbrero)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/UdoAxvP2R4sG1X2lmalFRA.jpg" group-title="MMK",MMK - (Sumbrero)
+https://absvod.akamaized.net/c/2/m/70972c68-5eee-11ec-9416-df8f40825e3a.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3716a0e7fd511eead57399ff9e82863:a23349cae455f4d5d5e17fbb52edae64
+#EXTINF:-1 tvg-id="mmk61" tvg-name="MMK - (Sulat)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/bIALB7dNxe93XTB5qTUaaA.jpg" group-title="MMK",MMK - (Sulat)
+https://absvod.akamaized.net/c/2/m/f3716a0e-7fd5-11ee-ad57-399ff9e82863.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6694191a817011ed87126227805128d6:7b6c843976d4910f8129d64f94249f9f
+#EXTINF:-1 tvg-id="mmk62" tvg-name="MMK - (Stroller Bag)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/ZWJeprl_ENLmOY805s-8pg.jpg" group-title="MMK",MMK - (Stroller Bag)
+https://absvod.akamaized.net/c/2/m/6694191a-8170-11ed-8712-6227805128d6.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f566d4d05d9411ec9191f93940825e3a:dde7695a8f78f3f307df90e9de4794f6
+#EXTINF:-1 tvg-id="mmk63" tvg-name="MMK - (Stroller)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/zPJTyI64RYJgyjKPV73gtQ.jpg" group-title="MMK",MMK - (Stroller)
+https://absvod.akamaized.net/c/2/m/f566d4d0-5d94-11ec-9191-f93940825e3a.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ffc0d8478c811eeb252c05fbd60e092:62f97dd6d079c6b711fa4ff52bca4e21
+#EXTINF:-1 tvg-id="mmk64" tvg-name="MMK - (Stars)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/xFpIWgh-JCKph4cbc1A_bg.jpg" group-title="MMK",MMK - (Stars)
+https://absvod.akamaized.net/c/2/m/9ffc0d84-78c8-11ee-b252-c05fbd60e092.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cce7272722811eeb8c08dafbd60e092:c68c5754073324dc9b1f780af4792825
+#EXTINF:-1 tvg-id="mmk65" tvg-name="MMK - (Spaghetti)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/rqoFKfFWTLjb-jzWwbDCBA.jpg" group-title="MMK",MMK - (Spaghetti)
+https://absvod.akamaized.net/c/2/m/6cce7272-7228-11ee-b8c0-8dafbd60e092.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=52cb91de5c8e11ee9835d18d948a366a:631b9468ea0074ed90cc0f27aa5c5a28
+#EXTINF:-1 tvg-id="mmk66" tvg-name="MMK - (Siopao)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/dNu4_S4XMoKrvlgxI589bA.jpg" group-title="MMK",MMK - (Siopao)
+https://absvod.akamaized.net/c/2/m/52cb91de-5c8e-11ee-9835-d18d948a366a.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1ccca145d9411ecae94563640825e3a:578bc0e3f8b26d03c6d6e348c8eb403c
+#EXTINF:-1 tvg-id="mmk67" tvg-name="MMK - (Singsing)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/jphW0d0_BbE3qggS9N2xrQ.jpg" group-title="MMK",MMK - (Singsing)
+https://absvod.akamaized.net/c/2/m/f1ccca14-5d94-11ec-ae94-563640825e3a.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee03caae5d9411ecb4a3a83240825e3a:f64da287deaaf2ef7ce0b1de84707523
+#EXTINF:-1 tvg-id="mmk68" tvg-name="MMK - (Shades)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/e0i6_B6JYS85RgojypTWzQ.jpg" group-title="MMK",MMK - (Shades)
+https://absvod.akamaized.net/c/2/m/ee03caae-5d94-11ec-b4a3-a83240825e3a.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62e3c9da2fb911ee86ff7c45f51c2fa9:8288afa09ab8e44a85b90655ab0fe762
+#EXTINF:-1 tvg-id="mmk69" tvg-name="MMK - (Selfie)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/eg1IHEbRflvQLpCVbca_Hg.jpg" group-title="MMK",MMK - (Selfie)
+https://absvod.akamaized.net/c/2/m/62e3c9da-2fb9-11ee-86ff-7c45f51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4396cf84815c11eda99c52b67f5128d6:b7a2bf9e076dab9549b480bd62b4b99a
+#EXTINF:-1 tvg-id="mmk70" tvg-name="MMK - (Selda)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/DG7tlpWpreFa8EJYSN_V5Q.jpg" group-title="MMK",MMK - (Selda)
+https://absvod.akamaized.net/c/2/m/4396cf84-815c-11ed-a99c-52b67f5128d6.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=42a22e4850e811ec9cbb37999a9349dd:58ce3d75d1dfd72910cbf1bac477a9ec
+#EXTINF:-1 tvg-id="mmk71" tvg-name="MMK - (Scarf)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/mIpDCN1NLLp4eJiIsMZCOw.jpg" group-title="MMK",MMK - (Scarf)
+https://absvod.akamaized.net/c/2/m/42a22e48-50e8-11ec-9cbb-37999a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9c930a7e0411ee8770bdb8f9e82863:2342b277f5617542d8350832235ac1a0
+#EXTINF:-1 tvg-id="mmk72" tvg-name="MMK - (Sanggol)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/nU-W6NBFkronkEVpwIS6hQ.jpg" group-title="MMK",MMK - (Sanggol)
+https://absvod.akamaized.net/c/2/m/0d9c930a-7e04-11ee-8770-bdb8f9e82863.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=102d47688a7b11edb0d44d9b8d8fa797:7d0e312c8cdbe4d69148fd706115409c
+#EXTINF:-1 tvg-id="mmk73" tvg-name="MMK - (Salamin)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/wwwhziwEuwzh8zhXYbQBqg.jpg" group-title="MMK",MMK - (Salamin)
+https://absvod.akamaized.net/c/2/m/102d4768-8a7b-11ed-b0d4-4d9b8d8fa797.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4715e86943d11eda2feff7edd070412:d585a18ef1fff4c92040a190cd438f93
+#EXTINF:-1 tvg-id="mmk74" tvg-name="MMK - (Sa Kandungan mo, Inay)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/jaBzZJGxW3YZy23K6GhXYw.jpg" group-title="MMK",MMK - (Sa Kandungan mo, Inay)
+https://absvod.akamaized.net/c/2/m/d4715e86-943d-11ed-a2fe-ff7edd070412.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8ce698e2f9911ee9019e535f51c2fa9:f6be141a99d0eaaed1acdf5065d618dd
+#EXTINF:-1 tvg-id="mmk75" tvg-name="MMK - (Rubber Shoes)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/dwIDq0U8JJVC0JLjx97h0g.jpg" group-title="MMK",MMK - (Rubber Shoes)
+https://absvod.akamaized.net/c/2/m/f8ce698e-2f99-11ee-9019-e535f51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=08617c3451bf11ec96f6a3be9a9349dd:0902b6ca80fc79148ef27110f6043e07
+#EXTINF:-1 tvg-id="mmk76" tvg-name="MMK - (Rehas)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/ZvVPYS14H7LPXx1Yntrk4g.jpg" group-title="MMK",MMK - (Rehas)
+https://absvod.akamaized.net/c/2/m/08617c34-51bf-11ec-96f6-a3be9a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04c87bc251bf11ec96a329bd9a9349dd:f41e77fb167efeddeb6836573134c56a
+#EXTINF:-1 tvg-id="mmk77" tvg-name="MMK - (Regalo)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/qQqbERC8m6kNKsn3iAuEHg.jpg" group-title="MMK",MMK - (Regalo)
+https://absvod.akamaized.net/c/2/m/04c87bc2-51bf-11ec-96a3-29bd9a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73124ff82fb811ee9c5ea83ff51c2fa9:8ea01598f38e5b9c1d55c93e65e5b900
+#EXTINF:-1 tvg-id="mmk78" tvg-name="MMK - (Red Watch)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/bHr8Kk89CuDrcfUGPsPhoQ.jpg" group-title="MMK",MMK - (Red Watch)
+https://absvod.akamaized.net/c/2/m/73124ff8-2fb8-11ee-9c5e-a83ff51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335ed7a650e811eca7e9dd989a9349dd:5a5a6ee0ec015179ddc8275b8b5a5aca
+#EXTINF:-1 tvg-id="mmk79" tvg-name="MMK - (Razor)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/HCcvR4nZQTJnKr1aaaJI6w.jpg" group-title="MMK",MMK - (Razor)
+https://absvod.akamaized.net/c/2/m/335ed7a6-50e8-11ec-a7e9-dd989a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a5ba79250e811ecbddca09a9a9349dd:904bb3876ec35fe795de2e0e4f6e11d9
+#EXTINF:-1 tvg-id="mmk80" tvg-name="MMK - (Pulang Laso)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/I0sFL2MRZEjgkB2Dw1W_Fw.jpg" group-title="MMK",MMK - (Pulang Laso)
+https://absvod.akamaized.net/c/2/m/2a5ba792-50e8-11ec-bddc-a09a9a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=acc6bbc4307311eebf049c42f51c2fa9:609c3ab6b012e97811a40aef58911b7d
+#EXTINF:-1 tvg-id="mmk81" tvg-name="MMK - (Portrait)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/E2J3huWDgiVqAcOJ-_UqKg.jpg" group-title="MMK",MMK - (Portrait)
+https://absvod.akamaized.net/c/2/m/acc6bbc4-3073-11ee-bf04-9c42f51c2fa9.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=227f9d165c9011ee962acd29ea72ecfd:4b6ba503b0222988bcacad42b85b7b84
+#EXTINF:-1 tvg-id="mmk82" tvg-name="MMK - (Pintura)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/iZ_cVe1PWXjNGqMZMNGcxg.jpg" group-title="MMK",MMK - (Pintura)
+https://absvod.akamaized.net/c/2/m/227f9d16-5c90-11ee-962a-cd29ea72ecfd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a47419e8a7b11ed838a069f8d8fa797:0da7103f12cddf20a54100322d1768f6
+#EXTINF:-1 tvg-id="mmk83" tvg-name="MMK - (Picture - Transgender Love)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/R9ay-GnSHk6M3gkCUg7UFA.jpg" group-title="MMK",MMK - (Picture - Transgender Love)
+https://absvod.akamaized.net/c/2/m/7a47419e-8a7b-11ed-838a-069f8d8fa797.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e46089a6815b11eda6f121b17f5128d6:564cc81ba1c925bf96463689ee3df9cc
+#EXTINF:-1 tvg-id="mmk84" tvg-name="MMK - (Picture - Courageous Caitie)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/v7tdLiuzQFtj-orFBo3xiw.jpg" group-title="MMK",MMK - (Picture - Courageous Caitie)
+https://absvod.akamaized.net/c/2/m/e46089a6-815b-11ed-a6f1-21b17f5128d6.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00d109da51bf11ec81fd54c29a9349dd:4dac196f9194aa209b9d1f5c7f56d2f1
+#EXTINF:-1 tvg-id="mmk85" tvg-name="MMK - (Picture)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/4OsLPE-n1w1uWoi75dZSqQ.jpg" group-title="MMK",MMK - (Picture)
+https://absvod.akamaized.net/c/2/m/00d109da-51bf-11ec-81fd-54c29a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b982b1725c8f11ee805cc5556c348319:226323a5c3712534f9751cbb1bf74cf9
+#EXTINF:-1 tvg-id="mmk86" tvg-name="MMK - (Pasa)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/K1Dh4BF2L199q-fembSajw.jpg" group-title="MMK",MMK - (Pasa)
+https://absvod.akamaized.net/c/2/m/b982b172-5c8f-11ee-805c-c5556c348319.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b647fcc815c11ed9110eabe7f5128d6:b211594a49ba24e6d63bff0dc9cbb685
+#EXTINF:-1 tvg-id="mmk87" tvg-name="MMK - (Paru-paro)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/RGAamsXO27pV-x9LrI1Wow.jpg" group-title="MMK",MMK - (Paru-paro)
+https://absvod.akamaized.net/c/2/m/9b647fcc-815c-11ed-9110-eabe7f5128d6.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc509e90621011ec92807d4240825e3a:05ad167e1470164b8b2fe8f0263aaf11
+#EXTINF:-1 tvg-id="mmk88" tvg-name="MMK - (Parol)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/g4UY2MIVG46K5AjGVGZvPw.jpg" group-title="MMK",MMK - (Parol)
+https://absvod.akamaized.net/c/2/m/fc509e90-6210-11ec-9280-7d4240825e3a.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e6599725f0411ec9049971140825e3a:c2f58ccdc81b0a35d9f8e3aa22f5ab47
+#EXTINF:-1 tvg-id="mmk89" tvg-name="MMK - (Pansit)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/uGO-B4_pA7epFtN6fpKSsQ.jpg" group-title="MMK",MMK - (Pansit)
+https://absvod.akamaized.net/c/2/m/7e659972-5f04-11ec-9049-971140825e3a.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dff2a8545d9411ecb895bc2940825e3a:926b001d0438acac03a1b44ed755fdc5
+#EXTINF:-1 tvg-id="mmk90" tvg-name="MMK - (Pahiram ng Isang Pasko)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/d0F-e-lAY4JbtaeZyPmZsQ.jpg" group-title="MMK",MMK - (Pahiram ng Isang Pasko)
+https://absvod.akamaized.net/c/2/m/dff2a854-5d94-11ec-b895-bc2940825e3a.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4aab42078c511ee90d57fd9bd60e092:f549ebd190522953ec445f5a16c3ade2
+#EXTINF:-1 tvg-id="mmk91" tvg-name="MMK - (Pagkain)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/7B_LJhDNm6lm4abSExDB5Q.jpg" group-title="MMK",MMK - (Pagkain)
+https://absvod.akamaized.net/c/2/m/d4aab420-78c5-11ee-90d5-7fd9bd60e092.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4cf5824681ed11ed8e00ed707f5128d6:613301545576b68f73ed2c587693fe11
+#EXTINF:-1 tvg-id="mmk92" tvg-name="MMK - (Orasan)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/byq13_JT7dFlp_3VhELIBA.jpg" group-title="MMK",MMK - (Orasan)
+https://absvod.akamaized.net/c/2/m/4cf58246-81ed-11ed-8e00-ed707f5128d6.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4e9178a8a7911ed99ab2c948d8fa797:4cc96a446d0b70eafe45e09c7ee26319
+#EXTINF:-1 tvg-id="mmk93" tvg-name="MMK - (Nurse's Cap)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/F8jLi4nfeZCwICdTX83uoQ.jpg" group-title="MMK",MMK - (Nurse's Cap)
+https://absvod.akamaized.net/c/2/m/a4e9178a-8a79-11ed-99ab-2c948d8fa797.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4ab85f64c6511ed89b3fb52dc2ae6a6:e214ed76a18806f187dd4b8e29542810
+#EXTINF:-1 tvg-id="mmk94" tvg-name="MMK - (Mikropono)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/gd2w6EpnX9XGUYfUIXTi-Q.jpg" group-title="MMK",MMK - (Mikropono)
+https://absvod.akamaized.net/c/2/m/b4ab85f6-4c65-11ed-89b3-fb52dc2ae6a6.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc43c1485d9411eca65aa83240825e3a:02b76076cf8ce78210bee3cc272f789d
+#EXTINF:-1 tvg-id="mmk95" tvg-name="MMK - (Medyas)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/YDTValUBIyesi_jIL0M92Q.jpg" group-title="MMK",MMK - (Medyas)
+https://absvod.akamaized.net/c/2/m/dc43c148-5d94-11ec-a65a-a83240825e3a.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c2158545c8f11eeac51cc657abc2f21:c5ee125f2a7c2b262a753bd3076f3283
+#EXTINF:-1 tvg-id="mmk96" tvg-name="MMK - (Medical Result)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/6zWFXWCEMI9X0P2Gn0RbsA.jpg" group-title="MMK",MMK - (Medical Result)
+https://absvod.akamaized.net/c/2/m/4c215854-5c8f-11ee-ac51-cc657abc2f21.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9591eae51be11ec858eaabe9a9349dd:411453fe4a26d898e260dbc2429ec313
+#EXTINF:-1 tvg-id="mmk97" tvg-name="MMK - (Mata)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/CekVVuNpS5g0zHNp9zEHQA.jpg" group-title="MMK",MMK - (Mata)
+https://absvod.akamaized.net/c/2/m/f9591eae-51be-11ec-858e-aabe9a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d4d9bb4943d11edbd65377edd070412:60e7749716be2f81af2d50cc1a6e8f6c
+#EXTINF:-1 tvg-id="mmk98" tvg-name="MMK - (Mask)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/Q4ObIYQxRhvQmYweHnRGXg.jpg" group-title="MMK",MMK - (Mask)
+https://absvod.akamaized.net/c/2/m/8d4d9bb4-943d-11ed-bd65-377edd070412.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f17c5b7e51be11ecae31e0ba9a9349dd:4b71dd3cd13041700718bd710c19595f
+#EXTINF:-1 tvg-id="mmk99" tvg-name="MMK - (Manika)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/OUfBBvuac4lGSSFyrnPsmA.jpg" group-title="MMK",MMK - (Manika)
+https://absvod.akamaized.net/c/2/m/f17c5b7e-51be-11ec-ae31-e0ba9a9349dd.ism/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=355b300c92f711ed9f66b6a986c0a610:da8f484717afdbb7fa31c194525df5d3
+#EXTINF:-1 tvg-id="mmk100" tvg-name="MMK - (Makinilya)" tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/goPaKeXB07LgWzBuHBy6cQ.jpg" group-title="MMK",MMK - (Makinilya)
+https://absvod.akamaized.net/c/2/m/355b300c-92f7-11ed-9f66-b6a986c0a610.ism/manifest.mpd
