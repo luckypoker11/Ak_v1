@@ -1544,6 +1544,9 @@ https://jmp2.uk/stvp-USBA2300001S8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-US3800007CR
 
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D5612AQFO5Gy4HL1onQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1680728015128?e=2147483647&v=beta&t=TzZMycD3hfmCnVtqd--vT2dnuAyKBuqVN6dp1qeprJ8" group-title="Samsung TV Plus",Billiard TV
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814555/hls/billi.m3u8?includeAssetTags=true&ads.xumo_channelId=88814555a&ads.xumo_streamId=88814555&declaredCC1Language=en&ads.caid=BilliardTV&ads.csid=tcl2_us_triplebmediabilliard_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=2728&ads.xumo_contentName=BilliardTV&ads.xumo_providerId=2728&ads.xumo_providerName=TripleBMediaBilliard&ads.xumo_channelName=BilliardTV&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
 #EXTINF:-1 tvg-id="Mr. Bean" tvg-logo="https://ts3.mm.bing.net/th?id=OIP.uWqJUp2CjHm-NxzU4MMEJQHaF6&pid=15.1" group-title="Samsung TV Plus",Mr. Bean
 https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
 
@@ -1604,10 +1607,8 @@ https://amg01076-amg01076c8-samsung-ph-5639.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/pKOXa02YLURXb-JXCo41NwFSp19DOCyDzwk9-5N2UbxLJfxkIOTgorh4zkze9E8jXc-8whenX6ZsgCu70EVNjga1n6kcMLbcV86JNil2iR0qaA" group-title="Samsung TV Plus",UFC TV
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WipeoutXtra.us@SD" tvg-logo="https://i.imgur.com/UDeCRW1.png" group-title="Samsung TV Plus",Wipeout Xtra (1080p)
+#EXTINF:-1 tvg-id="WipeoutXtra.us@SD" tvg-logo="https://i.imgur.com/UDeCRW1.png" group-title="Samsung TV Plus",Wipeout Xtra
 https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8
-
-
 
 **********World-TV**********
 
@@ -1781,7 +1782,7 @@ https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://webp.amirahtv.art/?img=%2Fuploads%2Fposters%2Fposter_anime-x-hidive.jpg" group-title="World TV",ANIME X HIDIVE
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/3BCg3pS.png",Movies Now
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/3BCg3pS.png",Movies Now HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
@@ -1868,9 +1869,6 @@ https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" tvg-id="SonyChannel.mx@SD" group-title="World TV",Sony Channel
 https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/D5612AQFO5Gy4HL1onQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1680728015128?e=2147483647&v=beta&t=TzZMycD3hfmCnVtqd--vT2dnuAyKBuqVN6dp1qeprJ8" group-title="World TV",Billiard TV
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814555/hls/billi.m3u8?includeAssetTags=true&ads.xumo_channelId=88814555a&ads.xumo_streamId=88814555&declaredCC1Language=en&ads.caid=BilliardTV&ads.csid=tcl2_us_triplebmediabilliard_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=2728&ads.xumo_contentName=BilliardTV&ads.xumo_providerId=2728&ads.xumo_providerName=TripleBMediaBilliard&ads.xumo_channelName=BilliardTV&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/featuredImage.jpg" group-title="World TV",DAZN Combat
 https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
 
@@ -1909,3 +1907,4 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
