@@ -1720,10 +1720,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
-#EXTINF:-1 tvg-id="fox sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNjmYUf9BCuz1-n33kkOu1VHSH-06B4quHNw&amp;s" group-title="World TV",Fox Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://7pal.short.gy/fs2us
-
 #EXTINF:-1 tvg-id="redbull" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX0QV-kedGK_IJwm3kuQeLu5khlhoeYBXm_Q&amp;s" group-title="World TV",Redbull
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
