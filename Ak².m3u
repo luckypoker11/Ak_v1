@@ -422,7 +422,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
-#EXTINF:-1 tvg-id="5058" tvg-name="SPOTV [HD]" tvg-logo="https://www.spotv.net/images/intro/intro_logo.png" group-title="Astro",SPOTV [HD]
+#EXTINF:-1 tvg-id="5058" tvg-name="SPOTV [HD]" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Astro",SPOTV [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -470,7 +470,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 
-#EXTINF:-1 tvg-id="5079" tvg-name="SPOTV 2 [HD]" tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png" group-title="Astro",SPOTV 2 [HD]
+#EXTINF:-1 tvg-id="5079" tvg-name="SPOTV 2 [HD]" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Astro",SPOTV 2 [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1842,7 +1842,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_c
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
 
-#EXTINF:-1 tvg-id="korean drama sd" tvg-logo="https://copilot.microsoft.com/th/id/BCO.7ee36bde-2a0b-4dee-96a2-32f7aafccb80.png" group-title="World TV",Korean Drama
+#EXTINF:-1 tvg-id="korean drama sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="World TV",Korean Drama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
@@ -1910,12 +1910,6 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=b4ebbf11f2604527b77c9482dc35ea0a:40b7e96cdaed43d76d7cdbdfc4011dd9
 https://neacdnpop3-edge02.aws.playco.com/live/eds/FightBox/DASH/FightBox.mpd
 
-#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/185d71f2eac4aeacfb475655ef9625e382b26245d8e65ef994bc0efc520b8565._SL170_FMpng_.png" group-title="World TV",5Star MAX East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
-
 #EXTINF:-1  tvg-id="Action.MAX.HD.East.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/903490ef7b5effa45b2fdba457ac3bea95d9fb2fbc1ef8b62fee61317125a270._SL170_FMpng_.png" group-title="World TV",Action MAX HD East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1971,9 +1965,34 @@ https://live-crave.video.9c9media.com/cae97774f09e37aa4e5360dacfd5330cc439447317
 #KODIPROP:inputstream.adaptive.license_key=eac7cd7979f04288bc335fc1d88fa344:0fca71cf91b3c4931ad3cf66c631c24c
 https://live-crave.video.9c9media.com/ca12f7725431efd77040e13a89b5f97ec07300cf1756624049790/ff/f/crave/crave3/manifest.mpd
 
-#EXTINF:-1 tvg-id="Crave4" tvg-name="Crave 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BUPNz2RFbsEzRvcwUkmj65bQnVk8bzTSjg&s" group-title="World TV",Crave 4
+#EXTINF:-1 tvg-id="Crave4" tvg-name="Crave 4" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Crave4.png" group-title="World TV",Crave 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7242a7026ff45609114ee1f3beb34dc:65c32ada65548203a3683d5d37dd3a06
 https://live-crave.video.9c9media.com/b6460882fd23bc4b6c39f67a79320dc2884198101756624052136/ff/f/crave/crave4/manifest.mpd
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png" group-title="World TV",NBA TV (PXL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyMTBZ3g-3oL3_2Yqc2UMEuI/.m3u8
+
+#EXTINF:-1 tvg-id="76" tvg-chno="286" tvg-name="sport-fishing-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sport-fishing-tv.png" group-title="World TV", Sport Fishing TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://streams2.sofast.tv/ptnr-yupptv/title-SPORT-FISHING-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+
+#EXTINF:-1 tvg-id="294" tvg-chno="268" tvg-name="hunt-fish-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hunt-fish-tv.png" group-title="World TV", Hunt Fish TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://streams2.sofast.tv/ptnr-yupptv/title-Hunt_Fish_TV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7545a786-3458-4aaf-ad71-db896a1c4b83/master.m3u8?
+
+#EXTINF:-1 tvg-id="279" tvg-chno="304" tvg-name="just-for-laughs-gags" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/inxhvg.png" group-title="World TV", JUST FOR LAUGHS GAGS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
+
