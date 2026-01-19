@@ -1855,14 +1855,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnon
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="World TV",Asian Crush
 https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://copilot.microsoft.com/th/id/BCO.0383b5ea-564c-4d05-bd10-ec15702cc97e.png" group-title="World TV",Robot Wars by Mech+
-https://756db222c2d642f3beda9099815b4cf4.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_MechPlus/ce9d1260-9d08-4f03-9a1a-864fd2d7c249/3.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/asian-box-mn.png" group-title="World TV",Asian Box
 https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" tvg-id="SonyChannel.mx@SD" group-title="World TV",Sony Channel
-https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/featuredImage.jpg" group-title="World TV",DAZN Combat
 https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
