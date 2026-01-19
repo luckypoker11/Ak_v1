@@ -206,7 +206,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
 
-#EXTINF:-1 tvg-id="2311" tvg-name="Zee Tamil [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Zee_Tamil.png" group-title="Astro",Zee Tamil [HD]
+#EXTINF:-1 tvg-id="2311" tvg-name="Zee Tamil [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" group-title="Astro",Zee Tamil [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -318,7 +318,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
-#EXTINF:-1 tvg-id="2709" tvg-name="TLC [HD]" tvg-logo="https://images.seeklogo.com/logo-png/22/2/tlc-logo-png_seeklogo-220530.png" group-title="Astro",TLC [HD]
+#EXTINF:-1 tvg-id="2709" tvg-name="TLC [HD]" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/tlc-10-logo-png-transparent.png" group-title="Astro",TLC [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -342,7 +342,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
 
-#EXTINF:-1 tvg-id="5021" tvg-name="TVS [HD]" tvg-logo="https://example.com/logos/tvs.png" group-title="Astro",TVS [HD]
+#EXTINF:-1 tvg-id="5021" tvg-name="TVS [HD]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaES4RkjiUIe1inZduD7FB4mM-2nKnzUS_aQ&s" group-title="Astro",TVS [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -406,7 +406,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
-#EXTINF:-1 tvg-id="5055" tvg-name="HBO Hits [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Astro",HBO Hits [HD]
+#EXTINF:-1 tvg-id="5055" tvg-name="HBO Hits [HD]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/HBO_HiTS.svg/revision/latest/scale-to-width-down/250?cb=20250505122747" group-title="Astro",HBO Hits [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -462,7 +462,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
-#EXTINF:-1 tvg-id="5072" tvg-name="TV Okey [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/RTM_TV_Okey_logo_2018.png" group-title="Astro",TV Okey [HD]
+#EXTINF:-1 tvg-id="5072" tvg-name="TV Okey [HD]" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png" group-title="Astro",TV Okey [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -486,7 +486,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 
-#EXTINF:-1 tvg-id="5094" tvg-name="Global Trekker [HD]" tvg-logo="https://ts2.mm.bing.net/th?id=OIP.vi4Kokl67Xms2Q0ycM3g0QHaCE&pid=15.1" group-title="Astro",Global Trekker [HD]
+#EXTINF:-1 tvg-id="5094" tvg-name="Global Trekker [HD]" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/ba/Global_Trekker.png/revision/latest?cb=20220413132701&path-prefix=vi" group-title="Astro",Global Trekker [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -518,7 +518,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
 
-#EXTINF:-1 tvg-id="9982" tvg-name="Nick Jr. [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Astro",Nick Jr. [HD]
+#EXTINF:-1 tvg-id="9982" tvg-name="Nick Jr. [HD]" tvg-logo="https://i.imgur.com/4MozyqM.png" group-title="Astro",Nick Jr. [HD]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1205,10 +1205,10 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 
 #EXTINF:-1 group-logo="https://copilot.microsoft.com/th/id/BCO.51258e6b-58a0-42d5-b362-85a98cd7d4d1.png"
 
-#EXTINF:-1 tvg-id="pbb" tvg-logo="https://pql-static.abs-cbn.com/images/channel/pbbcelebritycollab_livethumb_20251023021847.jpg" group-title="Local",PBB All Access Livestream (Main)
+#EXTINF:-1 tvg-id="pbb" tvg-logo="https://pql-static.abs-cbn.com/images/channel/pbbcelebritycollab_livethumb_20251023021847.jpg" group-title="Local",PBB All Access Livestream
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Local",Kapamilya Channel HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Local",Kapamilya Channel
 https://live-faws.akamaized.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
 #EXTINF:-1 tvg-id="dzmm teleradyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/1200px-DZMM_TeleRadyo.svg.png" group-title="Local",DZMM TeleRadyo
@@ -1604,7 +1604,7 @@ https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Jagux1.png" group-title="Samsung TV Plus",Wild Stuff
 https://amg01076-amg01076c8-samsung-ph-5639.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/pKOXa02YLURXb-JXCo41NwFSp19DOCyDzwk9-5N2UbxLJfxkIOTgorh4zkze9E8jXc-8whenX6ZsgCu70EVNjga1n6kcMLbcV86JNil2iR0qaA" group-title="Samsung TV Plus",UFC TV
+#EXTINF:-1 tvg-logo="https://fightplus.eu/img/fight-plus-logo.png" group-title="Samsung TV Plus",UFC TV
 https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WipeoutXtra.us@SD" tvg-logo="https://i.imgur.com/UDeCRW1.png" group-title="Samsung TV Plus",Wipeout Xtra
