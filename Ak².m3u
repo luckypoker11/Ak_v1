@@ -1990,3 +1990,7 @@ https://streams2.sofast.tv/ptnr-yupptv/title-Hunt_Fish_TV/v1/master/611d79b11b77
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/G...alityGoneWild_1920x1080_new._SL170_FMpng_.png" group-title="World TV",Reality Gone Wild
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e166f9232292796d4c7f72e5fa9f72b:e5595753774870cde794b984e363c67b
+https://otte.live.fly.ww.aiv-cdn.ne.../v1/83c2bd593e1a4d598a76f11b1d1cec5e/cenc.mpd
