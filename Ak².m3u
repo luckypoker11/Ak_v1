@@ -1216,10 +1216,10 @@ https://live-faws.akamaized.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mp
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="sine manila" tvg-logo="https://copilot.microsoft.com/th/id/BCO.f34a5eea-12a3-4644-aeeb-e471b9ecec68.png" group-title="Local",Sine Manila
+#EXTINF:-1 tvg-id="sine manila" tvg-logo="https://i.imgur.com/VfyGuVM.png" group-title="Local",Sine Manila
 https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
 
-#EXTINF:-1 tvg-id="scream flix" tvg-logo="https://ts1.mm.bing.net/th?id=OIP.yFdm7h36S4yDJwTsSAsvBgHaCB&pid=15.1"  group-title="Local",Scream Flix
+#EXTINF:-1 tvg-id="scream flix" tvg-logo="hthttps://www.bworldonline.com/wp-content/uploads/2021/08/Scream-Flix.jpg"  group-title="Local",Scream Flix
 https://jungotvstream.chanall.tv/jungotv/screamflix/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="jungo pinoy tv" tvg-logo="https://ts1.mm.bing.net/th?id=OIP.MaEIA8yNfg1WPTEAmfHhuQHaHa&pid=15.1" group-title="Local",Jungo Pinoy TV
@@ -1230,16 +1230,16 @@ https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
 #KODIPROP:inputstream.adaptive.license_key=90ea4079e02f418db7b170e8763e65f0:1bfe2d166e31d03eee86ee568bd6c272
 https://abslive.akamaized.net/dash/live/2028025/jeepneytv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://copilot.microsoft.com/th/id/BCO.48c13c7e-2ae9-4635-b6ba-3bdfd309bfb9.png" group-title="Local",3rs Sine Pinoy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yH8wCeT.png" group-title="Local",3rs Sine Pinoy
 https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://rageteebee.vercel.app/logo.png" group-title="Local",RageTV
 https://live20.bozztv.com/giatv/giatv-ragetv/ragetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://copilot.microsoft.com/th/id/BCO.2ee10c82-3967-48cd-b4e5-2dc201a4db3d.png" group-title="Local",3rs TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MbKjKKO.png" group-title="Local",3rs TV
 https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://phcorner.org/attachments/1000064809-webp.3830196/" group-title="Local",AnimeX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O66Frs3.png" group-title="Local",AnimeX
 https://live20.bozztv.com/giatv/giatv-animex/animex/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://copilot.microsoft.com/th/id/BCO.79e96bd1-653a-4b0f-8062-d3e58782c7e5.png" group-title="Local",Movie Box PH
@@ -1303,14 +1303,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/dash/index
 #EXTINF:-1  tvg-logo="https://paulphuapoker.com/wp-content/uploads/2018/12/WPT-Champions-Cup-and-Logo-840x449.jpg" group-title="Pluto TV",World Poker Tour
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21a974-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97bdb4b6-f530-4173-966d-19421ac303a0
 
-#EXTINF:-1 tvg-id="mtv music by pluto tv" tvg-logo="https://copilot.microsoft.com/th/id/BCO.bd32f912-a536-4fe6-b054-1d66ba63e43f.png" group-title="Pluto TV",MTV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc848fc8-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f02a8ef1-7c07-44f9-9197-c9b197dbc277
-
 #EXTINF:-1 tvg-id="Top Rank Classics" tvg-logo="https://ts1.mm.bing.net/th?id=OIP.0nn9P7_DXMIuOaLZQ4OiNwHaEK&pid=15.1" group-title="Pluto TV",Top Rank Classics
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d160f53c785e0008df525e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8ce20713-803b-4c36-b6c9-1026b5b6d0e4
-
-#EXTINF:-1 tvg-id="MTVMusic.uk@SD" tvg-logo="https://i.imgur.com/hdyJ4PT.png" group-title="Pluto TV",MTV Music
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2
 
 #EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD" tvg-logo="https://i.imgur.com/WgN4T18.png" group-title="Pluto TV",Gordon Ramsay's Hell's Kitchen
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea45010d0611000839868c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e3a17d6f-f38c-4a08-9e69-00d8a53906ec
@@ -1448,11 +1442,11 @@ https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vevo pop" tvg-logo="https://copilot.microsoft.com/th/id/BCO.96efb20b-054e-4682-8a3d-d56e63197f3f.png" group-title="Samsung TV Plus",Vevo Pop
+#EXTINF:-1 tvg-id="vevo pop" tvg-logo="https://brand.vevo.com/wp-content/uploads/2021/03/logo-img-12.svg" group-title="Samsung TV Plus",Vevo Pop
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vevo hip-hop & r&b" tvg-logo="https://copilot.microsoft.com/th/id/BCO.0177a500-bd46-4378-b27b-3d75933ccd53.png" group-title="Samsung TV Plus",Vevo Hip-Hop & R&B
+#EXTINF:-1 tvg-id="vevo hip-hop & r&b" tvg-logo="https://brand.vevo.com/wp-content/uploads/2021/03/home-img-02.svg" group-title="Samsung TV Plus",Vevo Hip-Hop & R&B
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
 
@@ -1559,7 +1553,7 @@ https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playli
 #EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Samsung TV Plus",Failarmy International
 https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Samsung TV Plus",Vevo 2K
+#EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-logo="https://i.imgur.com/N4yMcqy.png" group-title="Samsung TV Plus",Vevo 2K
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="river monsters" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1FEPARiy7ZXa5UlXKylXOKcs9-JiOY1CNg&s" group-title="Samsung TV Plus",River Monsters
