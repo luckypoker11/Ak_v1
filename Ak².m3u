@@ -1153,7 +1153,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001244/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/npj41pk.png" group-title="Converge", DZMM Teleradyo
 http://136.239.159.20:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br70JxlZHE85iqqUwY%2BlbxPytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001585&contentid=ch00000000000000001585&videoid=ch00000090990000001249&recommendtype=0&userid=1574307143185&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8MHILOPG9AVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/0/0b/Jeepney_TV_3D_Logo_2015.png/revision/latest?cb=20230326142526" group-title="Converge", Jeepney TV
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Jeepney-TV-March-2022-Highlight-Video-Thumbnail.jpg" group-title="Converge", Jeepney TV
 http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="Converge", MYX Philippines
@@ -1211,7 +1211,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbno
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="Local",Kapamilya Channel
 https://live-faws.akamaized.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
-#EXTINF:-1 tvg-id="dzmm teleradyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/1200px-DZMM_TeleRadyo.svg.png" group-title="Local",DZMM TeleRadyo
+#EXTINF:-1 tvg-id="dzmm teleradyo" tvg-logo="https://i.imgur.com/npj41pk.png" group-title="Local",DZMM TeleRadyo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
@@ -1225,7 +1225,7 @@ https://jungotvstream.chanall.tv/jungotv/screamflix/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="jungo pinoy tv" tvg-logo="https://ts1.mm.bing.net/th?id=OIP.MaEIA8yNfg1WPTEAmfHhuQHaHa&pid=15.1" group-title="Local",Jungo Pinoy TV
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
 
-#EXTINF:-1 tvg-id="jeepney tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/1200px-Jeepney_TV_Logo_2015.svg.png" group-title="Local",Jeepney TV
+#EXTINF:-1 tvg-id="jeepney tv" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Jeepney-TV-March-2022-Highlight-Video-Thumbnail.jpg" group-title="Local",Jeepney TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90ea4079e02f418db7b170e8763e65f0:1bfe2d166e31d03eee86ee568bd6c272
 https://abslive.akamaized.net/dash/live/2028025/jeepneytv/manifest.mpd
@@ -1643,36 +1643,6 @@ https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/in
 #KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
 
-#EXTINF:-1 tvg-id="universal channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScpAbC6ABAw3aus7-SAPq5hh06gwW6VsMCvA&amp;s" group-title="World TV",Universal Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96388f9c9cbc73d4256a97974f9a2aef:c2cd19c2e73c8b7d6c384ba745161444
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CHANNEL_HD)/manifest.mpd
-
-#EXTINF:-1 tvg-id="universal cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPIE_-4x_TDDcJMPnMqPgc2MbvzEozw2wIfw&amp;s" group-title="World TV",Universal Cinema
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66ee81febe768875ae2fee5b8f512e15:54882694734874f280259fb8b6766ab3
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CINEMA_HD)/manifest.mpd
-
-#EXTINF:-1 tvg-id="universal comedy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&amp;s" group-title="World TV",Universal Comedy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a778fbd54a4b2285cea8d44c514a2fd:d9befb259f2523d17dd5f7ae5ba2dd74
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_COMEDY_HD)/manifest.mpd
-
-#EXTINF:-1 tvg-id="universal crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTv1azc7VceDWr74jDeBblAm2iIB8flDNfw&amp;s" group-title="World TV",Universal Crime
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dd87aca2d338122cbd283bdd3a0f7502:2bd42314bdcf4028eeb25fcf61b7b6e3
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CRIME_HD)/manifest.mpd
-
-#EXTINF:-1 tvg-id="universal premier" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&amp;s" group-title="World TV",Universal Premier
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d01c9488e528697a9cd8ebe35b067729:abb4d0aff05248ae5e53d3e8454671d6
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_PREMIER_HD)/manifest.mpd
-
-#EXTINF:-1 tvg-id="universal reality" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&amp;s" group-title="World TV",Universal Reality
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aeced86dd6c5ecf4f39cd193109f39f7:afcb5b67f584f2eeb1783474644a9f8e
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_REALITY_HD)/manifest.mpd
-
 #EXTINF:-1 tvg-id="myx global" tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="World TV",MYX Global
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
@@ -1787,9 +1757,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnon
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="World TV",Asian Crush
 https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/asian-box-mn.png" group-title="World TV",Asian Box
-https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/featuredImage.jpg" group-title="World TV",DAZN Combat
 https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
@@ -1952,11 +1919,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0ixizzzeu/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
-
-#EXTINF:-1 group-title="World TV" tvg-logo="https://kstp.com/wp-content/uploads/2022/06/HUBBARDREELZ_1280X720.jpg",REELZ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2312fd39721560ea14f98caf3464195e:93713bb73be2d8aedf3eeb898850e7d5
-https://ottb.live.cf.ww.aiv-cdn.net/IAD/clients/dash/enc/dhdemvb6ff/out/v1/2dbabadc0d204aa9aad2c2e5d29af5c0/cenc.mpd
 
 #EXTINF:-1 group-title="World TV" tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/MGMDRV/large_dark.png?auto=webp&auto=webp&ver=1&ver=1",MGM Drive-in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
