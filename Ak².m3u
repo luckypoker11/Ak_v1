@@ -1300,7 +1300,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/dash/index
 
 #EXTINF:-1 group-logo="https://variety.com/wp-content/uploads/2022/06/Pluto-TV-Canada.png?w=1000&h=667&crop=1"
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/World_Poker_Tour_Logo.png" group-title="Pluto TV",World Poker Tour
+#EXTINF:-1  tvg-logo="https://paulphuapoker.com/wp-content/uploads/2018/12/WPT-Champions-Cup-and-Logo-840x449.jpg" group-title="Pluto TV",World Poker Tour
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21a974-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97bdb4b6-f530-4173-966d-19421ac303a0
 
 #EXTINF:-1 tvg-id="mtv music by pluto tv" tvg-logo="https://copilot.microsoft.com/th/id/BCO.bd32f912-a536-4fe6-b054-1d66ba63e43f.png" group-title="Pluto TV",MTV
@@ -1624,15 +1624,6 @@ https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/amp
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
-#EXTINF:-1 tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png" group-title="World TV",YTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
-https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
-
-#EXTINF:-1 tvg-id="travel & taste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sooka_Travel_%26_Taste.png" group-title="World TV",Travel & Taste
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
-
 #EXTINF:-1 tvg-id="curiosity now" tvg-logo="https://press.curiositystream.com/wp-content/uploads/2022/06/CuriosityNow_Wordmark_Stack_1C_Black.png" group-title="World TV",Curiosity Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
@@ -1719,7 +1710,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://dash3.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WorldPokerTour" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/World_Poker_Tour_Logo.png" group-title="World TV",World Poker Tour
+#EXTINF:-1 tvg-id="WorldPokerTour" tvg-logo="https://paulphuapoker.com/wp-content/uploads/2018/12/WPT-Champions-Cup-and-Logo-840x449.jpg" group-title="World TV",World Poker Tour
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
 
@@ -1746,7 +1737,7 @@ https://jansonmedia-kidstv-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="kmovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcGJE_3AQMg4ya7CP-6j4TjPl_-t1Fv2qXKA&s" group-title="World TV",NEW K-Movies
 https://newidco-newmovies-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rakuten viki" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rakuten_Viki_Logo_2019.svg/1200px-Rakuten_Viki_Logo_2019.svg.png" group-title="World TV",Rakuten Viki
+#EXTINF:-1 tvg-id="rakuten viki" tvg-logo="https://vitrina.ai/wp-content/uploads/2023/12/Rakuten-Viki-content-acquisition.png" group-title="World TV",Rakuten Viki
 https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/CD4826FEC87B2F49DC854B8A74BDACD5AB6C21056C3833D1A0AC77158E76DA12/compose?aspectRatio=1.78&format=webp&width=600" group-title="World TV",Disney XD
@@ -1770,7 +1761,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="https://static.cdn.turner.com/styles/header_image_1500x500_cropped/s3/nba-tv-16x9-1.jpg?itok=6H8mrlyR" group-title="World TV",NBA TV
 https://fl31.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/WFN_2014_logo.svg/1200px-WFN_2014_logo.svg.png" group-title="World TV",World Fishing Network
+#EXTINF:-1 tvg-logo="https://www.worldfishingnetwork.com/network/img/wfn/icons/og.png" group-title="World TV",World Fishing Network
 https://fl31.moveonjoy.com/WORLD_FISHING_NETWORK/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2024/05/03/DAZN_Ringside_Channel_1080x1080_Square1-8xmupja4.png" group-title="World TV",DAZN Ringside
@@ -1779,7 +1770,7 @@ https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playl
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/HBO_Boxing_3D.png/revision/latest?cb=20230203180321" group-title="World TV",HBO Boxing
 https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_channelId=99951469&ads.xumo_streamId=99951469&ads.channelId=99951469&ads.channelName=WBDHBOBoxing_us&ads.caid=WBDHBOBoxing&ads.csid=xumo_desktopweb_WBDHBOBoxing_ssai&ads._fw_coppa=0&ads.xumo_contentId=4315&ads.xumo_contentName=WBDHBOBoxing&ads.xumo_providerId=4315&ads.xumo_providerName=WBDHBOBoxing&ads._fw_ifa_type=dpid&ads._fw_did=62b62ea6-c28c-fe5a-ca20-ccc320de90eb&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads.genre=&ads._fw_content_category=IAB17-20&ads._fw_content_language=undefined&ads._fw_content_genre=Combat%20Sports&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=&ads._fw_device_model=&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appVersion=2.20.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.appName=XumoPlay&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
 
-#EXTINF:-1 tvg-id="gma pinoy tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="World TV",GMA Pinoy TV
+#EXTINF:-1 tvg-id="gma pinoy tv" tvg-logo="https://i.imgur.com/ZOqMJfw.png" group-title="World TV",GMA Pinoy TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
@@ -1812,7 +1803,7 @@ https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.qxh.com/image/resource/66741494be2bbffc6dc1d975/logo_16-9/U3g5xU6vP/original.png" group-title="World TV",In the Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 
-#EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/retro-crush.jpg" group-title="World TV",Retro Crush
+#EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://sm.pcmag.com/pcmag_me/review/r/retrocrush/retrocrush_1bpb.png" group-title="World TV",Retro Crush
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 
 #EXTINF:-1 tvg-id="HiYAH.us@SD" tvg-logo="https://i.imgur.com/sOYAnTB.png" group-title="World TV",Hi-YAH!
@@ -1962,7 +1953,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0ixizzzeu/o
 #KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-logo="https://www.prensario.net/multimedios/imgs/66803_750.png",REELZ
+#EXTINF:-1 group-title="World TV" tvg-logo="https://kstp.com/wp-content/uploads/2022/06/HUBBARDREELZ_1280X720.jpg",REELZ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2312fd39721560ea14f98caf3464195e:93713bb73be2d8aedf3eeb898850e7d5
 https://ottb.live.cf.ww.aiv-cdn.net/IAD/clients/dash/enc/dhdemvb6ff/out/v1/2dbabadc0d204aa9aad2c2e5d29af5c0/cenc.mpd
