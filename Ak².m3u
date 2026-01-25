@@ -1619,7 +1619,7 @@ https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/am
 #KODIPROP:inputstream.adaptive.license_key=7ef57f7f3e8cf0efe4f3d5772a7cbb35:0ac6d617095fbe0ca7f4c9ae72fa5f51
 https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd
 
-#EXTINF:-1 tvg-id="disney channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2017_Disney_Channel_logo.svg/2560px-2017_Disney_Channel_logo.svg.png" group-title="World TV",Disney Channel
+#EXTINF:-1 tvg-id="disney channel" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" group-title="World TV",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
@@ -1646,11 +1646,6 @@ https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
 https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
-
-#EXTINF:-1 tvg-id="hbo xtreme" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-xtreme-252x252.png" group-title="World TV",HBO XTREME
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
-https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 
 #EXTINF:-1 tvg-id="cinemax hd east" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_EAST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="World TV",Cinemax HD East
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1724,14 +1719,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://dash3.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mtv 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-z7u8vGYXD7klIRHNX-EbAaZQQMZ6MihlhA&s" group-title="World TV",MTV 80's
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://dash3.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="star cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPxhtet0wzqlBZC04wDrtZaFB9qyqWhQFrIQ&s" group-title="World TV",Star Cinema
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=6743dbc3fb7aa20b270802ff&AV_CHANNEL_NAME=Starmedia&AV_CONTENT_LANGUAGE=en&AV_CONTENT_RATING=TV-PG&AV_CONTENT_GENERE=907&cb=1760690422298&AV_APPPKGNAME=com.seraphic.metaxplay&AV_APPNAME=MetaX
-
 #EXTINF:-1 tvg-id="WorldPokerTour" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/World_Poker_Tour_Logo.png" group-title="World TV",World Poker Tour
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
@@ -1762,7 +1749,7 @@ https://newidco-newmovies-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="rakuten viki" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rakuten_Viki_Logo_2019.svg/1200px-Rakuten_Viki_Logo_2019.svg.png" group-title="World TV",Rakuten Viki
 https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/1200px-2015_Disney_XD_logo.svg.png" group-title="World TV",Disney XD
+#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/CD4826FEC87B2F49DC854B8A74BDACD5AB6C21056C3833D1A0AC77158E76DA12/compose?aspectRatio=1.78&format=webp&width=600" group-title="World TV",Disney XD
 http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="World TV",Tom And Jerry
@@ -1770,9 +1757,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTVLive.us@SD" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="World TV",MTV Live
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://webp.amirahtv.art/?img=%2Fuploads%2Fposters%2Fposter_game.png" group-title="World TV",Game+
-https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://webp.amirahtv.art/?img=%2Fuploads%2Fposters%2Fposter_anime-x-hidive.jpg" group-title="World TV",ANIME X HIDIVE
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
