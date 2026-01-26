@@ -1206,6 +1206,9 @@ https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3CN3QRY.png"  group-title="Local",Scream Flix
 https://jungotvstream.chanall.tv/jungotv/screamflix/playlist_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://data.phcorner.org/2026/01/12233366_dfa8cd99-14a0-4010-8387-cfbfa184159f-removebg-preview.webp" group-title="Local",SDTV PH
+https://live20.bozztv.com/giatv/giatv-SDTVPH/SDTVPH/playlist.m3u8
+
 #EXTINF:-1 tvg-id="jungo pinoy tv" tvg-logo="https://ts1.mm.bing.net/th?id=OIP.MaEIA8yNfg1WPTEAmfHhuQHaHa&pid=15.1" group-title="Local",Jungo Pinoy TV
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
 
@@ -1970,3 +1973,6 @@ https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7E406717-E0E8-4975-8B16-7AEBC336C650/3-1x1.png" tvg-id="LN_7E406717-E0E8-4975-8B16-7AEBC336C650" group-title="World TV",Strongman Champions Network
 https://f55973c7fde84bc997efecb5881ae365.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_StrongmanChampionsLeague/playlist.m3u8?ads.cust_channeltype=channel&ads.content_title=EPG%20%20Strongman%20Champions%20Network&ads.wurl_channel=1102&ads.coppa=0&ads.channel_brand_id=AMDB012531&ads.app_name=&ads.device_type=&ads.content_id=7E406717-E0E8-4975-8B16-7AEBC336C650&ads.did=&ads.content_provider=strongmans-champions-network&ads.channel_company_id=AMDP500235&ads.channel_corp=Rights%20Booster%20Limited&ads.dnt=&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.wurl_name=StrongmanChampionsLeague&ads.ip=86.48.9.131&ads.content_genre=Sports&ads.channel_ext_id=6246250e9bdc57543f1cfa25&ads.device_make=&ads.app_store_url=&ads.ifa_type=&ads.cust_devicename=&ads.us_privacy=1YNY&ads.device_model=&ads.app_bundle=&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0&device_devicetype=desktop_web&height=1080
+
+#EXTINF:-1 tvg-logo="https://data.phcorner.org/2026/01/12224120_SDTVNETWORKOFFICIALLOGO.webp" group-title="World TV",SDTV Global
+https://live20.bozztv.com/giatvplayout7/giatv-210938/tracks-v1a1/mono.ts.m3u8
