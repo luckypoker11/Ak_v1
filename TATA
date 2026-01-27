@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1,&Prive HD
+http://110.39.27.47:8001/play/a016/index.m3u8
+
+#EXTINF:-1,&flix HD
+http://110.39.27.47:8001/play/a01u/index.m3u8
+
+#EXTINF:-1,&pictures HD
+http://110.39.27.47:8001/play/a01d/index.m3u8
+
+#EXTINF:-1,&tv HD
+http://110.39.27.47:8001/play/a01e/index.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://110.39.27.47:8001/play/a01k/index.m3u8
+
+#EXTINF:-1,Colors HD
+http://110.39.27.47:8001/play/a007/index.m3u8
+
+#EXTINF:-1,DISNEY
+http://110.39.27.47:8001/play/a03m/index.m3u8
+
+#EXTINF:-1,Discovery HD
+http://110.39.27.47:8001/play/a017/index.m3u8
+
+#EXTINF:-1,Discovery Kids
+http://110.39.27.47:8001/play/a00i/index.m3u8
+
+#EXTINF:-1,Discovery Science
+http://110.39.27.47:8001/play/a018/index.m3u8
