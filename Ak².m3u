@@ -1401,8 +1401,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c9
 #EXTINF:-1 tvg-id="IronChef.us@Canada" tvg-logo="https://i.imgur.com/rk7fMNe.png" group-title="Pluto TV",Iron Chef
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6582f8dadfed030008e5a93d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7ac9d3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06f4488f-c700-49ec-8b6e-d27460d8c3ed
 
-#EXTINF:-1  tvg-name="Genie K-Drama" tvg-id="US2000012KX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000012KX_20250813T151513SQUARE.png" tvg-chno="1614" group-title="Pluto TV",Genie K-Drama
-https://jmp2.uk/stvp-US2000012KX
+
 
 **********Samsung TV Plus**********
 
@@ -1610,6 +1609,12 @@ https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 
 #EXTINF:-1 tvg-id="WipeoutXtra.us@SD" tvg-logo="https://i.imgur.com/UDeCRW1.png" group-title="Samsung TV Plus",Wipeout Xtra
 https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8
+
+#EXTINF:-1  tvg-name="Moonbug" tvg-id="USBB11000015Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB11000015Q_20241105T185734SQUARE.png" tvg-chno="3627" group-title="Samsung TV Plus",Moonbug
+https://jmp2.uk/stvp-USBB11000015Q
+
+#EXTINF:-1  tvg-name="Unbeaten Sports Channel" tvg-id="US1400008DW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400008DW_20240910T003812SQUARE.png" tvg-chno="2388" group-title="Samsung TV Plus",Unbeaten Sports Channel
+https://jmp2.uk/stvp-US1400008DW
 
 **********World-TV**********
 
