@@ -1989,7 +1989,7 @@ http://178.33.239.54:8080/502b/index.m3u8
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="World TV",Sky Sports Cricket
 http://178.33.239.54:8080/503a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/512px-Sky_Sport_Action.svg.png" group-title="World TV",Sky Sport Action
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" group-title="World TV",Sky Sport Action
 http://178.33.239.54:8080/504/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" group-title="World TV",Sky Sports Premier League
