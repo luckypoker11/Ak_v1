@@ -1200,7 +1200,7 @@ https://live-faws.akamaized.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mp
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="sine manila" tvg-logo="https://i.imgur.com/VfyGuVM.png" group-title="Local",Sine Manila
+#EXTINF:-1 tvg-id="sine manila" tvg-logo="https://i.ibb.co/gFL3JypM/2025-03-17-removebg-preview.png" group-title="Local",Sine Manila
 https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3CN3QRY.png"  group-title="Local",Scream Flix
@@ -1211,11 +1211,6 @@ https://live20.bozztv.com/giatv/giatv-SDTVPH/SDTVPH/playlist.m3u8
 
 #EXTINF:-1 tvg-id="jungo pinoy tv" tvg-logo="https://ts1.mm.bing.net/th?id=OIP.MaEIA8yNfg1WPTEAmfHhuQHaHa&pid=15.1" group-title="Local",Jungo Pinoy TV
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
-
-#EXTINF:-1 tvg-id="jeepney tv" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Jeepney-TV-March-2022-Highlight-Video-Thumbnail.jpg" group-title="Local",Jeepney TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90ea4079e02f418db7b170e8763e65f0:1bfe2d166e31d03eee86ee568bd6c272
-https://abslive.akamaized.net/dash/live/2028025/jeepneytv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yH8wCeT.png" group-title="Local",3rs Sine Pinoy
 https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
@@ -1232,6 +1227,8 @@ https://live20.bozztv.com/giatv/giatv-animex/animex/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://copilot.microsoft.com/th/id/BCO.79e96bd1-653a-4b0f-8062-d3e58782c7e5.png" group-title="Local",Movie Box PH
 https://live20.bozztv.com/giatvplayout7/giatv-210731/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/HD4hF00d/2025-03-17-1-removebg-preview-1.png" group-title="Local TV",BIHM TV
+    https://live20.bozztv.com/giatv/giatv-bihmtv/bihmtv/playlist.m3u8
 
 
 **********Pilipinas Live**********
@@ -1404,7 +1401,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c9
 #EXTINF:-1 tvg-id="IronChef.us@Canada" tvg-logo="https://i.imgur.com/rk7fMNe.png" group-title="Pluto TV",Iron Chef
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6582f8dadfed030008e5a93d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7ac9d3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06f4488f-c700-49ec-8b6e-d27460d8c3ed
 
-
+#EXTINF:-1  tvg-name="Genie K-Drama" tvg-id="US2000012KX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000012KX_20250813T151513SQUARE.png" tvg-chno="1614" group-title="Pluto TV",Genie K-Drama
+https://jmp2.uk/stvp-US2000012KX
 
 **********Samsung TV Plus**********
 
@@ -1592,7 +1590,7 @@ https://jmp2.uk/stvp-USBD700011RE
 https://dai.google.com/linear/hls/pb/event/qI1pC-R_Sma0bVLVjaEOtw/stream/e5dc6e3b-2e32-4b5a-a0fd-c2f6290e54c4:TPE/variant/c587157d83c07c094ddbd5827f285bc4/bandwidth/3328000.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/SG1700012W0_20250827T004317SQUARE.png&h=250" group-title="Samsung TV Plus",K-Content by CJENM
-https://cc-o7iz6ey4x2e4g.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o7iz6ey4x2e4g/c49c6875-9fa8-49da-8a70-c05335a99312/0.m3u8
+https://jmp2.uk/rok-ed1ad60fa9a05f34bf5d4e8b09460d6b.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUkM28M7oxB7y6Vx_hN-7DGWCRYD-GdZHwyQ&s" group-title="Samsung TV Plus",K-Food by CJENM
 https://cc-nwusx3jrgn2t8.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwusx3jrgn2t8/8cfced6b-0fa2-4bec-80ca-25fbd52460dc/0.m3u8
