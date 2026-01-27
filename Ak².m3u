@@ -1227,8 +1227,8 @@ https://live20.bozztv.com/giatv/giatv-animex/animex/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://copilot.microsoft.com/th/id/BCO.79e96bd1-653a-4b0f-8062-d3e58782c7e5.png" group-title="Local",Movie Box PH
 https://live20.bozztv.com/giatvplayout7/giatv-210731/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.ibb.co/HD4hF00d/2025-03-17-1-removebg-preview-1.png" group-title="Local TV",BIHM TV
-    https://live20.bozztv.com/giatv/giatv-bihmtv/bihmtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HD4hF00d/2025-03-17-1-removebg-preview-1.png" group-title="Local",BIHM TV
+https://live20.bozztv.com/giatv/giatv-bihmtv/bihmtv/playlist.m3u8
 
 
 **********Pilipinas Live**********
