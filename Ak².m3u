@@ -1253,6 +1253,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-210731/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HD4hF00d/2025-03-17-1-removebg-preview-1.png" group-title="Local",BIHM TV
 https://live20.bozztv.com/giatv/giatv-bihmtv/bihmtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Local", GMA 7
+https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
 
 **********Pilipinas Live**********
 
