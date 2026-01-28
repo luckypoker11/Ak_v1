@@ -1256,6 +1256,12 @@ https://live20.bozztv.com/giatv/giatv-bihmtv/bihmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Local", GMA 7
 https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
 
+#EXTINF:-1 tvg-id="HopeChannelPhilippines.ph" tvg-name="Hope Channel Philippines" tvg-logo="https://i.postimg.cc/prJBPfrm/hopechannelphilippines.png" group-title="Local",Hope Channel Philippines
+https://cdn-kr-icn.becdn.net/hcorg_ROeXKL3HV6a/s/jsl_7A1swL7Fhlh/master.m3u8
+
+#EXTINF:-1 tvg-id="AbanteTV.ph" tvg-name="Abante TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" group-title="Local",Abante TV
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+
 **********Pilipinas Live**********
 
 #EXTINF:-1 group-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png"
