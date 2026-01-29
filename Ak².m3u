@@ -1342,7 +1342,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Crunchyroll-Emblem.png" group-title="Pluto TV",Crunchyroll
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e28-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95ddabd5-09c0-4680-9412-eea43c47a4da
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zJuSbmU.png" group-title="Pluto TV",Dora TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/4/46/Peppa_Pig_Title_Card.png/revision/latest/thumbnail/width/360/height/360?cb=20230506142756" group-title="Pluto TV",Peppa Pig
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c49-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58d418cb-223d-4b93-bc8e-5666e9995949
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeUXuEjFbaT5FjzYTPgzb7m88zJhjlX_RmGA&s" group-title="Pluto TV",FanDuel TV Extra
