@@ -2058,12 +2058,7 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/512px-Global_Television_Network_Logo.svg.png" group-title="World TV",CKMI-DT-1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad9e58acded2d969ad3d9330dc9af7e1:384011c6f707e3c7a8173c50d83e4dd7
-https://vl-oh-cdnec012.vl-tve-linear-hahd-hahd.cdnsrv.videotron.ca/CKMIDT_HD_VL_VLTVE_72865_0_6164734167845735163.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/CanalD.svg/512px-CanalD.svg.png" group-title="World TV",Canal D
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a1d29bff238b6cdbbe25ae423381113:cb10d4e0ed0c2a61b9a0015e55d76b51
-https://vl-oh-cdnec012.vl-tve-linear-hahd-hahd.cdnsrv.videotron.ca/CANDHD_HD_VL_VLTVE_56161_0_5927923575099822163.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQKC8BoGR_WnXTwfj8UCUf_cT8PtxpdVM4gw&s" group-title="World TV",XTRM
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://cache07.zapitv.com/live/eds_c2/xtrm_hd/dash_live_ez/xtrm_hd.mpd
