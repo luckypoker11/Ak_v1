@@ -1647,16 +1647,6 @@ https://jmp2.uk/stvp-USBB11000015Q
 #EXTINF:-1  tvg-name="Unbeaten Sports Channel" tvg-id="US1400008DW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400008DW_20240910T003812SQUARE.png" tvg-chno="2388" group-title="Samsung TV Plus",Unbeaten Sports Channel
 https://jmp2.uk/stvp-US1400008DW
 
-**********Sky Go+**********
-
-#EXTINF:-1 group-logo="https://my.goplus.mn/app/images/skygo_logo.png"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Sky Go+",Arirang
-https://cdn4.skygo.mn/live/disk1/Arirang/HLSv3-FTA/Arirang.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAYZSgx.png" group-title="Sky Go+",AsianBox
-https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
-
 **********World-TV**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/5TpRmcV.png"
