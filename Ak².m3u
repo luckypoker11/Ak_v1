@@ -1651,8 +1651,11 @@ https://jmp2.uk/stvp-US1400008DW
 
 #EXTINF:-1 group-logo="https://my.goplus.mn/app/images/skygo_logo.png"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Sky Go+,Arirang
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Sky Go+",Arirang
 https://cdn4.skygo.mn/live/disk1/Arirang/HLSv3-FTA/Arirang.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAYZSgx.png" group-title="Sky Go+",AsianBox
+https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
 
 **********World-TV**********
 
