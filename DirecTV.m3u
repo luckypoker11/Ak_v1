@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare0/epg_ripper_US1.xml.gz,"
+
+**********DIRECTV**********
+
+#EXTINF:-1 group-logo="https://i.imgur.com/WwiDAm4.png"
+
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/0ceb396e-86d0-417f-99a2-5de1f3366743" group-title="DIRECTV",20/20
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
