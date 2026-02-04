@@ -21,3 +21,35 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(8TV)/master
 #KODIPROP:inputstream.adaptive.license_key=a6349d2165514fa38fb6f1348679ba36:1db75d2e54ff52806d84af64499685ff
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ABC)/master.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="Unifi",Al Jazeera
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5c0678dad08451e955a53ee95aff30f:a05ca10851a61c2933243b7169be6679
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(aljazeera)/master.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png" group-title="Unifi",Animax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bd30e54571144eb9168a1a7e5915f75:f8cb24e54d555381a326c157b5dfaa59
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(animax)/master.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kindpng.com/picc/m/469-4699767_asian-food-network-logo-hd-png-download.png" group-title="Unifi",Asian Food Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6f69611e9e94a1cba591f855b191362:bbd319d36c1728a8e4cc6bb4a8ad12f4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(asianfoodnetwork)/master.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMpELJrYH7D81zVpTgT7T96pw0EQCfsgD7A&s" group-title="Unifi",AXN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4345340d92d64788bef7d99594cbe643:c67f6e21ebbd520e31d4141b771d3867
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(axn)/master.mpd
