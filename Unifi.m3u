@@ -238,9 +238,12 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hbo)/master
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hbof)/master.mpd
 
-#EXTINF:-1 tvg-id="HBO.Hits.my" tvg-name="" tvg-logo="https://i.imgur.com/CTjmocc.png" group-title="Unifi",HBO Hits 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="HBO.Hits.my" tvg-logo="https://i.imgur.com/CTjmocc.png" group-title="Unifi",HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hboh)/master.mpd
 
 #EXTINF:-1 tvg-id="HGTV.HD.my" tvg-name="" tvg-logo="https://www.pikpng.com/pngl/b/207-2078915_hgtv-logo-hgtv-logo-transparent-clipart.png" group-title="Unifi",HGTV
