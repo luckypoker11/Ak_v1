@@ -241,6 +241,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hbof)/maste
 #EXTINF:-1 tvg-id="HBO.Hits.my" tvg-logo="https://i.imgur.com/CTjmocc.png" group-title="Unifi",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
