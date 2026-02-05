@@ -1,6 +1,6 @@
 #EXTM3U billed-msg="M3U PLAYLIST BY: Ak²/luckypoker11"
 
-#EXTM3U url-tvg="https://epghub.xyz/epg/EPG-MY.xml.gz, https://epghub.xyz/epg/EPG-PH.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://epghub.xyz/epg/EPG-IN.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz"
+#EXTM3U url-tvg="https://epghub.xyz/epg/EPG-MY.xml.gz, https://epghub.xyz/epg/EPG-PH.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://epghub.xyz/epg/EPG-IN.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 
 **********Astro**********
 
@@ -1805,7 +1805,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bw5g1vx3k9/
 #KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
 
-#EXTINF:-1 tvg-id="CinemaxWest.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_WEST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="World TV",Cinemax HD West
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_WEST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="World TV",Cinemax HD West
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
@@ -1867,22 +1867,22 @@ https://streams2.sofast.tv/ptnr-yupptv/title-SPORT-FISHING-TV-ENG_yupptv/v1/mast
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-Hunt_Fish_TV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7545a786-3458-4aaf-ad71-db896a1c4b83/master.m3u8?
 
-#EXTINF:-1 group-title="World TV" tvg-logo="https://archive.org/download/HboEast/hbo%20east.png",HBO East
+#EXTINF:-1 tv-id="HBO.East.us2" group-title="World TV" tvg-logo="https://archive.org/download/HboEast/hbo%20east.png",HBO East
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ab1caa245e2d8cc4e26e0e1b63fe661:22c42d7a1679f50ca4ad37b4c1ad97fe
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/990f75eb-172d-42a8-bd8f-899ab38ba394/dh79ut4-c7a57e73-3693-4b4c-bdcb-93e20ba9f394.png/v1/fill/w_622,h_350,q_70,strp/_my_au__hbo_zone_id__2024__by_carxl2029_dh79ut4-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6Ii9mLzk5MGY3NWViLTE3MmQtNDJhOC1iZDhmLTg5OWFiMzhiYTM5NC9kaDc5dXQ0LWM3YTU3ZTczLTM2OTMtNGI0Yy1iZGNiLTkzZTIwYmE5ZjM5NC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.C0S8KsKYLhBA7xr09ZvbRn_jilrqpoQYoFPT9SYFJUw",HBO Zone
+#EXTINF:-1 tv-id="HBO.Zone.HD.us2" group-title="World TV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/990f75eb-172d-42a8-bd8f-899ab38ba394/dh79ut4-c7a57e73-3693-4b4c-bdcb-93e20ba9f394.png/v1/fill/w_622,h_350,q_70,strp/_my_au__hbo_zone_id__2024__by_carxl2029_dh79ut4-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6Ii9mLzk5MGY3NWViLTE3MmQtNDJhOC1iZDhmLTg5OWFiMzhiYTM5NC9kaDc5dXQ0LWM3YTU3ZTczLTM2OTMtNGI0Yy1iZGNiLTkzZTIwYmE5ZjM5NC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.C0S8KsKYLhBA7xr09ZvbRn_jilrqpoQYoFPT9SYFJUw",HBO Zone
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsKNofA6foav75gD-AlRbnzAPwwAZ44-ovdQ&s",HBO Comedy
+#EXTINF:-1 tv-id="HBO.Comedy.HD.us2" group-title="World TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsKNofA6foav75gD-AlRbnzAPwwAZ44-ovdQ&s",HBO Comedy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_west_small.gif",HBO WEST
+#EXTINF:-1 tv-id="HBO.West.us2" group-title="World TV" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_west_small.gif",HBO WEST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
@@ -1892,27 +1892,27 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/o
 #KODIPROP:inputstream.adaptive.license_key=1c73219e929389385aba7d52fc5fecdf:04aac082576d853b80734f5d8d4ebbbc
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0ixizzzeu/out/v1/058efc3c023b4424b4bff6c52cf7e81e/cenc.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-logo="https://image-resizer-cloud.api.pldt.firstlight.ai/image/D5127959-34E4-41B2-AA80-CE74DDC2C3C4/0-16x9.jpg?width=1080",HBO Signature
+#EXTINF:-1 tv-id="HBO.Signature.HD.us2" group-title="World TV" tvg-logo="https://image-resizer-cloud.api.pldt.firstlight.ai/image/D5127959-34E4-41B2-AA80-CE74DDC2C3C4/0-16x9.jpg?width=1080",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/MGMDRV/large_dark.png?auto=webp&auto=webp&ver=1&ver=1",MGM+ Drive-In
+#EXTINF:-1 tv-id="MGM+.Drive-In.us2" group-title="World TV" tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/MGMDRV/large_dark.png?auto=webp&auto=webp&ver=1&ver=1",MGM+ Drive-In
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b74cf4e95c3dac51f8445d044d5fa11:abe32ddf4ab8e451b505354d55629785
 https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ijf9c1nj9l/out/v1/d8018bfb87ac4be1840dbc18b31f2fed/cenc.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/01/mgm-hits.png",MGM+ Hits
+#EXTINF:-1 tv-id="MGM+.Hits.HD.us2" group-title="World TV" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/01/mgm-hits.png",MGM+ Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=563740ab2942d108384539e507d268a3:fb51835b952fab5a9d5233c771da1d3d
 https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6twfogu6go/out/v1/fe3c6ff9c8d94b2187e2e87b4edacca8/cenc.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/01/mgm-plus-marquee.png",MGM+ Marquee
+#EXTINF:-1 tv-id="MGM+.Marquee.HD.us2" group-title="World TV" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/01/mgm-plus-marquee.png",MGM+ Marquee
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edec01accce094e2e105f76a8fac1a48:0c536390abb52439b4cac20bfe96daea
 https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y7rqqxcdk4/out/v1/fb99f1f5705d4f3194e9a234ef717bd5/cenc.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-logo="https://play-lh.googleusercontent.com/rDzYxbfSRinWI-sBq_6jvWLhgAMUtIbKtO9jv7uRfUnmESWpJ_z3eDxCrI5pkSGAhs8J",MGM+
+#EXTINF:-1 tv-id="MGM+.HD.us2" group-title="World TV" tvg-logo="https://play-lh.googleusercontent.com/rDzYxbfSRinWI-sBq_6jvWLhgAMUtIbKtO9jv7uRfUnmESWpJ_z3eDxCrI5pkSGAhs8J",MGM+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea46cd84fc0fcaefc45b5d1d9b977db4:715a77d80b090e9f964e3616ca9e66d2
 https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ck8h9qqlfr/out/v1/34a373fb214d4e1590a3ab397b2d7af1/cenc.mpd
@@ -1963,49 +1963,49 @@ https://f55973c7fde84bc997efecb5881ae365.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://liveplay.vercel.app/assets/sdtv_logo.png" group-title="World TV",SDTV Global
 https://live20.bozztv.com/giatvplayout7/giatv-210938/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="World TV",Sky Sports Football
+#EXTINF:-1 tv-id="Sky.Sports.Football.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="World TV",Sky Sports Football
 http://178.33.239.54:8080/500a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png" group-title="World TV",Sky Sport News
+#EXTINF:-1 tv-id="SkySp.News.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png" group-title="World TV",Sky Sports News
 http://178.33.239.54:8080/501a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="World TV",Sky Sports Main Event
+#EXTINF:-1 tv-id="SkySpMainEvHD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="World TV",Sky Sports Main Event
 http://178.33.239.54:8080/502b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="World TV",Sky Sports Cricket
+#EXTINF:-1 tv-id="SkySp.Cricket.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="World TV",Sky Sports Cricket
 http://178.33.239.54:8080/503a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" group-title="World TV",Sky Sport NFL
+#EXTINF:-1 tv-id="Sky.Sports.NFL.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" group-title="World TV",Sky Sports NFL
 http://178.33.239.54:8080/504/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" group-title="World TV",Sky Sports Premier League
+#EXTINF:-1 tv-id="SkySp.PL.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" group-title="World TV",Sky Sports Premier League
 http://178.33.239.54:8080/506b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png" group-title="World TV",Sky Sports Mix
+#EXTINF:-1 tv-id="SkySp.Mix.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png" group-title="World TV",Sky Sports Mix
 http://178.33.239.54:8080/507a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="World TV",Sky Sports F1
+#EXTINF:-1 tv-id="SkySp.F1.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="World TV",Sky Sports F1
 http://178.33.239.54:8080/508a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="World TV",TNT Sports 1
+#EXTINF:-1 tv-id="TNT.Sports.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="World TV",TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="World TV",TNT Sports 2
+#EXTINF:-1 tv-id="TNT.Sports.2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="World TV",TNT Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="World TV",TNT Sports 3
+#EXTINF:-1 tv-id="TNT.Sports.3.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="World TV",TNT Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="World TV",TNT Sports 4
+#EXTINF:-1 tv-id="TNT.Sports.4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="World TV",TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
