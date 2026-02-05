@@ -1,6 +1,6 @@
 #EXTM3U billed-msg="M3U PLAYLIST BY: Ak²/luckypoker11"
 
-#EXTM3U url-tvg="https://epghub.xyz/epg/EPG-MY.xml.gz, https://epghub.xyz/epg/EPG-PH.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+#EXTM3U url-tvg="https://epghub.xyz/epg/EPG-MY.xml.gz, https://epghub.xyz/epg/EPG-PH.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://epghub.xyz/epg/EPG-IN.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz"
 
 **********Astro**********
 
@@ -1604,12 +1604,12 @@ https://jmp2.uk/stvp-US1400008DW
 
 #EXTINF:-1 group-logo="https://i.imgur.com/5TpRmcV.png"
 
-#EXTINF:-1 tvg-id="cartoon network" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="World TV",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="World TV",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef57f7f3e8cf0efe4f3d5772a7cbb35:0ac6d617095fbe0ca7f4c9ae72fa5f51
 https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd
 
-#EXTINF:-1 tvg-id="disney channel" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" group-title="World TV",Disney Channel
+#EXTINF:-1 tvg-id="Disney.Channel.(Pacific).us2" tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" group-title="World TV",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
@@ -1821,28 +1821,28 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/
 #KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
-#EXTINF:-1 tvg-id="Crave1.ca" tvg-name="Crave 1" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Crave1.png" group-title="World TV",Crave 1
+#EXTINF:-1 tvg-id="Crave1.ca2" tvg-name="Crave 1" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Crave1.png" group-title="World TV",Crave 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a107945066f45a9af2c32ea88be60f4:df97e849d68479ec16e395feda7627d0
 https://live-crave.video.9c9media.com/3a117e0d210abdb2d747306e63ed20ad344238f11756624041740/ff/f/crave/crave1/manifest.mpd
 
-#EXTINF:-1 tvg-id="Crave2.ca" tvg-name="Crave 2" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Crave2.png" group-title="World TV",Crave 2
+#EXTINF:-1 tvg-id="Crave2.ca2" tvg-name="Crave 2" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Crave2.png" group-title="World TV",Crave 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ac6eaaf0e5e4f94987cbb5b243b54e8:8bb3f2f421f6afd025fa46c784944ad6
 https://live-crave.video.9c9media.com/cae97774f09e37aa4e5360dacfd5330cc43944731756624044578/ff/f/crave/crave2/manifest.mpd
 
-#EXTINF:-1 tvg-id="Crave3.ca" tvg-name="Crave 3" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Crave3.png" group-title="World TV",Crave 3
+#EXTINF:-1 tvg-id="Crave3.ca2" tvg-name="Crave 3" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Crave3.png" group-title="World TV",Crave 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eac7cd7979f04288bc335fc1d88fa344:0fca71cf91b3c4931ad3cf66c631c24c
 https://live-crave.video.9c9media.com/ca12f7725431efd77040e13a89b5f97ec07300cf1756624049790/ff/f/crave/crave3/manifest.mpd
 
-#EXTINF:-1 tvg-id="Crave4.ca" tvg-name="Crave 4" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Crave4.png" group-title="World TV",Crave 4
+#EXTINF:-1 tvg-id="Crave4.ca2" tvg-name="Crave 4" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Crave4.png" group-title="World TV",Crave 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
