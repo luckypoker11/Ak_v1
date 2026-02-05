@@ -1627,7 +1627,7 @@ https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/ind
 #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
 https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
 
-#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_EAST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="World TV",Cinemax HD East
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_EAST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="World TV",Cinemax HD East
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
@@ -1787,7 +1787,7 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=b4ebbf11f2604527b77c9482dc35ea0a:40b7e96cdaed43d76d7cdbdfc4011dd9
 https://neacdnpop3-edge02.aws.playco.com/live/eds/FightBox/DASH/FightBox.mpd
 
-#EXTINF:-1  tvg-id="Action.MAX.HD.East.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/903490ef7b5effa45b2fdba457ac3bea95d9fb2fbc1ef8b62fee61317125a270._SL170_FMpng_.png" group-title="World TV",Action MAX HD East
+#EXTINF:-1  tvg-id="ActionMAX.HD.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/903490ef7b5effa45b2fdba457ac3bea95d9fb2fbc1ef8b62fee61317125a270._SL170_FMpng_.png" group-title="World TV",ActionMAX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
@@ -1799,7 +1799,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/995zvakyej/
 #KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
 
-#EXTINF:-1 tvg-id="5StarMax.us" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/185d71f2eac4aeacfb475655ef9625e382b26245d8e65ef994bc0efc520b8565._SL170_FMpng_.png" group-title="World TV",5Star MAX East
+#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/185d71f2eac4aeacfb475655ef9625e382b26245d8e65ef994bc0efc520b8565._SL170_FMpng_.png" group-title="World TV",5 StarMAX HD East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
@@ -1887,7 +1887,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6ns8qsqde/o
 #KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp",HBO 2
+#EXTINF:-1 tv-id="HBO2.HD.us2" group-title="World TV" tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp",HBO 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c73219e929389385aba7d52fc5fecdf:04aac082576d853b80734f5d8d4ebbbc
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0ixizzzeu/out/v1/058efc3c023b4424b4bff6c52cf7e81e/cenc.mpd
@@ -1917,7 +1917,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y7rqqxcdk4/o
 #KODIPROP:inputstream.adaptive.license_key=ea46cd84fc0fcaefc45b5d1d9b977db4:715a77d80b090e9f964e3616ca9e66d2
 https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ck8h9qqlfr/out/v1/34a373fb214d4e1590a3ab397b2d7af1/cenc.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-logo="https://i.imgur.com/abtANyj.png",AMC+
+#EXTINF:-1 tv-id="AMC+.us2" group-title="World TV" tvg-logo="https://i.imgur.com/abtANyj.png",AMC+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59a51164c2c915352f04066a06f6e807:eba5cc362d1d63c0fe6460febca0fd11
 https://ottb.live.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
