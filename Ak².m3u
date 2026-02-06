@@ -1,12 +1,12 @@
 #EXTM3U billed-msg="M3U PLAYLIST BY: Ak²/luckypoker11"
 
-#EXTM3U url-tvg="https://epghub.xyz/epg/EPG-GB-PH-US.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://epghub.xyz/epg/EPG-IN.xml.gz"
+#EXTM3U url-tvg="https://epghub.xyz/epg/EPG-GB-PH-US.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz, https://epghub.xyz/epg/EPG-CA-IN-MY.xml.gz"
 
 **********Astro**********
 
 #EXTINF:-1 group-logo="https://logos-world.net/wp-content/uploads/2022/05/Astro-Logo.png"
 
-#EXTINF:-1 tvg-id="CelestialClassicMovies.my" tvg-name="Celestial Classic Movies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSjq1zB72-FZckviz1e0mngQ-x21fr9wgTMLbII9rMQkRHxWvQC6E9nwuoYFFRS6453KkqB6PLRl6hR37Lyg5-qS0uAhtZ33FxWDXSVl08g6KHMMxVEfNXEwfykLiZn9PWelf3yz0Ns04/s640-rw/celestial+classic+movies.jpeg" group-title="Astro",Celestial Classic Movies
+#EXTINF:-1 tvg-id="id="Celestial.Classic.Movies.my"" tvg-name="Celestial Classic Movies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSjq1zB72-FZckviz1e0mngQ-x21fr9wgTMLbII9rMQkRHxWvQC6E9nwuoYFFRS6453KkqB6PLRl6hR37Lyg5-qS0uAhtZ33FxWDXSVl08g6KHMMxVEfNXEwfykLiZn9PWelf3yz0Ns04/s640-rw/celestial+classic+movies.jpeg" group-title="Astro",Celestial Classic Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -14,7 +14,7 @@
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Asian.Food.Network.HD.my" tvg-name="Asian Food Network [HD]" tvg-logo="https://www.kindpng.com/picc/m/469-4699767_asian-food-network-logo-hd-png-download.png" group-title="Astro",Asian Food Network [HD]
+#EXTINF:-1 tvg-id="Asian.Food.Network.HD.my" tvg-name="Asian Food Network HD" tvg-logo="https://www.kindpng.com/picc/m/469-4699767_asian-food-network-logo-hd-png-download.png" group-title="Astro",Asian Food Network HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -22,7 +22,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Discovery.Asia.HD.my" tvg-name="Discovery Asia [HD]" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Discovery_Asia_logo.png/revision/latest/scale-to-width-down/404?cb=20240607010458&path-prefix=vi" group-title="Astro",Discovery Asia [HD]
+#EXTINF:-1 tvg-id="Discovery.Asia.HD.my" tvg-name="Discovery Asia [HD]" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Discovery_Asia_logo.png/revision/latest/scale-to-width-down/404?cb=20240607010458&path-prefix=vi" group-title="Astro",Discovery Asia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -30,7 +30,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Celestial.Movies.HD.my" tvg-name="Celestial Movies [HD]" tvg-logo="https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg" group-title="Astro",Celestial Movies [HD]
+#EXTINF:-1 tvg-id="Celestial.Movies.HD.my" tvg-name="Celestial Movies [HD]" tvg-logo="https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg" group-title="Astro",Celestial Movies HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -38,7 +38,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.my" tvg-name="Cartoon Network [HD]" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Logo-2010-present.png" group-title="Astro",Cartoon Network [HD]
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.my" tvg-name="Cartoon Network HD" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Logo-2010-present.png" group-title="Astro",Cartoon Network HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -46,7 +46,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
-#EXTINF:-1 tvg-id="CINEMAX.HD.my" tvg-name="Cinemax [HD]" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="Astro",Cinemax [HD]
+#EXTINF:-1 tvg-id="CINEMAX.HD.my" tvg-name="Cinemax HD" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="Astro",Cinemax HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -54,7 +54,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
-#EXTINF:-1 tvg-id="History.HD.my" tvg-name="History [HD]" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/History-Channel-Logo.png" group-title="Astro",History [HD]
+#EXTINF:-1 tvg-id="History.HD.my" tvg-name="History HD" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/History-Channel-Logo.png" group-title="Astro",History HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -62,7 +62,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 
-#EXTINF:-1 tvg-id="HITS.HD.my" tvg-name="Hits [HD]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810" group-title="Astro",Hits [HD]
+#EXTINF:-1 tvg-id="HITS.HD.my" tvg-name="Hits HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810" group-title="Astro",Hits HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1708,7 +1708,7 @@ https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://webp.amirahtv.art/?img=%2Fuploads%2Fposters%2Fposter_anime-x-hidive.jpg" group-title="World TV",ANIME X HIDIVE
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/3BCg3pS.png",Movies Now HD
+#EXTINF:-1 tv-id="Movies.Now.HD.in" group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/3BCg3pS.png",Movies Now HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
@@ -1762,19 +1762,19 @@ https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile
 #EXTINF:-1 tvg-id="HiYAH.us@SD" tvg-logo="https://i.imgur.com/sOYAnTB.png" group-title="World TV",Hi-YAH!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/MNX.png/revision/latest?cb=20171207192500" group-title="World TV",MNX HD
+#EXTINF:-1 tv-id="MNX.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/MNX.png/revision/latest?cb=20171207192500" group-title="World TV",MNX
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/11/MN-HD-Logo-2.png" group-title="World TV",MN+ HD
+#EXTINF:-1 tv-id="MN+.HD.in" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/11/MN-HD-Logo-2.png" group-title="World TV",MN+ HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Romedy_Now_HD.png?width=300" group-title="World TV",Romedy Now
+#EXTINF:-1 tv-id="Romedy.Now.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Romedy_Now_HD.png?width=300" group-title="World TV",Romedy Now
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
