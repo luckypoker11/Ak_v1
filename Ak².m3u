@@ -526,27 +526,27 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapedge/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Cg.Hitsnow.ph" tvg-logo="https://i.imgur.com/CxqHKUO.png" group-title="Cignal",Hits
+#EXTINF:-1 tvg-id="Hits.Hd.ph" tvg-logo="https://i.imgur.com/CxqHKUO.png" group-title="Cignal",Hits Hd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="Ibc13.ph" tvg-logo="https://i.imgur.com/CTHhr3Q.png" group-title="Cignal",IBC 13
+#EXTINF:-1 tvg-id="Ibc13.ph" tvg-logo="https://i.imgur.com/CTHhr3Q.png" group-title="Cignal",Ibc13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ecd238c0394592b8d3559c06b1faf5:05b47ae3be1368912ebe28f87480fc84
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/ibc13_sd_new/default1/index.mpd
 
-#EXTINF:-1 tvg-id="KBS.WORLD.ph" tvg-logo="https://i.imgur.com/aFDRmtm.png" group-title="Cignal",KBS World
+#EXTINF:-1 tvg-id="Kbs.World.ph" tvg-logo="https://i.imgur.com/aFDRmtm.png" group-title="Cignal",Kbs World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd
 
-#EXTINF:-1 tvg-id="Oneph.ph" tvg-logo="https://i.imgur.com/U9QwJSE.png" group-title="Cignal",One PH
+#EXTINF:-1 tvg-id="Oneph.ph" tvg-logo="https://i.imgur.com/U9QwJSE.png" group-title="Cignal",Oneph
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Blueant.Extreme.ph" tvg-logo="https://i.imgur.com/T70dbrM.png" group-title="Cignal",Rock Action
+#EXTINF:-1 tvg-id="Blueant.Extreme.ph" tvg-logo="https://i.imgur.com/T70dbrM.png" group-title="Cignal",Blueant Extreme
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockextreme/default/index.mpd
@@ -731,7 +731,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/ind
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pbo_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Tapmovies.Hd.ph" tvg-logo="https://i.imgur.com/lVNcCFq.png" group-title="Cignal",Tap Movies
+#EXTINF:-1 tvg-id="Tapmovies.Hd.ph" tvg-logo="https://i.imgur.com/lVNcCFq.png" group-title="Cignal",Tapmovies Hd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
@@ -826,7 +826,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/defau
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="PREMIERSPORTS1.ph" tvg-logo="https://i.imgur.com/GTfUEnU.png" group-title="Cignal",Premier Sports
+#EXTINF:-1 tvg-id="Cg.Ps.Hd1.ph" tvg-logo="https://i.imgur.com/GTfUEnU.png" group-title="Cignal",Premier Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8b595299fdf41c1a3481fddeb0b55e4:cd2b4ad0eb286239a4a022e6ca5fd007
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd
