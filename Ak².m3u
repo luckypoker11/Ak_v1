@@ -1966,25 +1966,25 @@ https://live20.bozztv.com/giatvplayout7/giatv-210938/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tv-id="Sky.Sports.Football.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="World TV",Sky Sports Football HD
 http://178.33.239.54:8080/500a/index.m3u8
 
-#EXTINF:-1 tv-id="SkySp.News.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png" group-title="World TV",Sky Sports News HD
+#EXTINF:-1 tv-id="SkySp.News.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png" group-title="World TV",SkySp News HD
 http://178.33.239.54:8080/501a/index.m3u8
 
-#EXTINF:-1 tv-id="SkySpMainEvHD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="World TV",Sky Sports Main Event HD
+#EXTINF:-1 tv-id="SkySpMainEvHD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="World TV",SkySpMainEvHD
 http://178.33.239.54:8080/502b/index.m3u8
 
-#EXTINF:-1 tv-id="SkySp.Cricket.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="World TV",Sky Sports Cricket HD
+#EXTINF:-1 tv-id="SkySpCricket.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="World TV",SkySpCricket HD
 http://178.33.239.54:8080/503a/index.m3u8
 
 #EXTINF:-1 tv-id="Sky.Sports.NFL.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" group-title="World TV",Sky Sports NFL
 http://178.33.239.54:8080/504/index.m3u8
 
-#EXTINF:-1 tv-id="SkySp.PL.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" group-title="World TV",Sky Sports Premier League HD
+#EXTINF:-1 tv-id="SkySp.PL.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png" group-title="World TV",SkySp PL HD
 http://178.33.239.54:8080/506b/index.m3u8
 
-#EXTINF:-1 tv-id="SkySp.Mix.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png" group-title="World TV",Sky Sports Mix HD
+#EXTINF:-1 tv-id="SkySp.Mix.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png" group-title="World TV",SkySp Mix HD
 http://178.33.239.54:8080/507a/index.m3u8
 
-#EXTINF:-1 tv-id="SkySp.F1.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="World TV",Sky Sports F1 HD
+#EXTINF:-1 tv-id="SkySp.F1.HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="World TV",SkySp F1 HD
 http://178.33.239.54:8080/508a/index.m3u8
 
 #EXTINF:-1 tv-id="TNT.Sports.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="World TV",TNT Sports 1 HD
