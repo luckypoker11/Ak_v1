@@ -1,5 +1,0 @@
-#EXTM3U url-tvg="https://epghub.xyz/epg/EPG-RAKUTEN.xml.gz"
-
-#EXTINF:-1 tvg-id="UK:.River.Monsters.be" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1FEPARiy7ZXa5UlXKylXOKcs9-JiOY1CNg&s" group-title="Samsung TV Plus",UK: River Monsters
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
