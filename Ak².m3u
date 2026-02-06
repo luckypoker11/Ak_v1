@@ -1508,7 +1508,7 @@ https://jmp2.uk/stvp-USBB2300004KV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-USBA3000158L
 
-#EXTINF:-1 tvg-id="The LEGO Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20241210T013828SQUARE.png" group-title="Samsung TV Plus",The LEGO Channel
+#EXTINF:-1 tvg-id="USBA2300001S8"" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20241210T013828SQUARE.png" group-title="Samsung TV Plus",The LEGO Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-USBA2300001S8
 
@@ -1516,7 +1516,7 @@ https://jmp2.uk/stvp-USBA2300001S8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://jmp2.uk/stvp-US3800007CR
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BZijfKh.png" group-title="Samsung TV Plus",Billiard TV
+#EXTINF:-1 tv-id="USBD12000183X" tvg-logo="https://i.imgur.com/BZijfKh.png" group-title="Samsung TV Plus",Billiard TV
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814555/hls/billi.m3u8?includeAssetTags=true&ads.xumo_channelId=88814555a&ads.xumo_streamId=88814555&declaredCC1Language=en&ads.caid=BilliardTV&ads.csid=tcl2_us_triplebmediabilliard_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=2728&ads.xumo_contentName=BilliardTV&ads.xumo_providerId=2728&ads.xumo_providerName=TripleBMediaBilliard&ads.xumo_channelName=BilliardTV&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
 #EXTINF:-1 tvg-id="Mr. Bean" tvg-logo="https://ts3.mm.bing.net/th?id=OIP.uWqJUp2CjHm-NxzU4MMEJQHaF6&pid=15.1" group-title="Samsung TV Plus",Mr. Bean
@@ -1525,7 +1525,7 @@ https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="american ninja warrior" tvg-logo="https://ts4.mm.bing.net/th?id=OIP.ZpXCYrQLMuUkshyNLp4rYgHaHa&pid=15.1" group-title="Samsung TV Plus",American Ninja Warrior
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="Samsung TV Plus",Just For Laughs Gags
+#EXTINF:-1 tvg-id="USBC4400004KK" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="Samsung TV Plus",Just for Laughs: Gags
 https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Samsung TV Plus",Failarmy International
