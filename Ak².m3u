@@ -1902,17 +1902,17 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o6rq3swwr4/o
 #KODIPROP:inputstream.adaptive.license_key=0b74cf4e95c3dac51f8445d044d5fa11:abe32ddf4ab8e451b505354d55629785
 https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ijf9c1nj9l/out/v1/d8018bfb87ac4be1840dbc18b31f2fed/cenc.mpd
 
-#EXTINF:-1 tv-id="MGM+.Hits.HD.us2" group-title="World TV" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/01/mgm-hits.png",MGM+ Hits
+#EXTINF:-1 tv-id="MGM+.Hits.HD.us2" group-title="World TV" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/01/mgm-hits.png",MGM+ Hits HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=563740ab2942d108384539e507d268a3:fb51835b952fab5a9d5233c771da1d3d
 https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6twfogu6go/out/v1/fe3c6ff9c8d94b2187e2e87b4edacca8/cenc.mpd
 
-#EXTINF:-1 tv-id="MGM+.Marquee.HD.us2" group-title="World TV" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/01/mgm-plus-marquee.png",MGM+ Marquee
+#EXTINF:-1 tv-id="MGM+.Marquee.HD.us2" group-title="World TV" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/01/mgm-plus-marquee.png",MGM+ Marquee HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edec01accce094e2e105f76a8fac1a48:0c536390abb52439b4cac20bfe96daea
 https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y7rqqxcdk4/out/v1/fb99f1f5705d4f3194e9a234ef717bd5/cenc.mpd
 
-#EXTINF:-1 tv-id="MGM+.HD.us2" group-title="World TV" tvg-logo="https://play-lh.googleusercontent.com/rDzYxbfSRinWI-sBq_6jvWLhgAMUtIbKtO9jv7uRfUnmESWpJ_z3eDxCrI5pkSGAhs8J",MGM+
+#EXTINF:-1 tv-id="MGM+.HD.us2" group-title="World TV" tvg-logo="https://play-lh.googleusercontent.com/rDzYxbfSRinWI-sBq_6jvWLhgAMUtIbKtO9jv7uRfUnmESWpJ_z3eDxCrI5pkSGAhs8J",MGM+ HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea46cd84fc0fcaefc45b5d1d9b977db4:715a77d80b090e9f964e3616ca9e66d2
 https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ck8h9qqlfr/out/v1/34a373fb214d4e1590a3ab397b2d7af1/cenc.mpd
