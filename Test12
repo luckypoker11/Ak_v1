@@ -1,12 +1,10 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
 
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://data.phcorner.org/2025/10/12120987_shop_aniplus.png" group-title="World TV",HBO 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="logo" tvg-id="id", Channel Name
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/hisi_hbo_cinemax_2/playlist_cbcs.mpd
-
+https://budapest-cache-1.antik.sk/stream/fishing_and_hunting_hun/playlist_cbcs.mpd
 
 
 
