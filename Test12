@@ -1,10 +1,8 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="World TV",HBO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="World TV",HBO 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14b2526853865beda9922b3ee7877bb1:37b61183c6410fe4b58e11e644d549c6
-https://lineartv-cdn.t-mobile.pl/bpk-tv/hbo/default/index.mpd
-
+https://estreams.tv.nej.cz/dash/CH_HBO1_HD.ism/playlist.mpd
 
 
 
