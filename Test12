@@ -1,13 +1,10 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
 
-#EXTINF:-1 tvg-logo="logo" tvg-id="id", Channel Name
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="Local",Kapamilya Channel
+#EXTVLCOPT:http-referer=https://www.iwanttfc.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://budapest-cache-1.antik.sk/stream/fishing_and_hunting_hun/playlist_cbcs.mpd
-
-
-
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-dash.ezdrm.com/proxy?pX=C47792&CustomData=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkcm1fcHJvcGVydGllcyI6eyJMaWNlbnNlX0R1cmF0aW9uIjoiMCIsIlBsYXkiOiJUcnVlIn0sImV4cCI6MTc3MjY3MTI2MSwiaWF0IjoxNzcyNjcxMTQxLCJwbGF5YmFja19wcm9wZXJ0aWVzIjp7ImFwcFZlcnNpb24iOiIyNi4wMi4yNy0xIiwiYXBwVmVyc2lvbkNvZGUiOiIxIiwiYXNzZXRJZCI6IjMwNDI3ZGFhLTY3YjQtNGRhYi05NTVmLTJkOWRlZDI0MTRjNyIsImF1ZGlvIjoic3RlcmVvIiwiY291bnRyeSI6IlBIIiwiZGV2aWNlSWQiOiIxNTU3OTAxMzE2MjY2NzQ3MjEyIiwiZHJtIjoid3YiLCJoZHIiOiJoZHIxMCIsIm9mZmxpbmUiOiJmYWxzZSIsInBsYXRmb3JtIjoid2ViIiwicGxheWJhY2tTZXNzaW9uSWQiOiIzNjBhODc3Zi01MTQ0LTQ4ODItYmU5OC02ODg4YjI3NTE3ZTYiLCJyZXNvbHV0aW9uIjoiZmhkIiwic3RyZWFtVHlwZSI6ImRhc2giLCJzdWJQbGF0Zm9ybSI6ImVkZ2UiLCJ1c2VySWQiOiIiLCJ3aWxsU2hvd0FkcyI6ImZhbHNlIn19.3w6KQYjTf1ZBc9Co-o7ufnTYkjgcwCnBYUKlzXf4FGU&origin=iwant
+https://cdn-ue1-prod.tsv2.amagi.tv/beacon?rp=https%3A%2F%2Fcdn-ue1-prod.tsv2.amagi.tv%2Flinear%2Famg01006-abs-cbn-kapcha-dash-abscbnono%2F109f84a7-f237-47d4-9704-c9de387bb32a%2Findex.mpd
 
 
 
