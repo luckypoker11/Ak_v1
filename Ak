@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="World TV",HBO 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="World TV",HBO 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://estreams.tv.nej.cz/dash/CH_HBO1_HD.ism/playlist.mpd
+https://estreams.tv.nej.cz/dash/CH_HBO2_Portable.ism/playlist.mpd
