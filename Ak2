@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="World TV",HBO 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://estreams.tv.nej.cz/dash/CH_HBO2_Portable.ism/playlist.mpd
