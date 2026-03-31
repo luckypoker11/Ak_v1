@@ -1,8 +1,0 @@
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title=" Movies",Star Movies Select HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b55393cd147a54debaf2b0f2d82b5d9f:6b168db49241a78c1b423ab9a29409ef
-#EXTVLCOPT:http-user-agent=https://jiotvmblive.cdn.jio.com
-#EXTHTTP:{"cookie":"__hdnea__=st=1774350030~exp=1774436430~acl=/*~hmac=124eb48950202ba534a959bdffe1f24484dfb80780482fac66bdcb567ab399ca"}
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd?__hdnea__=st=1774350030~exp=1774436430~acl=/*~hmac=124eb48950202ba534a959bdffe1f24484dfb80780482fac66bdcb567ab399ca&xxx=%7Ccookie=__hdnea__=st=1774350030~exp=1774436430~acl=/*~hmac=124eb48950202ba534a959bdffe1f24484dfb80780482fac66bdcb567ab399ca
