@@ -1,28 +1,7 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz"
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://stmify.com/wp-content/uploads/2024/08/109-s.webp" group-title="World TV",Sony One Hits Accion
+#EXTINF:-1 tvg-id="1110" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5cbe56c3dfff8a93691213676f72b94:4e182d4a5aefad088e372dc6675aa084
-https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3mwjakeeav/out/v1/2bf938f6388641db942edbe9ac4042e1/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://stmify.com/wp-content/uploads/2024/08/48-s.webp" group-title="World TV",Sony One Shark Tank
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=389f95d8a9d666b885df3872450c0b8b:0371633c8f328383f6cef95c37f57e84
-https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xvkpuhekwh/out/v1/fc62186207f04a7fb30080364fdc2aa9/cenc.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_key=b55393cd147a54debaf2b0f2d82b5d9f:6b168db49241a78c1b423ab9a29409ef
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://jiotvioslive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd?#__hdnea__=st=1776286800~exp=1776308400~acl=/*~hmac=db732a599ac1b824bca936661e7c32262af36a4821d1a53f55b3b0f5393cfc12&xxx=%7Ccookie=__hdnea__=st=1776286800~exp=1776308400~acl=/*~hmac=db732a599ac1b824bca936661e7c32262af36a4821d1a53f55b3b0f5393cfc12
