@@ -2618,27 +2618,15 @@ http://41.205.93.154/BRAVO/index.m3u8
 http://41.205.93.154/WWE/index.m3u8
 
 $EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.HD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ryix5hzL.png" group-title="World TV",SONY SPORTS TEN 1 HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009276
 http://103.185.24.134:3001/SonyTenSports1/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY.SPORTS.TEN.2.HD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FSG6zC9Q.png" group-title="World TV",SONY SPORTS TEN 2 HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009277
 http://103.185.24.134:3001/SonyTenSports2/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY.SPORTS.TEN.3.HD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/N2uHRQdk.png" group-title="World TV",SONY SPORTS TEN 3 HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009278
 http://103.185.24.134:3001/SONY-SPORTS3/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY.SPORTS.TEN.5.HD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/uYDqxdc4.png" group-title="World TV",SONY SPORTS TEN 5 HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009275
 http://103.185.24.134:3001/SONY-SPORTS.5HD/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY.SPORTS.TEN.4.TAMIL.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/C2yPUjgd.png" group-title="World TV",SONY SPORTS TEN 4 TAMIL
