@@ -2617,25 +2617,39 @@ http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="World TV",WWE
 http://41.205.93.154/WWE/index.m3u8
 
-=EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.HD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ryix5hzL.png" group-title="World TV",SONY SPORTS TEN 1 HD
+$EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.HD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ryix5hzL.png" group-title="World TV",SONY SPORTS TEN 1 HD
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
 https://b4uplay.com/sliv/stream.m3u8?id=1000009276
+http://103.185.24.134:3001/SonyTenSports1/index.m3u8
 
-=EXTINF:-1 tvg-id="SONY.SPORTS.TEN.2.HD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FSG6zC9Q.png" group-title="World TV",SONY SPORTS TEN 2 HD
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.2.HD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FSG6zC9Q.png" group-title="World TV",SONY SPORTS TEN 2 HD
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
 https://b4uplay.com/sliv/stream.m3u8?id=1000009277
+http://103.185.24.134:3001/SonyTenSports2/index.m3u8
 
-=EXTINF:-1 tvg-id="SONY.SPORTS.TEN.3.HD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/N2uHRQdk.png" group-title="World TV",SONY SPORTS TEN 3 HD
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.3.HD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/N2uHRQdk.png" group-title="World TV",SONY SPORTS TEN 3 HD
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
 https://b4uplay.com/sliv/stream.m3u8?id=1000009278
+http://103.185.24.134:3001/SONY-SPORTS3/index.m3u8
 
-=EXTINF:-1 tvg-id="SONY.SPORTS.TEN.5.HD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/uYDqxdc4.png" group-title="World TV",SONY SPORTS TEN 5 HD
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.5.HD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/uYDqxdc4.png" group-title="World TV",SONY SPORTS TEN 5 HD
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
 https://b4uplay.com/sliv/stream.m3u8?id=1000009275
+http://103.185.24.134:3001/SONY-SPORTS.5HD/index.m3u8
+
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.4.TAMIL.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/C2yPUjgd.png" group-title="World TV",SONY SPORTS TEN 4 TAMIL
+http://103.185.24.134:3001/SONY-SPORTS4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fastsports.tv/wp-content/uploads/2024/06/cropped-fs_logo.png
+" group-title="World TV",FastSports HD
+http://103.185.24.134:3001/tapmad_combo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5G72qjx.png" group-title="World TV",Lotus Macau
+http://103.185.24.134:3001/Lotus-TV-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Amazon.US.TennisChannel2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Tennis_Channel_US._SL500_FMpng_.png" group-title="World TV",Tennis Channel
 https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischnlintl-lggb/cb543d1e796c678e99d43d66d9ef45a1f9661fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87ea341763a1d759f98ac7bc089655ce183503528b37b1e51ff0e14c0530a60dcef1510ca6ce0294b43aa4d6d536489bf51ab744fc1d40dd962288afbdc7c317f535e820b0ce4f20aa2aae50b46dc3ec38b2678b71f6fd79872cbe4761bb1ee3be31ccc2fad48cc8df595d3009ae1c83dfd08f5274976163dc8d037c3921d81d3943f6dc73130104a0ea6b185a41f69d6091315b8d8cebc6ef05c9cd974d13066eb51d8698d228f6da511e8b01bf0e3ebad372b5393cd556528b7f6e0dbab47549352bbf3b9932306dc9c735548d364d42e2a42e1dbc20681c51a8ef66ec58360133ccf8656d9fa9686fcbb99458c2fa89ead785cfeaa8ab46442eb91e600fe3f39ef1b7c88beb0f01f/99/1280x720_2657600/index.m3u8
@@ -2703,7 +2717,8 @@ http://cdn2.djdoolky76.com/blast/300024.m3u8
 #EXTINF:-1 tvg-id="and.Flix.HD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jcYmyEPo.png" group-title="World TV",and Flix HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="World TV",TSports HD
+http://103.185.24.134:3001/TSportsHD/index.m3u8
 
 
 
