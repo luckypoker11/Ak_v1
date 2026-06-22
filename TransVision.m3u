@@ -2428,9 +2428,7 @@ http://103.185.24.134:3001/STAR-MOVIES-SEL-HD/index.m3u8
 http://103.185.24.134:3001/NATGEO-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY.BBC.EARTH.HD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/xZd8Gwlc.png" group-title="World TV",SONY BBC EARTH HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009252
+http://103.185.24.134:3001/SONY-BBC/index.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY.TV18.HD.in" tvg-logo="https://images.open-epg.com/x649.png" group-title="World TV",HISTORY TV18 HD
 https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/master.m3u8
